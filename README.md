@@ -1,6 +1,4 @@
-# hCoV-19 Genomics
-
-### Consensus sequences
+#### Consensus sequences
 
 All consensus sequences and raw reads will be deposited under BioProject ID [PRJNA612578](https://www.ncbi.nlm.nih.gov/bioproject/612578).
 
@@ -8,7 +6,7 @@ All consensus sequences and raw reads will be deposited under BioProject ID [PRJ
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |PC00101P|MT192765|EPI\_ISL\_414648|2020-03-11|San Diego county|06073|99.7525|3516.14|
 
-### Raw read files
+#### Raw read files
 
 * Available on [Google cloud](https://console.cloud.google.com/storage/browser/andersen-lab_hcov-19-genomics).
 * Coming soon to SRA
