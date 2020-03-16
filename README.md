@@ -17,6 +17,6 @@ The sequencing is being performed using an amplicon-based sequencing scheme usin
 
 ---
 **Andersen Lab**  
-The Scripps Research Institute
+The Scripps Research Institute  
 La Jolla, CA, USA  
 [data@andersen-lab.com](mailto:data@andersen-lab.com)
