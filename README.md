@@ -4,9 +4,9 @@
 
 All consensus sequences and raw reads will be deposited under BioProject ID [PRJNA612578](https://www.ncbi.nlm.nih.gov/bioproject/612578).
 
-|ID|gb\_accession|gisaid\_accession|collection\_date|location|FIPS|coverage|avg\_depth|
+|ID|gb\_accession|gisaid\_accession|collection\_date|location|FIPS|percent_coverage|avg\_depth|
 |:--|:--|:--|:--|:--|:--|:--|:--|
-|PC00101P|MT192765|EPI\_ISL\_414648|2020-03-11|San Diego county|06073|PC00101P.trimmed.sorted.bam|99.7525|3516.14|
+|PC00101P|MT192765|EPI\_ISL\_414648|2020-03-11|San Diego county|06073|99.7525|3516.14|
 
 ### Raw read files
 
