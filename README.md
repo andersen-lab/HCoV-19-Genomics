@@ -13,6 +13,8 @@ All consensus sequences and raw reads will be deposited under BioProject ID [PRJ
 * Available on [Google cloud](https://console.cloud.google.com/storage/browser/andersen-lab_hcov-19-genomics).
 * Coming soon to SRA
 
+The sequencing is being performed using an amplicon-based sequencing scheme using [PrimalSeq](https://www.nature.com/articles/nprot.2017.066). Sequencing data is aligned using [bwa](https://github.com/lh3/bwa) for illumina and [minimap2](https://github.com/lh3/minimap2) for nanopore and processed using [iVar v1.1](https://github.com/andersen-lab/ivar) ([Grubaguh et al. Genome Biology 2019](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1618-7)).
+
 **Disclaimer**. Please note that this data is still based on work in progress and should be considered preliminary. If you intend to include any of these data in publications, please let us know – otherwise please feel free to download and use without restrictions. We have shared this data with the hope that people will download and use it, as well as scrutinize it so we can improve our methods and analyses. Please contact us if you have any questions or comments – we’ll buy beers for #ResearchParasites that spot flaws and faults in the data and come up with improvements!
 
 ---
