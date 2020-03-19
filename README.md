@@ -8,8 +8,10 @@ All consensus sequences and raw reads will be deposited under BioProject ID [PRJ
 
 #### Raw read files
 
-* Available on [Google cloud](https://console.cloud.google.com/storage/browser/andersen-lab_hcov-19-genomics).
-* Coming soon to SRA
+Raw read files for both Illumina and Oxford Nanopore data are available on, 
+
+* [Google cloud](https://console.cloud.google.com/storage/browser/andersen-lab_hcov-19-genomics).
+* SRA under BioProject ID: [PRJNA612578](https://www.ncbi.nlm.nih.gov/bioproject/612578).
 
 The sequencing is being performed using an amplicon-based sequencing scheme using [PrimalSeq](https://www.nature.com/articles/nprot.2017.066). Sequencing data is aligned using [bwa](https://github.com/lh3/bwa) for illumina and [minimap2](https://github.com/lh3/minimap2) for nanopore and processed using [iVar v1.1](https://github.com/andersen-lab/ivar) ([Grubaguh et al. Genome Biology 2019](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1618-7)).
 
