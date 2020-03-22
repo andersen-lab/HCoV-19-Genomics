@@ -1,4 +1,4 @@
 ID,gb_accession,gisaid_accession,collection_date,location,FIPS,coverage,avg_depth
 PC00101P,MT192765,EPI_ISL_414648,2020-03-11,San Diego county,06073,99.7525,3516.14
-MG0987,,,2020-03-18,San Diego county,06073,99.5954,2465.6
+MG0987,,EPI_ISL_416457,2020-03-18,San Diego county,06073,99.5954,2465.6
 

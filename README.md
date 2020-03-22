@@ -5,7 +5,7 @@ All consensus sequences and raw reads will be deposited under BioProject ID [PRJ
 |ID|gb\_accession|gisaid\_accession|collection\_date|location|FIPS|percent_coverage|avg\_depth|
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |PC00101P|MT192765|EPI\_ISL\_414648|2020-03-11|San Diego county|06073|99.7525|3516.14|
-|MG0987|||2020-03-18|San Diego county|06073|99.5954|2465.6|
+|MG0987||EPI\_ISL\_416457|2020-03-18|San Diego county|06073|99.5954|2465.6|
 
 #### Raw read files
 
