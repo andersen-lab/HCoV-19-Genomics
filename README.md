@@ -4,51 +4,86 @@ All consensus sequences and raw reads will be deposited under BioProject ID [PRJ
 
 |ID|gb\_accession|gisaid\_accession|collection\_date|location|percent\_coverage\_cds|avg\_depth|
 |:---|:---|:---|:---|:---|:---|:---|
-|PC00101P|MT192765|EPI\_ISL\_414648|2020-03-11|San Diego|99.7525|3516.14|
-|MG0987||EPI\_ISL\_416457|2020-03-18|San Diego|99.5954|2465.6|
-|SEARCH-0032-JOR||EPI\_ISL\_429992|2020-03-22|Jordan/Amman|99.77|60606.1|
-|SEARCH-0033-JOR||EPI\_ISL\_429993|2020-03-16|Jordan/Amman|100|44936.5|
-|SEARCH-0034-JOR||EPI\_ISL\_429994|2020-03-17|Jordan/Amman|100|35560.2|
-|SEARCH-0035-JOR||EPI\_ISL\_429995|2020-03-30|Jordan/Amman|99.3|48715.3|
-|SEARCH-0036-JOR||EPI\_ISL\_429996|2020-03-23|Jordan/Amman|100|32210.1|
-|SEARCH-0037-JOR||EPI\_ISL\_429997|2020-03-16|Jordan/Amman|100|52690.4|
-|SEARCH-0039-JOR||EPI\_ISL\_429998|2020-03-28|Jordan/Amman|100|64812.1|
-|SEARCH-0041-JOR||EPI\_ISL\_429999|2020-03-17|Jordan/Amman|100|38163|
-|SEARCH-0042-JOR||EPI\_ISL\_430000|2020-03-30|Jordan/Amman|100|54223.6|
-|SEARCH-0043-JOR||EPI\_ISL\_430001|2020-03-17|Jordan/Amman|100|40737.6|
-|SEARCH-0044-JOR||EPI\_ISL\_430002|2020-03-16|Jordan/Amman|100|53799.2|
-|SEARCH-0045-JOR||EPI\_ISL\_430003|2020-03-16|Jordan/Amman|100|79270.1|
-|SEARCH-0046-JOR||EPI\_ISL\_430004|2020-03-17|Jordan/Amman|100|58760.2|
-|SEARCH-0047-JOR||EPI\_ISL\_430005|2020-03-26|Jordan/Amman|100|73368.1|
-|SEARCH-0048-JOR||EPI\_ISL\_430006|2020-03-23|Jordan/Amman|100|42566|
-|SEARCH-0049-JOR||EPI\_ISL\_430007|2020-03-19|Jordan/Amman|100|47203.2|
-|SEARCH-0051-JOR||EPI\_ISL\_430008|2020-04-04|Jordan/Amman|97.98|55629.6|
-|SEARCH-0052-JOR||EPI\_ISL\_430009|2020-03-30|Jordan/Irbid|100|29390.3|
-|SEARCH-0053-JOR||EPI\_ISL\_430011|2020-03-19|Jordan/Amman|100|65439.2|
-|SEARCH-0054-JOR||EPI\_ISL\_430012|2020-03-30|Jordan/Irbid|99.99|67262.4|
-|SEARCH-0055-JOR||EPI\_ISL\_430013|2020-04-02|Jordan/Amman|96|67329.1|
-|SEARCH-0056-JOR||EPI\_ISL\_430014|2020-03-17|Jordan/Amman|100|40156.9|
-|SEARCH-0057-JOR||EPI\_ISL\_430015|2020-03-24|Jordan/Amman|100|33430.4|
-|SEARCH-0007-SAN||EPI\_ISL\_429990|2020-03-21|San Diego|100|6215.17|
-|SEARCH-0016-SAN||EPI\_ISL\_430016|2020-03-24|San Diego|100|6440.67|
-|SEARCH-0017-SAN||EPI\_ISL\_429991|2020-03-24|San Diego|100|4947.09|
-|SEARCH-0084-JOR|||2020-03-16|Jordan/Amman|100|34497.8|
-|SEARCH-0058-NBG|||2020-03-23|New Orleans|99.93|48802|
-|SEARCH-0059-NBG|||2020-03-23|New Orleans|99.62|42541.8|
-|SEARCH-0060-NBG|||2020-03-25|New Orleans|99.88|48703.2|
-|SEARCH-0063-NBG|||2020-03-31|New Orleans|97.49|31243.4|
-|SEARCH-0064-NBG|||2020-03-31|New Orleans|98.68|40169.9|
-|SEARCH-0065-NBG|||2020-03-31|New Orleans|98.57|51247.6|
-|SEARCH-0066-NBG|||2020-03-23|New Orleans|98.85|39911.6|
-|SEARCH-0067-NBG|||2020-03-25|New Orleans|97.68|42225.8|
-|SEARCH-0068-NBG|||2020-03-25|New Orleans|100|51571.6|
-|SEARCH-0070-NBG|||2020-03-26|New Orleans|99.92|49492.1|
-|SEARCH-0071-NBG|||2020-03-26|New Orleans|100|56119|
-|SEARCH-0072-NBG|||2020-03-26|New Orleans|98.18|16127.5|
-|SEARCH-0075-NBG|||2020-03-31|New Orleans|98.09|12742|
-|SEARCH-0076-NBG|||2020-03-31|New Orleans|99.99|14235.8|
-|SEARCH-0077-NBG|||2020-03-31|New Orleans|98.62|16180.4|
-|SEARCH-0078-NBG|||2020-03-31|New Orleans|96.58|11629.3|
+| PC00101P        | MT192765     | EPI_ISL_414648   |      2020-03-11 | California/San Diego  |              99.7525 |   3516.14 |
+| MG0987          |              | EPI_ISL_416457   |      2020-03-18 | California/San Diego  |              99.5954 |    2465.6 |
+| SEARCH-0032-JOR |              | EPI_ISL_429992   |      2020-03-22 | Jordan/Amman          |                99.77 |   60606.1 |
+| SEARCH-0033-JOR |              | EPI_ISL_429993   |      2020-03-16 | Jordan/Amman          |                  100 |   44936.5 |
+| SEARCH-0034-JOR |              | EPI_ISL_429994   |      2020-03-17 | Jordan/Amman          |                  100 |   35560.2 |
+| SEARCH-0035-JOR |              | EPI_ISL_429995   |      2020-03-30 | Jordan/Amman          |                 99.3 |   48715.3 |
+| SEARCH-0036-JOR |              | EPI_ISL_429996   |      2020-03-23 | Jordan/Amman          |                  100 |   32210.1 |
+| SEARCH-0037-JOR |              | EPI_ISL_429997   |      2020-03-16 | Jordan/Amman          |                  100 |   52690.4 |
+| SEARCH-0039-JOR |              | EPI_ISL_429998   |      2020-03-28 | Jordan/Amman          |                  100 |   64812.1 |
+| SEARCH-0041-JOR |              | EPI_ISL_429999   |      2020-03-17 | Jordan/Amman          |                  100 |     38163 |
+| SEARCH-0042-JOR |              | EPI_ISL_430000   |      2020-03-30 | Jordan/Amman          |                  100 |   54223.6 |
+| SEARCH-0043-JOR |              | EPI_ISL_430001   |      2020-03-17 | Jordan/Amman          |                  100 |   40737.6 |
+| SEARCH-0044-JOR |              | EPI_ISL_430002   |      2020-03-16 | Jordan/Amman          |                  100 |   53799.2 |
+| SEARCH-0045-JOR |              | EPI_ISL_430003   |      2020-03-16 | Jordan/Amman          |                  100 |   79270.1 |
+| SEARCH-0046-JOR |              | EPI_ISL_430004   |      2020-03-17 | Jordan/Amman          |                  100 |   58760.2 |
+| SEARCH-0047-JOR |              | EPI_ISL_430005   |      2020-03-26 | Jordan/Amman          |                  100 |   73368.1 |
+| SEARCH-0048-JOR |              | EPI_ISL_430006   |      2020-03-23 | Jordan/Amman          |                  100 |     42566 |
+| SEARCH-0049-JOR |              | EPI_ISL_430007   |      2020-03-19 | Jordan/Amman          |                  100 |   47203.2 |
+| SEARCH-0051-JOR |              | EPI_ISL_430008   |      2020-04-04 | Jordan/Amman          |                97.98 |   55629.6 |
+| SEARCH-0052-JOR |              | EPI_ISL_430009   |      2020-03-30 | Jordan/Irbid          |                  100 |   29390.3 |
+| SEARCH-0053-JOR |              | EPI_ISL_430011   |      2020-03-19 | Jordan/Amman          |                  100 |   65439.2 |
+| SEARCH-0054-JOR |              | EPI_ISL_430012   |      2020-03-30 | Jordan/Irbid          |                99.99 |   67262.4 |
+| SEARCH-0055-JOR |              | EPI_ISL_430013   |      2020-04-02 | Jordan/Amman          |                   96 |   67329.1 |
+| SEARCH-0056-JOR |              | EPI_ISL_430014   |      2020-03-17 | Jordan/Amman          |                  100 |   40156.9 |
+| SEARCH-0057-JOR |              | EPI_ISL_430015   |      2020-03-24 | Jordan/Amman          |                  100 |   33430.4 |
+| SEARCH-0007-SAN |              | EPI_ISL_429990   |      2020-03-21 | California/San Diego  |                  100 |   6215.17 |
+| SEARCH-0016-SAN |              | EPI_ISL_430016   |      2020-03-24 | California/San Diego  |                  100 |   6440.67 |
+| SEARCH-0017-SAN |              | EPI_ISL_429991   |      2020-03-24 | California/San Diego  |                  100 |   4947.09 |
+| SEARCH-0084-JOR |              | EPI_ISL_434516   |      2020-03-16 | Jordan/Amman          |                  100 |   34497.8 |
+| SEARCH-0058-NBG |              | EPI_ISL_434517   |      2020-03-23 | Louisiana/New Orleans |                99.93 |     48802 |
+| SEARCH-0059-NBG |              | EPI_ISL_434518   |      2020-03-23 | Louisiana/New Orleans |                99.62 |   42541.8 |
+| SEARCH-0060-NBG |              | EPI_ISL_434519   |      2020-03-25 | Louisiana/New Orleans |                99.88 |   48703.2 |
+| SEARCH-0063-NBG |              | EPI_ISL_434520   |      2020-03-31 | Louisiana/New Orleans |                97.49 |   31243.4 |
+| SEARCH-0064-NBG |              | EPI_ISL_434521   |      2020-03-31 | Louisiana/New Orleans |                98.68 |   40169.9 |
+| SEARCH-0065-NBG |              | EPI_ISL_434522   |      2020-03-31 | Louisiana/New Orleans |                98.57 |   51247.6 |
+| SEARCH-0066-NBG |              | EPI_ISL_434523   |      2020-03-23 | Louisiana/New Orleans |                98.85 |   39911.6 |
+| SEARCH-0067-NBG |              | EPI_ISL_434524   |      2020-03-25 | Louisiana/New Orleans |                97.68 |   42225.8 |
+| SEARCH-0068-NBG |              | EPI_ISL_434525   |      2020-03-25 | Louisiana/New Orleans |                  100 |   51571.6 |
+| SEARCH-0070-NBG |              | EPI_ISL_434526   |      2020-03-26 | Louisiana/New Orleans |                99.92 |   49492.1 |
+| SEARCH-0071-NBG |              | EPI_ISL_434527   |      2020-03-26 | Louisiana/New Orleans |                  100 |     56119 |
+| SEARCH-0072-NBG |              | EPI_ISL_434528   |      2020-03-26 | Louisiana/New Orleans |                98.18 |   16127.5 |
+| SEARCH-0075-NBG |              | EPI_ISL_434529   |      2020-03-31 | Louisiana/New Orleans |                98.09 |     12742 |
+| SEARCH-0076-NBG |              | EPI_ISL_434530   |      2020-03-31 | Louisiana/New Orleans |                99.99 |   14235.8 |
+| SEARCH-0077-NBG |              | EPI_ISL_434531   |      2020-03-31 | Louisiana/New Orleans |                98.62 |   16180.4 |
+| SEARCH-0078-NBG |              | EPI_ISL_434532   |      2020-03-31 | Louisiana/New Orleans |                96.58 |   11629.3 |
+| SEARCH-0140-NBG |              |                  |      2020-03-31 | Louisiana/New Orleans |              99.8629 |   29823.4 |
+| SEARCH-0141-NBG |              |                  |      2020-03-28 | Louisiana/New Orleans |              99.8763 |     33880 |
+| SEARCH-0142-NBG |              |                  |      2020-03-31 | Louisiana/New Orleans |              99.1539 |   24619.2 |
+| SEARCH-0143-NBG |              |                  |      2020-03-31 | Louisiana/New Orleans |              99.9967 |   26866.3 |
+| SEARCH-0144-NBG |              |                  |      2020-03-27 | Louisiana/New Orleans |              99.7826 |   27025.6 |
+| SEARCH-0145-NBG |              |                  |      2020-03-27 | Louisiana/New Orleans |              99.3412 |   28513.9 |
+| SEARCH-0146-NBG |              |                  |      2020-03-28 | Louisiana/New Orleans |              99.8896 |   25124.7 |
+| SEARCH-0147-NBG |              |                  |      2020-03-28 | Louisiana/New Orleans |               97.318 |    6482.5 |
+| SEARCH-0148-NBG |              |                  |      2020-03-27 | Louisiana/New Orleans |              99.8328 |   39073.7 |
+| SEARCH-0149-NBG |              |                  |      2020-03-27 | Louisiana/New Orleans |              99.2643 |   36989.5 |
+| SEARCH-0150-NBG |              |                  |      2020-03-30 | Louisiana/New Orleans |              99.9064 |   34851.3 |
+| SEARCH-0151-NBG |              |                  |      2020-04-02 | Louisiana/New Orleans |              99.6556 |   35071.1 |
+| SEARCH-0152-NBG |              |                  |      2020-04-02 | Louisiana/New Orleans |              99.7224 |   43843.4 |
+| SEARCH-0153-NBG |              |                  |      2020-04-02 | Louisiana/New Orleans |                  100 |   32822.2 |
+| SEARCH-0154-NBG |              |                  |      2020-04-02 | Louisiana/New Orleans |              99.1941 |   38529.5 |
+| SEARCH-0155-NBG |              |                  |      2020-04-02 | Louisiana/New Orleans |              99.6087 |   43929.4 |
+| SEARCH-0156-NBG |              |                  |      2020-04-02 | Louisiana/New Orleans |              99.9131 |   37748.2 |
+| SEARCH-0157-NBG |              |                  |      2020-04-02 | Louisiana/New Orleans |                  100 |     29978 |
+| SEARCH-0158-NBG |              |                  |      2020-04-03 | Louisiana/New Orleans |              99.7927 |   29316.2 |
+| SEARCH-0159-NBG |              |                  |      2020-04-02 | Louisiana/New Orleans |              99.9365 |   22963.4 |
+| SEARCH-0160-NBG |              |                  |      2020-03-28 | Louisiana/New Orleans |              99.1941 |   33929.5 |
+| SEARCH-0161-NBG |              |                  |      2020-03-28 | Louisiana/New Orleans |              99.8127 |   29007.9 |
+| SEARCH-0162-NBG |              |                  |      2020-03-31 | Louisiana/New Orleans |              99.9967 |   27489.1 |
+| SEARCH-0163-NBG |              |                  |      2020-03-28 | Louisiana/New Orleans |              99.7224 |   34097.7 |
+| SEARCH-0164-NBG |              |                  |      2020-03-31 | Louisiana/New Orleans |              99.9666 |   21113.9 |
+| SEARCH-0165-NBG |              |                  |      2020-04-08 | Louisiana/New Orleans |              99.5285 |   36843.4 |
+| SEARCH-0166-NBG |              |                  |      2020-04-03 | Louisiana/New Orleans |              99.9933 |   16906.7 |
+| SEARCH-0167-NBG |              |                  |      2020-04-03 | Louisiana/New Orleans |              99.5719 |   42428.5 |
+| SEARCH-0169-NBG |              |                  |      2020-04-04 | Louisiana/New Orleans |              99.9632 |   36197.9 |
+| SEARCH-0170-NBG |              |                  |      2020-04-03 | Louisiana/New Orleans |              99.9097 |   30106.6 |
+| SEARCH-0171-NBG |              |                  |      2020-04-04 | Louisiana/New Orleans |              99.7693 |   27959.1 |
+| SEARCH-0172-NBG |              |                  |      2020-04-02 | Louisiana/New Orleans |              98.3446 |   27314.4 |
+| SEARCH-0174-NBG |              |                  |      2020-04-04 | Louisiana/New Orleans |                  100 |   33764.4 |
+| SEARCH-0175-SAN |              |                  |      2020-04-28 | California/San Diego  |              99.8595 |   49100.5 |
+| SEARCH-0176-SAN |              |                  |      2020-04-29 | California/San Diego  |               99.786 |    291182 |
 
 #### Raw read files
 
