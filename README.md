@@ -8,8 +8,8 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | Asia / Jordan / Amman                        |                  21 |
 | Asia / Jordan / Irbid                        |                   2 |
 | Asia / Jordan / Amman                        |                   1 |
-| USA/California/San Diego                     |                  64 |
-| USA/Louisiana/New Orleans                    |                  58 |
+| USA/California/San Diego                     |                  98 |
+| USA/Louisiana/New Orleans                    |                  103 |
 
 #### Raw read files
 
