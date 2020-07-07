@@ -3,12 +3,13 @@
 All consensus sequences will be deposited on GISAID and on NCBI under BioProject ID [PRJNA612578](https://www.ncbi.nlm.nih.gov/bioproject/612578).
 [metadata.csv](./metadata.csv) contains collection dates, location, originating labs and sequencing metrics: coverage and average depth.
 
-| Location                                     | Number of sequences |
+| Location                                     | Number of sequences  |
 |:---- |:-----|
-| Asia / Jordan / Amman                        |                  26 |
-| Asia / Jordan / Irbid                        |                   2 |
-| USA/California/San Diego                     |                  187 |
-| USA/Louisiana/New Orleans                    |                  117 |
+| Asia / Jordan / Amman                        |                  26  |
+| Asia / Jordan / Irbid                        |                   2  |
+| USA/California/San Diego                     |                  450 |
+| USA/California/Imperial                      |                  121 |
+| USA/Louisiana/New Orleans                    |                  123 |
 
 #### Raw read files
 
