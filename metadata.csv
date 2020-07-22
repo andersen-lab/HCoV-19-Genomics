@@ -372,7 +372,7 @@ SEARCH-0516-SAN,,EPI_ISL_483195,2020-04-09,USA/California/San Diego,100,18356.9,
 SEARCH-0517-SAN,,EPI_ISL_483196,2020-04-01,USA/California/San Diego,98.9425,2716.12,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
 SEARCH-0518-SAN,,EPI_ISL_483197,2020-04-01,USA/California/San Diego,99.983,14013.2,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
 SEARCH-0519-IPL,,EPI_ISL_483198,2020-04-02,USA/California/Imperial,100,8362.01,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
-SEARCH-0520-SAN,,,NA,USA/California/San Diego,99.8606,4452.12,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
+SEARCH-0520-SAN,,,1900-01-00,USA/California/San Diego,99.8606,4452.12,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
 SEARCH-0521-IPL,,EPI_ISL_483199,2020-04-07,USA/California/Imperial,100,14522.2,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
 SEARCH-0522-SAN,,EPI_ISL_483200,2020-04-09,USA/California/San Diego,100,11596.9,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
 SEARCH-0524-SAN,,EPI_ISL_483201,2020-03-30,USA/California/San Diego,100,5630.55,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
@@ -437,7 +437,7 @@ SEARCH-0614-SAN,,EPI_ISL_483258,2020-04-04,USA/California/San Diego,100,6759.23,
 SEARCH-0615-SAN,,EPI_ISL_483259,2020-04-06,USA/California/San Diego,100,26630.4,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
 SEARCH-0616-SAN,,EPI_ISL_483260,2020-04-07,USA/California/San Diego,99.9898,24243,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
 SEARCH-0617-SAN,,EPI_ISL_483261,2020-04-06,USA/California/San Diego,100,24869.5,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
-SEARCH-0620-SAN,,,N/A,USA/California/San Diego,100,25935.5,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
+SEARCH-0620-SAN,,,1900-01-00,USA/California/San Diego,100,25935.5,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
 SEARCH-0621-IPL,,EPI_ISL_483262,2020-04-22,USA/California/Imperial,100,23495.9,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
 SEARCH-0623-IPL,,EPI_ISL_483263,2020-04-21,USA/California/Imperial,100,19961.9,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
 SEARCH-0624-IPL,,EPI_ISL_483264,2020-04-21,USA/California/Imperial,100,21601.4,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
@@ -645,7 +645,7 @@ SEARCH-1015-IPL,,EPI_ISL_483463,2020-04-20,USA/California/Imperial,100,7121.82,"
 SEARCH-1016-IPL,,EPI_ISL_483464,2020-04-23,USA/California/Imperial,100,2021.11,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
 SEARCH-1018-SAN,,EPI_ISL_483465,2020-04-19,USA/California/San Diego,100,6658.18,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
 SEARCH-1019-IPL,,EPI_ISL_483466,2020-04-21,USA/California/Imperial,100,11777.9,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
-SEARCH-1020-SAN,,,N/A,USA/California/San Diego,100,12743.4,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
+SEARCH-1020-SAN,,,1900-01-00,USA/California/San Diego,100,12743.4,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
 SEARCH-1021-IPL,,EPI_ISL_483467,2020-04-23,USA/California/Imperial,100,8956.08,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
 SEARCH-1022-SAN,,EPI_ISL_483468,2020-04-16,USA/California/San Diego,100,13795.4,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
 SEARCH-1023-SAN,,EPI_ISL_483469,2020-04-20,USA/California/San Diego,100,7230.01,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
@@ -865,3 +865,184 @@ SEARCH-1337-SAN,,,2020-05-04,USA/California/San Diego,100,15364.7,"SEARCH Allian
 SEARCH-1338-SAN,,,2020-04-30,USA/California/San Diego,97.0723,6883.6,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-1340-SAN,,,2020-04-30,USA/California/San Diego,100,12452.1,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-1343-SAN,,,2020-05-07,USA/California/San Diego,100,13044.5,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1360-SAN,,,2020-04-21,USA/California/San Diego,100,24755.6,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1362-SAN,,,2020-04-21,USA/California/San Diego,100,27543.4,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1379-SAN,,,2020-06-23,USA/California/San Diego,99.983,11371.7,SEARCH Alliance San Diego,Rady's Childrens Hospital
+SEARCH-1380-SAN,,,2020-03-12,USA/California/San Diego,100,15826.4,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1381-SAN,,,2020-03-31,USA/California/San Diego,100,11656.4,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1382-SAN,,,2020-03-12,USA/California/San Diego,100,12313,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1383-SAN,,,2020-03-12,USA/California/San Diego,99.0649,11774.4,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1384-SAN,,,2020-03-15,USA/California/San Diego,100,23005.4,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1385-SAN,,,2020-03-14,USA/California/San Diego,99.0649,9491.61,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1387-SAN,,,2020-05-08,USA/California/San Diego,100,21239.6,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1388-SAN,,,2020-05-08,USA/California/San Diego,100,13129.6,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1390-SAN,,,2020-05-07,USA/California/San Diego,100,12875,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1391-SAN,,,2020-05-07,USA/California/San Diego,100,11002.6,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1393-SAN,,,2020-05-07,USA/California/San Diego,100,12854.8,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1396-SAN,,,2020-05-05,USA/California/San Diego,96.4569,2704.94,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1397-SAN,,,2020-05-05,USA/California/San Diego,100,16444.4,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1398-SAN,,,2020-05-05,USA/California/San Diego,100,10420.4,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1407-SAN,,,2020-05-09,USA/California/San Diego,100,13819,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1410-SAN,,,2020-05-05,USA/California/San Diego,100,15109.5,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1411-SAN,,,2020-05-08,USA/California/San Diego,100,15416.9,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1413-SAN,,,2020-05-04,USA/California/San Diego,100,15720.5,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1415-SAN,,,2020-04-21,USA/California/San Diego,100,13249.5,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1416-SAN,,,2020-04-21,USA/California/San Diego,100,15254.3,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1418-SAN,,,2020-05-04,USA/California/San Diego,100,12037.2,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1419-SAN,,,2020-03-16,USA/California/San Diego,100,18659.8,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1422-SAN,,,2020-04-21,USA/California/San Diego,100,10113.1,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1425-SAN,,,2020-04-20,USA/California/San Diego,100,14542.2,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1426-SAN,,,2020-04-21,USA/California/San Diego,100,8389.22,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1428-SAN,,,2020-03-28,USA/California/San Diego,100,5367.95,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1430-SAN,,,2020-03-28,USA/California/San Diego,100,6575.42,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1432-SAN,,,2020-03-27,USA/California/San Diego,100,8161.29,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1433-SAN,,,2020-03-27,USA/California/San Diego,99.0411,7130.19,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1434-SAN,,,2020-03-28,USA/California/San Diego,98.9527,12784.7,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1435-SAN,,,2020-03-27,USA/California/San Diego,100,13991.1,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1436-SAN,,,2020-03-27,USA/California/San Diego,97.7626,5046.38,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1437-SAN,,,2020-03-27,USA/California/San Diego,100,10472.3,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1441-SAN,,,2020-03-28,USA/California/San Diego,100,8902.74,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1443-SAN,,,2020-03-28,USA/California/San Diego,100,7658.63,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1444-SAN,,,2020-03-28,USA/California/San Diego,100,10057.3,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1446-SAN,,,2020-03-28,USA/California/San Diego,100,9519.89,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1447-SAN,,,2020-03-27,USA/California/San Diego,99.5002,2922.47,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1448-SAN,,,2020-03-26,USA/California/San Diego,100,8046.41,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1449-SAN,,,2020-03-27,USA/California/San Diego,100,7366.64,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1451-SAN,,,2020-03-25,USA/California/San Diego,100,10759.9,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1452-SAN,,,2020-03-27,USA/California/San Diego,100,9845.44,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1453-SAN,,,2020-03-25,USA/California/San Diego,100,7395.36,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1454-SAN,,,2020-03-27,USA/California/San Diego,97.8238,3440.89,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1455-SAN,,,2020-03-27,USA/California/San Diego,99.0853,9859.97,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1456-SAN,,,2020-03-27,USA/California/San Diego,100,13615.2,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1460-SAN,,,2020-03-20,USA/California/San Diego,99.0785,10529.9,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1461-SAN,,,2020-03-23,USA/California/San Diego,100,9921.75,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1462-SAN,,,2020-03-20,USA/California/San Diego,100,12308.8,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1463-SAN,,,2020-03-20,USA/California/San Diego,100,8211.05,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1491-SAN,,,2020-04-21,USA/California/San Diego,100,19089.3,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1495-SAN,,,2020-04-30,USA/California/San Diego,100,26332.3,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1497-CS1,,,2020-04-01,USA/California/Cruise_Ship_1,100,16248.3,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1498-CS1,,,2020-04-01,USA/California/Cruise_Ship_1,100,19332,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1499-SAN,,,2020-03-14,USA/California/San Diego,100,25701.7,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1502-SAN,,,2020-04-20,USA/California/San Diego,100,14416.5,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1503-SAN,,,2020-04-20,USA/California/San Diego,100,17984.9,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1504-CS1,,,2020-04-02,USA/California/Cruise_Ship_1,100,7396.51,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1505-CS2,,,2020-04-17,USA/California/Cruise_Ship_2,100,11371.9,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1506-CS2,,,2020-04-02,USA/California/Cruise_Ship_2,100,17782.4,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1508-CS1,,,2020-04-02,USA/California/Cruise_Ship_1,100,21894.4,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1509-CS2,,,2020-04-02,USA/California/Cruise_Ship_2,97.0043,22354.1,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1510-CS2,,,2020-04-02,USA/California/Cruise_Ship_2,100,20220.7,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1511-SAN,,,2020-04-20,USA/California/San Diego,97.0383,16193.5,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1512-SAN,,,2020-04-21,USA/California/San Diego,100,26242.2,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1513-SAN,,,2020-05-12,USA/California/San Diego,100,16016.7,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1514-SAN,,,2020-05-11,USA/California/San Diego,100,16012.1,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1515-SAN,,,2020-05-13,USA/California/San Diego,98.2046,11529.7,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1516-SAN,,,2020-05-09,USA/California/San Diego,99.0513,16714.3,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1517-SAN,,,2020-05-04,USA/California/San Diego,100,9339,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1518-SAN,,,2020-05-13,USA/California/San Diego,95.2396,5096.37,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1522-SAN,,,2020-05-03,USA/California/San Diego,100,15808.3,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1525-SAN,,,2020-05-12,USA/California/San Diego,100,13402.6,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1526-SAN,,,2020-05-13,USA/California/San Diego,97.4294,22805.2,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1527-SAN,,,2020-05-11,USA/California/San Diego,99.9762,13828.8,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1530-SAN,,,2020-05-01,USA/California/San Diego,100,27528.6,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1531-SAN,,,2020-04-25,USA/California/San Diego,100,11271.7,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1533-SAN,,,2020-05-13,USA/California/San Diego,100,10926.7,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1534-SAN,,,2020-05-09,USA/California/San Diego,98.2386,15289.9,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1536-SAN,,,2020-05-04,USA/California/San Diego,100,12100.9,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1537-SAN,,,2020-05-11,USA/California/San Diego,100,8771.56,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1538-SAN,,,2020-05-01,USA/California/San Diego,100,14079.2,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1543-SAN,,,2020-05-11,USA/California/San Diego,99.983,12059.7,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1544-SAN,,,2020-05-06,USA/California/San Diego,98.2794,12361.5,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1545-SAN,,,2020-05-04,USA/California/San Diego,100,12731.1,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1546-SAN,,,2020-05-11,USA/California/San Diego,100,18754,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1549-SAN,,,2020-05-04,USA/California/San Diego,100,17915.6,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1550-SAN,,,2020-05-11,USA/California/San Diego,100,29990,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1551-SAN,,,2020-05-05,USA/California/San Diego,100,12280.8,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1556-SAN,,,2020-05-13,USA/California/San Diego,99.4832,9423.52,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1558-SAN,,,2020-05-12,USA/California/San Diego,100,28287.9,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1560-SAN,,,2020-05-11,USA/California/San Diego,99.0445,18553.3,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1566-SAN,,,2020-05-11,USA/California/San Diego,100,25521.4,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1567-SAN,,,2020-05-03,USA/California/San Diego,99.4049,18890.2,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1570-SAN,,,2020-04-30,USA/California/San Diego,100,25429.7,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1572-SAN,,,2020-04-03,USA/California/San Diego,99.8946,11353.4,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1573-SAN,,,2020-05-14,USA/California/San Diego,100,14491.2,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1574-SAN,,,2020-04-01,USA/California/San Diego,99.3811,25263,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1578-SAN,,,2020-04-03,USA/California/San Diego,100,20982.5,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1580-SAN,,,2020-05-03,USA/California/San Diego,100,13055.9,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1582-SAN,,,2020-05-03,USA/California/San Diego,95.3178,18668,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1583-SAN,,,2020-05-05,USA/California/San Diego,99.643,12610.7,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1584-SAN,,,2020-05-19,USA/California/San Diego,100,15004,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1585-SAN,,,2020-04-23,USA/California/San Diego,100,11955.8,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1586-SAN,,,2020-04-28,USA/California/San Diego,100,16600.8,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1587-SAN,,,2020-04-27,USA/California/San Diego,100,15697.1,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1588-SAN,,,2020-04-22,USA/California/San Diego,100,9058.84,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1589-SAN,,,2020-04-22,USA/California/San Diego,99.0411,4238.09,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1590-SAN,,,2020-04-23,USA/California/San Diego,100,18613.3,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1592-SAN,,,2020-04-25,USA/California/San Diego,98.9629,16652.4,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1593-SAN,,,2020-04-26,USA/California/San Diego,100,19793.3,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1595-SAN,,,2020-04-26,USA/California/San Diego,100,14477.5,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1596-SAN,,,2020-04-27,USA/California/San Diego,100,13126.7,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1597-SAN,,,2020-04-22,USA/California/San Diego,100,18964.2,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1603-SAN,,,2020-04-23,USA/California/San Diego,100,11747,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1610-SAN,,,2020-05-20,USA/California/San Diego,99.7688,5510.85,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1612-SAN,,,2020-05-20,USA/California/San Diego,99.2009,9235.2,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1614-SAN,,,2020-05-19,USA/California/San Diego,100,18642.7,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1615-SAN,,,2020-05-18,USA/California/San Diego,99.5478,5391.6,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1616-SAN,,,2020-04-28,USA/California/San Diego,100,15729.2,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1619-SAN,,,2020-04-27,USA/California/San Diego,100,14047.9,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1620-SAN,,,2020-04-23,USA/California/San Diego,100,13908.3,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1621-SAN,,,2020-04-23,USA/California/San Diego,100,24035.4,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1622-SAN,,,2020-05-19,USA/California/San Diego,100,6126.18,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1623-SAN,,,2020-05-18,USA/California/San Diego,100,20541.6,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1625-SAN,,,2020-04-22,USA/California/San Diego,100,35209.8,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1626-SAN,,,2020-04-26,USA/California/San Diego,100,13660.4,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1627-SAN,,,2020-04-28,USA/California/San Diego,100,8005.94,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1628-SAN,,,2020-04-24,USA/California/San Diego,100,5415.35,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1629-SAN,,,2020-04-25,USA/California/San Diego,100,22394.3,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1630-SAN,,,2020-04-24,USA/California/San Diego,100,9884.08,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1631-SAN,,,2020-04-27,USA/California/San Diego,100,15544.7,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1632-SAN,,,2020-04-27,USA/California/San Diego,100,30716,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1633-SAN,,,2020-05-18,USA/California/San Diego,99.5852,3489.63,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1634-SAN,,,2020-04-23,USA/California/San Diego,100,14903.1,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1636-SAN,,,2020-04-24,USA/California/San Diego,100,17006.2,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1638-SAN,,,2020-05-19,USA/California/San Diego,100,23108.9,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1640-SAN,,,2020-04-23,USA/California/San Diego,100,26289.5,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1641-SAN,,,2020-05-19,USA/California/San Diego,100,9338.2,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1643-SAN,,,2020-04-23,USA/California/San Diego,100,8304.13,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1645-SAN,,,2020-04-22,USA/California/San Diego,100,10807.1,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1646-SAN,,,2020-05-18,USA/California/San Diego,98.1978,6751.41,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1647-SAN,,,2020-04-27,USA/California/San Diego,100,15846.7,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1648-SAN,,,2020-04-26,USA/California/San Diego,98.0958,10740.3,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1649-SAN,,,2020-03-23,USA/California/San Diego,100,11177.7,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1650-SAN,,,2020-04-01,USA/California/San Diego,99.1295,9479.06,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1651-SAN,,,2020-03-25,USA/California/San Diego,100,5068.36,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1653-SAN,,,2020-04-01,USA/California/San Diego,100,14035.9,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1654-SAN,,,2020-03-24,USA/California/San Diego,100,11306.7,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1657-SAN,,,2020-04-01,USA/California/San Diego,100,15982.5,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1658-SAN,,,2020-04-01,USA/California/San Diego,100,16383.8,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1660-SAN,,,2020-03-20,USA/California/San Diego,100,9739.02,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1661-SAN,,,2020-04-02,USA/California/San Diego,100,30940.5,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1662-SAN,,,2020-03-25,USA/California/San Diego,100,12514.2,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1663-SAN,,,2020-04-02,USA/California/San Diego,100,16002.9,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1664-SAN,,,2020-04-01,USA/California/San Diego,100,15659.7,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1665-SAN,,,2020-04-02,USA/California/San Diego,100,24368,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1667-SAN,,,2020-03-24,USA/California/San Diego,100,15243.9,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1668-SAN,,,2020-03-24,USA/California/San Diego,100,17132.9,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1669-SAN,,,2020-03-20,USA/California/San Diego,100,28086.5,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1670-SAN,,,2020-04-02,USA/California/San Diego,100,8383.41,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1671-SAN,,,2020-04-02,USA/California/San Diego,100,16860.2,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1672-SAN,,,2020-03-24,USA/California/San Diego,100,17656.1,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1673-SAN,,,2020-03-19,USA/California/San Diego,100,16881.7,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1674-SAN,,,2020-03-20,USA/California/San Diego,100,8404.21,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1675-SAN,,,2020-03-24,USA/California/San Diego,100,12275.6,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1676-SAN,,,2020-04-01,USA/California/San Diego,100,8367.25,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1677-SAN,,,2020-04-02,USA/California/San Diego,100,31714.7,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1678-SAN,,,2020-04-03,USA/California/San Diego,95.2906,2361.1,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1679-SAN,,,2020-03-25,USA/California/San Diego,96.9363,3485.63,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1681-SAN,,,2020-04-01,USA/California/San Diego,100,11658.9,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1682-SAN,,,2020-03-25,USA/California/San Diego,100,10417,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1683-SAN,,,2020-04-02,USA/California/San Diego,100,5228.17,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1684-SAN,,,2020-04-01,USA/California/San Diego,100,51232.1,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1685-SAN,,,2020-03-25,USA/California/San Diego,100,14862.1,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1687-SAN,,,2020-03-25,USA/California/San Diego,100,18824.1,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1688-SAN,,,2020-04-20,USA/California/San Diego,100,5911.56,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1689-SAN,,,2020-04-20,USA/California/San Diego,100,6302.7,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
