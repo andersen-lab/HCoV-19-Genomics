@@ -7,11 +7,11 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 |:---- |:-----|
 | Asia / Jordan / Amman                        |                  26  |
 | Asia / Jordan / Irbid                        |                   2  |
-| USA/California/San Diego                     |                  561 |
+| USA/California/San Diego                     |                  723 |
 | USA/California/Imperial                      |                  122 |
 | USA/Louisiana/New Orleans                    |                  123 |
-| USA/California/Cruise_ship_1                 |                    4 |
-| USA/California/Cruise_ship_2                 |                   28 |
+| USA/California/Cruise_ship_1                 |                    8 |
+| USA/California/Cruise_ship_2                 |                   32 |
 
 #### Raw read files
 
