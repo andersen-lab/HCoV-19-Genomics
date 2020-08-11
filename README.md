@@ -5,7 +5,7 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 
 | Location                                     | Number of sequences  |
 |:---- |:-----|
-| USA/California/San Diego                     |                  723 |
+| USA/California/San Diego                     |                  843 |
 | USA/Louisiana/New Orleans                    |                  123 |
 | USA/California/Imperial                      |                  122 |
 | MEX/BajaCalifornia/Tijuana                   |                   39 |
