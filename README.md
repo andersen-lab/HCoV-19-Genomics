@@ -3,26 +3,24 @@
 All consensus sequences will be deposited on GISAID and on NCBI under BioProject ID [PRJNA612578](https://www.ncbi.nlm.nih.gov/bioproject/612578).
 [metadata.csv](./metadata.csv) contains collection dates, location, originating labs and sequencing metrics: coverage and average depth.
 
-
-
 | Location                                     | Number of sequences  |
 |:---- |:-----|
-| USA/California/San           | 1720 |
-| Jordan/Amman                 |  223 |
-| MEX/Baja                     |  152 |
-| USA/California/Imperial      |  125 |
-| USA/Louisiana/New            |  123 |
-| USA/California/Cruise_Ship_2 |   32 |
-| USA/California/Cruise_Ship_1 |    8 |
-| Jordan/Irbid                 |    6 |
-| USA/California/Riverside     |    2 |
-| USA/California/Los           |    2 |
-| MEX/Sonora/San               |    2 |
-| Jordan/Mafraq                |    2 |
-| location                     |    1 |
-| USA/California/Santa         |    1 |
-| USA/Arizona/Yuma             |    1 |
-| MEX/Baja                     |    1 |
+|Jordan/Amman                     |  223 |
+|Jordan/Irbid                     |    6 |
+|Jordan/Mafraq                    |    2 |
+|MEX/Baja California/Mexicali     |    1 |
+|MEX/Baja California/Tijuana      |  152 |
+|MEX/Sonora/San Luis Río Colorado |    2 |
+|USA/Arizona/Yuma                 |    1 |
+|USA/California/Cruise_Ship_1     |    8 |
+|USA/California/Cruise_Ship_2     |   32 |
+|USA/California/Imperial          |  125 |
+|USA/California/Los Angeles       |    2 |
+|USA/California/Riverside         |    2 |
+|USA/California/San Diego         | 1720 |
+|USA/California/Santa Barbara     |    1 |
+|USA/Louisiana/New Orleans        |  123 |
+
 #### Raw read files
 
 Raw read files for both Illumina and Oxford Nanopore data are available on,
