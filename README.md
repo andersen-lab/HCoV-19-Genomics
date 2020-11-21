@@ -17,7 +17,7 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 |USA/California/Imperial          |  125 |
 |USA/California/Los Angeles       |    2 |
 |USA/California/Riverside         |    2 |
-|USA/California/San Diego         | 1720 |
+|USA/California/San Diego         | 1962 |
 |USA/California/Santa Barbara     |    1 |
 |USA/Louisiana/New Orleans        |  123 |
 

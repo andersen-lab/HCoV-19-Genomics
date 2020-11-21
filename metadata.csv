@@ -370,7 +370,7 @@ SEARCH-0514-SAN,MT811211,EPI_ISL_483193,2020-03-31,USA/California/San Diego,100.
 SEARCH-0515-SAN,,EPI_ISL_483194,2020-03-04,USA/California/San Diego,100.0,7124.3,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
 SEARCH-0516-SAN,MT811212,EPI_ISL_483195,2020-04-09,USA/California/San Diego,100.0,18356.9,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
 SEARCH-0517-SAN,MT811213,EPI_ISL_483196,2020-04-01,USA/California/San Diego,98.9425,2716.12,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
-SEARCH-0518-SAN,MT811214,EPI_ISL_483197,2020-04-01,USA/California/San Diego,99.98299999999999,14013.2,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
+SEARCH-0518-SAN,MT811214,EPI_ISL_483197,2020-04-01,USA/California/San Diego,99.983,14013.2,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
 SEARCH-0519-IPL,MT811215,EPI_ISL_483198,2020-04-02,USA/California/Imperial,100.0,8362.01,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
 SEARCH-0520-SAN,,,1900-01-00,USA/California/San Diego,99.8606,4452.12,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
 SEARCH-0521-IPL,MT811216,EPI_ISL_483199,2020-04-07,USA/California/Imperial,100.0,14522.2,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
@@ -383,7 +383,7 @@ SEARCH-0531-SAN,MT811221,EPI_ISL_483205,2020-04-29,USA/California/San Diego,100.
 SEARCH-0532-SAN,MT811222,EPI_ISL_483206,2020-05-04,USA/California/San Diego,100.0,17684.8,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
 SEARCH-0534-IPL,MT811223,EPI_ISL_483207,2020-05-04,USA/California/Imperial,100.0,8494.41,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
 SEARCH-0535-SAN,MT811224,EPI_ISL_483208,2020-05-05,USA/California/San Diego,100.0,17896.1,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
-SEARCH-0536-SAN,MT811225,EPI_ISL_483209,2020-05-05,USA/California/San Diego,99.98299999999999,7151.99,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
+SEARCH-0536-SAN,MT811225,EPI_ISL_483209,2020-05-05,USA/California/San Diego,99.983,7151.99,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
 SEARCH-0538-SAN,MT811226,EPI_ISL_483210,2020-04-29,USA/California/San Diego,100.0,16332.9,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
 SEARCH-0539-IPL,MT811227,EPI_ISL_483211,2020-05-05,USA/California/Imperial,100.0,17016.6,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
 SEARCH-0541-SAN,MT811228,EPI_ISL_483212,2020-04-24,USA/California/San Diego,100.0,16368.6,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
@@ -448,7 +448,7 @@ SEARCH-0629-IPL,MT811281,EPI_ISL_483268,2020-04-23,USA/California/Imperial,100.0
 SEARCH-0630-IPL,MT811282,EPI_ISL_483269,2020-04-23,USA/California/Imperial,100.0,16809.6,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
 SEARCH-0631-IPL,MT811283,EPI_ISL_483270,2020-04-23,USA/California/Imperial,100.0,17536.0,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
 SEARCH-0634-SAN,MT811284,EPI_ISL_483271,2020-04-20,USA/California/San Diego,98.0346,3856.68,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
-SEARCH-0637-SAN,MT811285,EPI_ISL_483272,2020-04-27,USA/California/San Diego,99.98299999999999,18059.3,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
+SEARCH-0637-SAN,MT811285,EPI_ISL_483272,2020-04-27,USA/California/San Diego,99.983,18059.3,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
 SEARCH-0638-IPL,MT811286,EPI_ISL_483273,2020-04-22,USA/California/Imperial,100.0,10506.0,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
 SEARCH-0639-IPL,MT811287,EPI_ISL_483274,2020-04-27,USA/California/Imperial,99.66,6179.84,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
 SEARCH-0642-SAN,MT811288,EPI_ISL_483275,2020-04-23,USA/California/San Diego,100.0,21176.0,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
@@ -534,14 +534,14 @@ SEARCH-0782-SAN,MT811366,EPI_ISL_483354,2020-04-06,USA/California/San Diego,100.
 SEARCH-0783-SAN,MT811367,EPI_ISL_483355,2020-04-07,USA/California/San Diego,100.0,9233.59,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
 SEARCH-0786-IPL,MT811368,EPI_ISL_483356,2020-04-07,USA/California/Imperial,100.0,12324.8,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
 SEARCH-0787-SAN,MT811369,EPI_ISL_483357,2020-04-07,USA/California/San Diego,100.0,14630.1,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
-SEARCH-0788-SAN,MT811370,EPI_ISL_483358,2020-04-07,USA/California/San Diego,99.98299999999999,17382.5,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
+SEARCH-0788-SAN,MT811370,EPI_ISL_483358,2020-04-07,USA/California/San Diego,99.983,17382.5,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
 SEARCH-0789-SAN,MT811371,EPI_ISL_483359,2020-04-07,USA/California/San Diego,100.0,10200.5,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
 SEARCH-0790-SAN,MT811372,EPI_ISL_483360,2020-04-06,USA/California/San Diego,100.0,17969.2,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
 SEARCH-0792-SAN,MT811373,EPI_ISL_483361,2020-04-06,USA/California/San Diego,100.0,5012.41,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
 SEARCH-0794-SAN,MT811374,EPI_ISL_483362,2020-04-02,USA/California/San Diego,100.0,12100.5,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
 SEARCH-0795-SAN,MT811375,EPI_ISL_483363,2020-04-04,USA/California/San Diego,100.0,10946.5,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
 SEARCH-0797-SAN,MT811376,EPI_ISL_483364,2020-04-02,USA/California/San Diego,100.0,3409.58,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
-SEARCH-0798-SAN,MT811377,EPI_ISL_483365,2020-04-04,USA/California/San Diego,99.84700000000001,1526.63,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
+SEARCH-0798-SAN,MT811377,EPI_ISL_483365,2020-04-04,USA/California/San Diego,99.847,1526.63,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
 SEARCH-0799-SAN,MT811378,EPI_ISL_483366,2020-04-02,USA/California/San Diego,100.0,16779.3,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
 SEARCH-0800-SAN,MT811379,EPI_ISL_483367,2020-03-31,USA/California/San Diego,99.1125,8566.07,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
 SEARCH-0801-SAN,MT811380,EPI_ISL_483368,2020-03-31,USA/California/San Diego,100.0,13382.9,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
@@ -596,7 +596,7 @@ SEARCH-0921-IPL,MT811421,EPI_ISL_483414,2020-04-29,USA/California/Imperial,100.0
 SEARCH-0923-IPL,MT811422,EPI_ISL_483415,2020-05-03,USA/California/Imperial,100.0,6047.67,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
 SEARCH-0925-IPL,MT811423,EPI_ISL_483416,2020-05-03,USA/California/Imperial,100.0,3987.49,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
 SEARCH-0926-IPL,MT811424,EPI_ISL_483417,2020-04-27,USA/California/Imperial,100.0,6862.69,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
-SEARCH-0928-SAN,MT811425,EPI_ISL_483418,2020-04-27,USA/California/San Diego,99.98299999999999,5928.42,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
+SEARCH-0928-SAN,MT811425,EPI_ISL_483418,2020-04-27,USA/California/San Diego,99.983,5928.42,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
 SEARCH-0930-IPL,MT811426,EPI_ISL_483419,2020-05-01,USA/California/Imperial,100.0,5736.48,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
 SEARCH-0931-IPL,MT811427,EPI_ISL_483420,2020-04-28,USA/California/Imperial,100.0,1939.89,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
 SEARCH-0932-IPL,MT811428,EPI_ISL_483421,2020-04-28,USA/California/Imperial,100.0,3750.9,"SEARCH Alliance San Diego with David Pride, Ji H Shin",UC San Diego Center for Advanced Laboratory Medicine
@@ -778,7 +778,7 @@ SEARCH-1189-SAN,MT810652,EPI_ISL_494425,2020-04-27,USA/California/San Diego,100.
 SEARCH-1190-SAN,MT810653,EPI_ISL_494426,2020-04-28,USA/California/San Diego,99.9592,21241.5,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-1191-CS2,MT810654,EPI_ISL_494427,2020-04-02,USA/California/Cruise_Ship_2,100.0,19380.5,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-1192-SAN,MT810655,EPI_ISL_494428,2020-04-28,USA/California/San Diego,100.0,19232.7,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
-SEARCH-1193-SAN,MT810656,EPI_ISL_494429,2020-04-28,USA/California/San Diego,97.95299999999999,9934.49,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1193-SAN,MT810656,EPI_ISL_494429,2020-04-28,USA/California/San Diego,97.953,9934.49,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-1196-SAN,MT810657,EPI_ISL_494430,2020-04-24,USA/California/San Diego,100.0,15483.1,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-1197-SAN,MT810658,EPI_ISL_494431,2020-04-24,USA/California/San Diego,100.0,15650.9,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-1200-SAN,MT810659,EPI_ISL_494432,2020-04-24,USA/California/San Diego,100.0,16440.9,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
@@ -828,7 +828,7 @@ SEARCH-1277-SAN,MT810702,EPI_ISL_494475,2020-04-30,USA/California/San Diego,100.
 SEARCH-1279-SAN,MT810703,EPI_ISL_494476,2020-04-30,USA/California/San Diego,100.0,16893.0,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-1280-SAN,MT810704,EPI_ISL_494477,2020-04-30,USA/California/San Diego,100.0,18812.3,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-1282-SAN,MT810705,EPI_ISL_494478,2020-05-01,USA/California/San Diego,100.0,13719.3,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
-SEARCH-1283-SAN,MT810706,EPI_ISL_494479,2020-05-06,USA/California/San Diego,99.55799999999999,13653.1,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1283-SAN,MT810706,EPI_ISL_494479,2020-05-06,USA/California/San Diego,99.558,13653.1,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-1287-SAN,MT810707,EPI_ISL_494480,2020-05-01,USA/California/San Diego,100.0,14686.7,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-1288-SAN,MT810708,EPI_ISL_494481,2020-05-01,USA/California/San Diego,100.0,15528.0,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-1289-IPL,MT810709,EPI_ISL_494482,2020-05-01,USA/California/Imperial,100.0,16120.7,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
@@ -856,7 +856,7 @@ SEARCH-1340-SAN,MT810730,EPI_ISL_494502,2020-04-30,USA/California/San Diego,100.
 SEARCH-1343-SAN,MT810731,EPI_ISL_494503,2020-05-07,USA/California/San Diego,100.0,13044.5,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-1360-SAN,MT810477,EPI_ISL_494568,2020-04-21,USA/California/San Diego,100.0,24755.6,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-1362-SAN,MT810478,EPI_ISL_494569,2020-04-21,USA/California/San Diego,100.0,27543.4,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
-SEARCH-1379-SAN,,EPI_ISL_494570,2020-06-23,USA/California/San Diego,99.98299999999999,11371.7,SEARCH Alliance San Diego,Rady's Childrens Hospital
+SEARCH-1379-SAN,,EPI_ISL_494570,2020-06-23,USA/California/San Diego,99.983,11371.7,SEARCH Alliance San Diego,Rady's Childrens Hospital
 SEARCH-1380-SAN,MT810479,EPI_ISL_494571,2020-03-12,USA/California/San Diego,100.0,15826.4,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-1381-SAN,MT810480,EPI_ISL_494572,2020-03-31,USA/California/San Diego,100.0,11656.4,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-1382-SAN,MT810481,EPI_ISL_494573,2020-03-12,USA/California/San Diego,100.0,12313.0,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
@@ -952,7 +952,7 @@ SEARCH-1534-SAN,MT810849,EPI_ISL_494648,2020-05-09,USA/California/San Diego,98.2
 SEARCH-1536-SAN,MT810850,EPI_ISL_494649,2020-05-04,USA/California/San Diego,100.0,12100.9,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
 SEARCH-1537-SAN,MT810851,EPI_ISL_494650,2020-05-11,USA/California/San Diego,100.0,8771.56,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
 SEARCH-1538-SAN,MT810852,EPI_ISL_494651,2020-05-01,USA/California/San Diego,100.0,14079.2,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
-SEARCH-1543-SAN,MT810853,EPI_ISL_494652,2020-05-11,USA/California/San Diego,99.98299999999999,12059.7,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1543-SAN,MT810853,EPI_ISL_494652,2020-05-11,USA/California/San Diego,99.983,12059.7,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
 SEARCH-1544-SAN,MT810854,EPI_ISL_494653,2020-05-06,USA/California/San Diego,98.2794,12361.5,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
 SEARCH-1545-SAN,MT810855,EPI_ISL_494654,2020-05-04,USA/California/San Diego,100.0,12731.1,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
 SEARCH-1546-SAN,MT810856,EPI_ISL_494655,2020-05-11,USA/California/San Diego,100.0,18754.0,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
@@ -971,7 +971,7 @@ SEARCH-1574-SAN,MT810868,EPI_ISL_494667,2020-04-01,USA/California/San Diego,99.3
 SEARCH-1578-SAN,MT810869,EPI_ISL_494668,2020-04-03,USA/California/San Diego,100.0,20982.5,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
 SEARCH-1580-SAN,MT810870,EPI_ISL_494669,2020-05-03,USA/California/San Diego,100.0,13055.9,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
 SEARCH-1582-SAN,MT810871,EPI_ISL_494670,2020-05-03,USA/California/San Diego,95.3178,18668.0,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
-SEARCH-1583-SAN,MT810872,EPI_ISL_494671,2020-05-05,USA/California/San Diego,99.64299999999999,12610.7,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
+SEARCH-1583-SAN,MT810872,EPI_ISL_494671,2020-05-05,USA/California/San Diego,99.643,12610.7,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
 SEARCH-1584-SAN,MT810873,EPI_ISL_494672,2020-05-19,USA/California/San Diego,100.0,15004.0,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
 SEARCH-1585-SAN,MT810874,EPI_ISL_494673,2020-04-23,USA/California/San Diego,100.0,11955.8,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
 SEARCH-1586-SAN,MT810875,EPI_ISL_494674,2020-04-28,USA/California/San Diego,100.0,16600.8,"SEARCH Alliance San Diego with Michael Quigley, Ellen Stefanski, Ian Mchardy",Scripps Medical Laboratory
@@ -1074,7 +1074,7 @@ SEARCH-1712-TIJ,MT810786,EPI_ISL_496373,2020-03-25,MEX/Baja California/Tijuana,1
 SEARCH-1713-TIJ,MT810787,EPI_ISL_496374,2020-04-29,MEX/Baja California/Tijuana,100.0,9874.1,"SEARCH Alliance San Diego with Samuel Navarro Alvarez, Carlos A. Cota Haros, Octavio Renteria Pacheco",Infectolab
 SEARCH-1714-TIJ,MT810788,EPI_ISL_496375,2020-04-29,MEX/Baja California/Tijuana,100.0,13598.3,"SEARCH Alliance San Diego with Samuel Navarro Alvarez, Carlos A. Cota Haros, Octavio Renteria Pacheco",Infectolab
 SEARCH-1715-TIJ,MT810789,EPI_ISL_496376,2020-04-29,MEX/Baja California/Tijuana,100.0,11238.0,"SEARCH Alliance San Diego with Samuel Navarro Alvarez, Carlos A. Cota Haros, Octavio Renteria Pacheco",Infectolab
-SEARCH-1734-SAN,,,2020-05-21,USA/California/San Diego,99.96600000000001,5172.29,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1734-SAN,,,2020-05-21,USA/California/San Diego,99.966,5172.29,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-1735-SAN,,EPI_ISL_512158,2020-05-18,USA/California/San Diego,100.0,5418.92,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-1736-SAN,,EPI_ISL_512159,2020-05-21,USA/California/San Diego,99.0819,2933.83,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-1739-SAN,,EPI_ISL_512160,2020-05-21,USA/California/San Diego,100.0,10148.0,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
@@ -1104,7 +1104,7 @@ SEARCH-1785-SAN,,EPI_ISL_512183,2020-05-12,USA/California/San Diego,100.0,13834.
 SEARCH-1786-SAN,,EPI_ISL_512184,2020-05-05,USA/California/San Diego,100.0,2739.49,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-1788-SAN,,EPI_ISL_512185,2020-05-12,USA/California/San Diego,100.0,3821.75,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-1789-SAN,,EPI_ISL_512186,2020-05-11,USA/California/San Diego,100.0,17783.5,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
-SEARCH-1791-SAN,,EPI_ISL_512187,2020-05-13,USA/California/San Diego,99.7994,919.1030000000001,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1791-SAN,,EPI_ISL_512187,2020-05-13,USA/California/San Diego,99.7994,919.103,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-1792-SAN,,,2020-05-18,USA/California/San Diego,99.9626,8125.51,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-1793-SAN,,EPI_ISL_512188,2020-05-18,USA/California/San Diego,100.0,9739.48,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-1795-SAN,,EPI_ISL_512189,2020-05-12,USA/California/San Diego,100.0,7294.36,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
@@ -1171,7 +1171,7 @@ SEARCH-1941-SAN,,EPI_ISL_512247,2020-06-25,USA/California/San Diego,99.8844,5691
 SEARCH-1943-SAN,,EPI_ISL_512248,2020-07-08,USA/California/San Diego,100.0,5276.8,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-1944-SAN,,EPI_ISL_512249,2020-07-08,USA/California/San Diego,99.0071,11373.3,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-1945-SAN,,EPI_ISL_512250,2020-07-08,USA/California/San Diego,100.0,2071.24,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
-SEARCH-1946-SAN,,EPI_ISL_512251,2020-07-08,USA/California/San Diego,99.86399999999999,1446.36,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1946-SAN,,EPI_ISL_512251,2020-07-08,USA/California/San Diego,99.864,1446.36,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-1947-SAN,,EPI_ISL_512252,2020-07-09,USA/California/San Diego,100.0,5655.5,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-1948-SAN,,EPI_ISL_512253,2020-06-26,USA/California/San Diego,99.7892,4758.76,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-1949-SAN,,EPI_ISL_512254,2020-06-26,USA/California/San Diego,100.0,7992.75,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
@@ -1183,7 +1183,7 @@ SEARCH-1954-SAN,,EPI_ISL_512259,2020-06-25,USA/California/San Diego,99.2281,3338
 SEARCH-1955-SAN,,EPI_ISL_512260,2020-06-26,USA/California/San Diego,100.0,7767.87,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-1957-SAN,,EPI_ISL_512261,2020-06-26,USA/California/San Diego,100.0,1962.51,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-1959-SAN,,EPI_ISL_512262,2020-06-26,USA/California/San Diego,99.9966,15386.7,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
-SEARCH-1960-SAN,,EPI_ISL_512263,2020-06-25,USA/California/San Diego,97.40899999999999,1984.56,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-1960-SAN,,EPI_ISL_512263,2020-06-25,USA/California/San Diego,97.409,1984.56,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-1961-SAN,,EPI_ISL_512264,2020-06-26,USA/California/San Diego,100.0,6353.82,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-1962-SAN,,EPI_ISL_512265,2020-06-26,USA/California/San Diego,100.0,3611.27,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-1963-SAN,,EPI_ISL_512266,2020-06-25,USA/California/San Diego,100.0,19135.9,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
@@ -1251,11 +1251,11 @@ SEARCH-2115-SAN,,,2020-05-22,USA/California/San Diego,100.0,6540.57,"SEARCH Alli
 SEARCH-2116-SAN,,,2020-06-01,USA/California/San Diego,99.4968,8917.87,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-2117-SAN,,,2020-05-23,USA/California/San Diego,99.7076,10238.8,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-2118-SAN,,,2020-05-21,USA/California/San Diego,100.0,16576.9,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
-SEARCH-2121-SAN,,,2020-05-29,USA/California/San Diego,99.55799999999999,10206.4,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-2121-SAN,,,2020-05-29,USA/California/San Diego,99.558,10206.4,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-2127-SAN,,,2020-05-21,USA/California/San Diego,99.7212,10081.1,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-2128-SAN,,,2020-05-27,USA/California/San Diego,99.8164,12284.3,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-2129-SAN,,,2020-05-21,USA/California/San Diego,100.0,11795.9,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
-SEARCH-2132-SAN,,,2020-05-22,USA/California/San Diego,99.64299999999999,9348.25,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-2132-SAN,,,2020-05-22,USA/California/San Diego,99.643,9348.25,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-2133-SAN,,,2020-05-27,USA/California/San Diego,100.0,6621.21,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-2150-SAN,,,2020-06-08,USA/California/San Diego,98.7249,17131.6,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-2158-SAN,,,2020-06-01,USA/California/San Diego,100.0,11792.2,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
@@ -1498,7 +1498,7 @@ SEARCH-2576-TIJ,,,2020-07-24,MEX/Baja California/Tijuana,100.0,10802.3,"SEARCH A
 SEARCH-2597-SAN,,,2020-07-09,USA/California/San Diego,100.0,5213.6,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-2598-SAN,,,2020-07-09,USA/California/San Diego,100.0,7980.74,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-2599-SAN,,,2020-07-09,USA/California/San Diego,100.0,7344.72,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
-SEARCH-2600-SAN,,,2020-07-11,USA/California/San Diego,99.84700000000001,5068.23,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-2600-SAN,,,2020-07-11,USA/California/San Diego,99.847,5068.23,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-2601-SAN,,,2020-07-09,USA/California/San Diego,99.0037,7035.55,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-2603-SAN,,,2020-07-11,USA/California/San Diego,100.0,11839.0,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-2605-SAN,,,2020-07-11,USA/California/San Diego,100.0,5600.5,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
@@ -1560,7 +1560,7 @@ SEARCH-2698-SAN,,,2020-07-15,USA/California/San Diego,100.0,9655.52,"SEARCH Alli
 SEARCH-2703-SAN,,,2020-07-14,USA/California/San Diego,100.0,6926.71,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-2707-SAN,,,2020-07-15,USA/California/San Diego,100.0,9770.29,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-2711-SAN,,,2020-07-14,USA/California/San Diego,100.0,8801.97,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
-SEARCH-2712-SAN,,,2020-07-14,USA/California/San Diego,97.9054,109.42200000000001,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-2712-SAN,,,2020-07-14,USA/California/San Diego,97.9054,109.422,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-2714-SAN,,,2020-07-22,USA/California/San Diego,100.0,7294.84,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-2716-SAN,,,2020-07-15,USA/California/San Diego,100.0,6508.74,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-2722-SAN,,,2020-07-14,USA/California/San Diego,100.0,3367.46,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
@@ -1606,7 +1606,7 @@ SEARCH-2800-SAN,,,2020-07-24,USA/California/San Diego,100.0,4078.23,"SEARCH Alli
 SEARCH-2801-SAN,,,2020-07-23,USA/California/San Diego,100.0,7710.82,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-2802-SAN,,,2020-07-24,USA/California/San Diego,99.9388,10245.0,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-2803-SAN,,,2020-07-22,USA/California/San Diego,100.0,9253.19,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
-SEARCH-2805-SAN,,,2020-07-24,USA/California/San Diego,99.96600000000001,6929.93,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-2805-SAN,,,2020-07-24,USA/California/San Diego,99.966,6929.93,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-2806-SAN,,,2020-07-28,USA/California/San Diego,100.0,12238.8,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-2808-SAN,,,2020-07-22,USA/California/San Diego,100.0,13099.5,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-2809-SAN,,,2020-07-21,USA/California/San Diego,99.3981,10702.3,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
@@ -1634,10 +1634,10 @@ SEARCH-2849-SAN,,,2020-07-28,USA/California/San Diego,100.0,19079.0,"SEARCH Alli
 SEARCH-2850-SAN,,,2020-07-23,USA/California/San Diego,99.9354,20903.3,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-2854-SAN,,,2020-07-29,USA/California/San Diego,100.0,9124.1,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-2855-SAN,,,2020-08-05,USA/California/San Diego,100.0,12849.6,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
-SEARCH-2856-SAN,,,2020-07-24,USA/California/San Diego,99.96600000000001,14199.3,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-2856-SAN,,,2020-07-24,USA/California/San Diego,99.966,14199.3,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-2857-SAN,,,2020-08-05,USA/California/San Diego,99.9558,20864.5,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-2863-SAN,,,2020-07-28,USA/California/San Diego,97.2253,19346.2,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
-SEARCH-2867-SAN,,,2020-08-06,USA/California/San Diego,99.96600000000001,9735.4,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-2867-SAN,,,2020-08-06,USA/California/San Diego,99.966,9735.4,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-2872-SAN,,,2020-08-05,USA/California/San Diego,99.8334,13801.6,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-2874-SAN,,,2020-08-03,USA/California/San Diego,100.0,18981.3,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-2875-SAN,,,2020-08-04,USA/California/San Diego,100.0,11610.8,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
@@ -1660,7 +1660,7 @@ SEARCH-2927-SAN,,,2020-07-21,USA/California/San Diego,100.0,14149.0,"SEARCH Alli
 SEARCH-2928-SAN,,,2020-08-03,USA/California/San Diego,98.4257,8518.87,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-2929-SAN,,,2020-07-17,USA/California/San Diego,100.0,9533.74,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-2932-SAN,,,2020-06-09,USA/California/San Diego,100.0,20593.9,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
-SEARCH-2935-SAN,,,2020-07-20,USA/California/San Diego,99.96600000000001,15701.0,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-2935-SAN,,,2020-07-20,USA/California/San Diego,99.966,15701.0,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-2936-SAN,,,2020-07-16,USA/California/San Diego,100.0,10801.4,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-2937-SAN,,,2020-07-11,USA/California/San Diego,100.0,10421.1,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-2938-SAN,,,2020-07-16,USA/California/San Diego,100.0,12772.3,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
@@ -1806,7 +1806,7 @@ SEARCH-3146-SAN,,,2020-08-24,USA/California/San Diego,100.0,9308.81,"SEARCH Alli
 SEARCH-3147-SAN,,,2020-08-19,USA/California/San Diego,99.8334,13457.9,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-3148-SAN,,,2020-08-20,USA/California/San Diego,99.0479,16104.9,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-3149-SAN,,,2020-08-24,USA/California/San Diego,99.4389,14690.5,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
-SEARCH-3150-SAN,,,2020-08-18,USA/California/San Diego,99.55799999999999,6848.79,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-3150-SAN,,,2020-08-18,USA/California/San Diego,99.558,6848.79,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-3151-SAN,,,2020-08-19,USA/California/San Diego,99.9218,3723.45,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-3153-SAN,,,2020-08-20,USA/California/San Diego,99.9932,5693.6,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-3154-SAN,,,2020-08-24,USA/California/San Diego,100.0,6144.27,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
@@ -1843,7 +1843,7 @@ SEARCH-3209-SAN,,,2020-07-27,USA/California/San Diego,99.9626,12503.8,"SEARCH Al
 SEARCH-3210-SAN,,,2020-07-14,USA/California/San Diego,100.0,12912.3,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-3212-SAN,,,2020-07-31,USA/California/San Diego,100.0,16051.7,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-3214-SAN,,,2020-07-27,USA/California/San Diego,100.0,10815.9,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
-SEARCH-3215-SAN,,,2020-07-31,USA/California/San Diego,99.96600000000001,9231.47,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-3215-SAN,,,2020-07-31,USA/California/San Diego,99.966,9231.47,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-3216-SAN,,,2020-08-01,USA/California/San Diego,98.7011,8078.21,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-3217-SAN,,,2020-07-28,USA/California/San Diego,100.0,21958.3,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-3218-SAN,,,2020-07-31,USA/California/San Diego,100.0,6666.71,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
@@ -1913,7 +1913,7 @@ SEARCH-3355-SAN,,,2020-09-18,USA/California/San Diego,100.0,4499.76,"SEARCH Alli
 SEARCH-3357-SAN,,,2020-09-18,USA/California/San Diego,98.6195,2691.3,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-3358-SAN,,,2020-09-18,USA/California/San Diego,99.9184,3613.47,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-3360-SAN,,,2020-09-18,USA/California/San Diego,100.0,4017.4,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
-SEARCH-3362-SAN,,,2020-09-16,USA/California/San Diego,99.96600000000001,4140.39,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-3362-SAN,,,2020-09-16,USA/California/San Diego,99.966,4140.39,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-3366-SAN,,,2020-05-30,USA/California/San Diego,100.0,13696.9,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-3369-SAN,,,2020-05-28,USA/California/San Diego,100.0,7786.6,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-3370-SAN,,,2020-08-19,USA/California/San Diego,100.0,14130.0,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
@@ -1940,7 +1940,7 @@ SEARCH-3402-SAN,,,2020-07-07,USA/California/San Diego,100.0,8475.44,"SEARCH Alli
 SEARCH-3404-SAN,,,2020-07-07,USA/California/San Diego,100.0,9969.2,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-3405-SAN,,,2020-07-07,USA/California/San Diego,100.0,9921.81,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-3406-SAN,,,2020-07-07,USA/California/San Diego,99.0921,19091.6,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
-SEARCH-3407-SAN,,,2020-07-07,USA/California/San Diego,99.96600000000001,10370.2,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-3407-SAN,,,2020-07-07,USA/California/San Diego,99.966,10370.2,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-3408-SAN,,,2020-07-07,USA/California/San Diego,100.0,11412.3,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-3409-SAN,,,2020-07-07,USA/California/San Diego,100.0,4829.26,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-3410-SAN,,,2020-07-07,USA/California/San Diego,100.0,8149.6,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
@@ -2151,7 +2151,7 @@ SEARCH-3806-SAN,,,2020-06-05,USA/California/San Diego,100.0,4391.26,"SEARCH Alli
 SEARCH-3807-SAN,,,2020-06-05,USA/California/San Diego,100.0,2885.56,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-3808-SAN,,,2020-05-27,USA/California/San Diego,100.0,4723.34,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-3809-SAN,,,2020-05-27,USA/California/San Diego,100.0,3929.68,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
-SEARCH-3811-SAN,,,2020-07-01,USA/California/San Diego,99.98299999999999,5399.16,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-3811-SAN,,,2020-07-01,USA/California/San Diego,99.983,5399.16,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-3812-SAN,,,2020-06-23,USA/California/San Diego,100.0,4621.86,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-3813-SAN,,,2020-06-15,USA/California/San Diego,100.0,6141.3,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
 SEARCH-3815-SAN,,,2020-06-15,USA/California/San Diego,100.0,4571.18,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
@@ -2269,8 +2269,8 @@ SEARCH-3965-JOR,,,2020-09-30,Jordan/Amman,100.0,5015.1,"Issa Abu-Dayyeh, Ahmad T
 SEARCH-3966-JOR,,,2020-10-02,Jordan/Amman,100.0,6774.57,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories
 SEARCH-3967-JOR,,,2020-10-02,Jordan/Amman,100.0,6212.7,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories
 SEARCH-3968-JOR,,,2020-10-02,Jordan/Amman,100.0,6794.91,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories
-SEARCH-3969-JOR,,,2020-10-03,Jordan/Amman,99.98299999999999,5624.86,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories
-SEARCH-3970-JOR,,,2020-10-03,Jordan/Amman,99.98299999999999,5384.03,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories
+SEARCH-3969-JOR,,,2020-10-03,Jordan/Amman,99.983,5624.86,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories
+SEARCH-3970-JOR,,,2020-10-03,Jordan/Amman,99.983,5384.03,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories
 SEARCH-3971-JOR,,,2020-10-03,Jordan/Amman,100.0,6214.39,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories
 SEARCH-3972-JOR,,,2020-10-02,Jordan/Amman,100.0,6331.43,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories
 SEARCH-3973-JOR,,,2020-10-02,Jordan/Amman,100.0,4775.85,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories
@@ -2399,3 +2399,246 @@ SEARCH-4095-JOR,,,2020-10-03,Jordan/Amman,100.0,7237.33,"Issa Abu-Dayyeh, Ahmad 
 SEARCH-4096-JOR,,,2020-10-03,Jordan/Amman,100.0,7023.92,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories
 SEARCH-4097-JOR,,,2020-10-03,Jordan/Amman,100.0,7229.76,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories
 SEARCH-4098-JOR,,,2020-10-03,Jordan/Amman,100.0,7107.81,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories
+SEARCH-4099-SAN,,,2020-07-01,USA/California/San Diego,98.9731,1364.4,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4102-SAN,,,2020-07-02,USA/California/San Diego,100.0,6567.61,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4103-SAN,,,2020-07-02,USA/California/San Diego,100.0,3264.01,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4104-SAN,,,2020-07-08,USA/California/San Diego,96.6983,999.275,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4106-SAN,,,2020-07-02,USA/California/San Diego,100.0,5088.62,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4107-SAN,,,2020-07-02,USA/California/San Diego,100.0,4236.81,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4108-SAN,,,2020-07-01,USA/California/San Diego,100.0,2962.25,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4109-SAN,,,2020-07-01,USA/California/San Diego,97.3546,2005.05,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4111-SAN,,,NaT,USA/California/San Diego,100.0,6351.4,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4116-SAN,,,2020-06-09,USA/California/San Diego,100.0,4068.15,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4122-SAN,,,2020-07-02,USA/California/San Diego,97.2797,1158.09,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4123-SAN,,,2020-07-02,USA/California/San Diego,100.0,4430.15,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4124-SAN,,,2020-07-02,USA/California/San Diego,100.0,3717.77,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4125-SAN,,,2020-06-10,USA/California/San Diego,100.0,4547.66,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4126-SAN,,,2020-07-06,USA/California/San Diego,100.0,3544.76,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4128-SAN,,,2020-07-06,USA/California/San Diego,99.9388,2328.53,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4129-SAN,,,2020-07-02,USA/California/San Diego,100.0,4926.99,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4130-SAN,,,2020-07-02,USA/California/San Diego,100.0,4311.14,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4131-SAN,,,2020-07-02,USA/California/San Diego,100.0,4544.44,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4133-SAN,,,2020-07-06,USA/California/San Diego,100.0,3955.47,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4134-SAN,,,2020-07-06,USA/California/San Diego,100.0,5116.14,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4138-SAN,,,2020-07-06,USA/California/San Diego,98.4631,2477.45,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4139-SAN,,,2020-07-02,USA/California/San Diego,99.3539,3579.9,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4140-SAN,,,2020-07-02,USA/California/San Diego,100.0,3197.42,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4141-SAN,,,2020-06-27,USA/California/San Diego,100.0,4708.37,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4142-SAN,,,2020-06-25,USA/California/San Diego,100.0,5532.75,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4143-SAN,,,2020-06-27,USA/California/San Diego,100.0,3886.27,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4144-SAN,,,2020-06-26,USA/California/San Diego,100.0,4001.71,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4145-SAN,,,2020-06-24,USA/California/San Diego,99.9558,4185.81,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4146-SAN,,,2020-06-27,USA/California/San Diego,100.0,4545.11,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4148-SAN,,,2020-06-24,USA/California/San Diego,100.0,5742.04,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4149-SAN,,,2020-06-24,USA/California/San Diego,100.0,3347.45,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4150-SAN,,,2020-06-24,USA/California/San Diego,100.0,4421.59,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4151-SAN,,,2020-06-25,USA/California/San Diego,100.0,4094.92,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4152-SAN,,,2020-06-26,USA/California/San Diego,100.0,4715.03,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4155-SAN,,,2020-06-25,USA/California/San Diego,100.0,5064.38,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4156-SAN,,,2020-06-26,USA/California/San Diego,100.0,6327.18,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4157-SAN,,,2020-06-26,USA/California/San Diego,99.711,2588.58,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4164-SAN,,,2020-06-26,USA/California/San Diego,100.0,4438.96,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4165-SAN,,,2020-06-24,USA/California/San Diego,98.0278,1500.98,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4166-SAN,,,2020-06-10,USA/California/San Diego,100.0,5457.59,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4171-SAN,,,2020-07-02,USA/California/San Diego,100.0,4193.6,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4172-SAN,,,2020-07-02,USA/California/San Diego,100.0,3371.63,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4173-SAN,,,2020-07-02,USA/California/San Diego,100.0,3755.01,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4176-SAN,,,2020-07-02,USA/California/San Diego,99.9422,3903.35,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4177-SAN,,,2020-07-02,USA/California/San Diego,99.8776,1988.18,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4181-SAN,,,2020-06-20,USA/California/San Diego,99.9626,4642.8,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4182-SAN,,,2020-08-19,USA/California/San Diego,100.0,3206.39,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4183-SAN,,,2020-08-13,USA/California/San Diego,97.494,1639.6,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4184-SAN,,,2020-08-06,USA/California/San Diego,100.0,5226.67,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4185-SAN,,,2020-09-02,USA/California/San Diego,100.0,6369.84,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4186-SAN,,,2020-08-11,USA/California/San Diego,100.0,3511.11,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4187-SAN,,,2020-08-21,USA/California/San Diego,98.1264,2285.1,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4188-SAN,,,2020-06-20,USA/California/San Diego,100.0,5329.31,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4189-SAN,,,2020-06-20,USA/California/San Diego,100.0,6311.53,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4190-SAN,,,2020-08-13,USA/California/San Diego,100.0,5875.56,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4191-SAN,,,2020-08-07,USA/California/San Diego,99.2383,2886.65,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4192-SAN,,,2020-08-12,USA/California/San Diego,100.0,6692.75,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4194-SAN,,,2020-06-19,USA/California/San Diego,96.8649,1440.04,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4195-SAN,,,2020-06-20,USA/California/San Diego,100.0,6233.77,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4196-SAN,,,2020-08-09,USA/California/San Diego,100.0,4800.07,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4197-SAN,,,2020-08-03,USA/California/San Diego,100.0,4400.64,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4199-SAN,,,2020-08-18,USA/California/San Diego,97.1029,982.9680000000001,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4203-SAN,,,2020-06-20,USA/California/San Diego,100.0,5901.56,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4205-SAN,,,2020-08-04,USA/California/San Diego,100.0,3481.22,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4206-SAN,,,2020-08-06,USA/California/San Diego,99.9966,5464.82,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4208-SAN,,,2020-08-11,USA/California/San Diego,100.0,5308.09,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4209-SAN,,,2020-10-02,USA/California/San Diego,100.0,4116.52,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4211-SAN,,,2020-06-19,USA/California/San Diego,100.0,5532.46,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4213-SAN,,,2020-08-04,USA/California/San Diego,100.0,4009.57,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4216-SAN,,,2020-08-14,USA/California/San Diego,100.0,3570.27,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4217-SAN,,,2020-10-02,USA/California/San Diego,100.0,3974.68,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4218-SAN,,,2020-06-19,USA/California/San Diego,100.0,6959.41,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4220-SAN,,,2020-10-02,USA/California/San Diego,100.0,3455.7,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4221-SAN,,,2020-08-18,USA/California/San Diego,97.0723,1648.4,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4223-SAN,,,2020-06-19,USA/California/San Diego,100.0,6859.15,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4224-SAN,,,2020-06-19,USA/California/San Diego,100.0,5731.67,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4225-SAN,,,2020-08-19,USA/California/San Diego,98.14,1697.19,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4229-SAN,,,2020-08-17,USA/California/San Diego,100.0,5185.11,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4230-SAN,,,2020-10-05,USA/California/San Diego,100.0,4542.78,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4233-SAN,,,2020-08-13,USA/California/San Diego,100.0,5824.06,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4235-SAN,,,2020-08-06,USA/California/San Diego,100.0,4295.72,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4236-SAN,,,2020-08-17,USA/California/San Diego,98.5175,2804.04,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4237-SAN,,,2020-10-05,USA/California/San Diego,100.0,4295.2,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4238-SAN,,,2020-06-19,USA/California/San Diego,100.0,6645.44,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4242-SAN,,,2020-08-13,USA/California/San Diego,100.0,4766.45,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4243-SAN,,,2020-08-18,USA/California/San Diego,100.0,4909.14,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4245-SAN,,,2020-10-07,USA/California/San Diego,100.0,4676.58,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4247-SAN,,,2020-08-18,USA/California/San Diego,100.0,3788.48,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4248-SAN,,,2020-08-20,USA/California/San Diego,100.0,4104.55,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4249-SAN,,,2020-08-19,USA/California/San Diego,100.0,6144.34,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4250-SAN,,,2020-06-20,USA/California/San Diego,100.0,4503.04,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4251-SAN,,,2020-10-07,USA/California/San Diego,100.0,5295.26,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4252-SAN,,,2020-10-06,USA/California/San Diego,100.0,6004.05,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4253-SAN,,,2020-10-05,USA/California/San Diego,100.0,2793.16,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4254-SAN,,,2020-08-07,USA/California/San Diego,100.0,5790.0,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4255-SAN,,,2020-08-20,USA/California/San Diego,96.9261,2164.81,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4256-SAN,,,2020-06-15,USA/California/San Diego,100.0,5141.72,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4259-SAN,,,2020-10-07,USA/California/San Diego,100.0,4466.08,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4260-SAN,,,2020-08-11,USA/California/San Diego,100.0,3948.87,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4261-SAN,,,2020-08-21,USA/California/San Diego,100.0,4652.24,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4262-SAN,,,2020-09-30,USA/California/San Diego,100.0,5474.79,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4263-SAN,,,2020-10-20,USA/California/San Diego,100.0,6298.19,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4264-SAN,,,2020-10-19,USA/California/San Diego,99.9898,4925.98,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4265-SAN,,,2020-10-06,USA/California/San Diego,100.0,6201.24,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4266-SAN,,,2020-10-08,USA/California/San Diego,100.0,5609.31,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4267-SAN,,,2020-10-05,USA/California/San Diego,100.0,5386.28,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4269-SAN,,,2020-10-13,USA/California/San Diego,100.0,6068.92,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4270-SAN,,,2020-10-13,USA/California/San Diego,95.66799999999999,1839.28,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4273-SAN,,,2020-10-05,USA/California/San Diego,100.0,5977.76,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4274-SAN,,,2020-10-05,USA/California/San Diego,100.0,6100.28,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4276-SAN,,,2020-10-01,USA/California/San Diego,100.0,5763.38,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4279-SAN,,,2020-10-05,USA/California/San Diego,100.0,6767.8,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4280-SAN,,,2020-09-28,USA/California/San Diego,100.0,5617.46,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4282-SAN,,,2020-10-13,USA/California/San Diego,98.7351,1478.59,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4283-SAN,,,2020-10-06,USA/California/San Diego,100.0,3958.43,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4284-SAN,,,2020-10-09,USA/California/San Diego,100.0,5635.41,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4285-SAN,,,2020-10-05,USA/California/San Diego,100.0,5125.53,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4286-SAN,,,2020-10-01,USA/California/San Diego,100.0,6535.01,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4287-SAN,,,2020-10-13,USA/California/San Diego,100.0,5679.65,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4288-SAN,,,2020-10-20,USA/California/San Diego,100.0,5086.19,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4289-SAN,,,2020-10-07,USA/California/San Diego,100.0,5906.66,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4290-SAN,,,2020-10-09,USA/California/San Diego,100.0,6854.75,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4291-SAN,,,2020-10-05,USA/California/San Diego,100.0,5558.15,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4292-SAN,,,2020-10-08,USA/California/San Diego,96.5929,1600.97,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4293-SAN,,,2020-09-28,USA/California/San Diego,100.0,4610.66,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4294-SAN,,,2020-10-01,USA/California/San Diego,100.0,4747.26,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4295-SBD,,,2020-10-19,USA/CaliforniaSan Bernadino,100.0,4854.95,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4296-SAN,,,2020-10-20,USA/California/San Diego,99.9456,3260.67,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4297-SAN,,,2020-10-06,USA/California/San Diego,100.0,6611.27,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4298-SAN,,,2020-10-09,USA/California/San Diego,99.9116,2397.59,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4300-SAN,,,2020-10-10,USA/California/San Diego,100.0,5925.53,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4302-SAN,,,2020-10-01,USA/California/San Diego,100.0,4672.02,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4303-SAN,,,2020-10-08,USA/California/San Diego,100.0,5736.43,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4304-SAN,,,2020-10-06,USA/California/San Diego,100.0,6927.23,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4305-SAN,,,2020-10-09,USA/California/San Diego,100.0,6493.96,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4306-SAN,,,2020-10-09,USA/California/San Diego,100.0,4764.99,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4307-SAN,,,2020-10-07,USA/California/San Diego,100.0,6198.39,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4308-SAN,,,2020-09-29,USA/California/San Diego,100.0,5327.82,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4309-SAN,,,2020-10-01,USA/California/San Diego,100.0,5221.42,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4310-SAN,,,2020-10-08,USA/California/San Diego,100.0,5267.26,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4311-SAN,,,2020-10-19,USA/California/San Diego,100.0,5468.12,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4313-SAN,,,2020-10-06,USA/California/San Diego,100.0,6087.14,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4314-SAN,,,2020-09-30,USA/California/San Diego,100.0,6227.9,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4315-SAN,,,2020-09-22,USA/California/San Diego,100.0,5570.35,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4316-SAN,,,2020-10-06,USA/California/San Diego,100.0,6322.37,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4317-SAN,,,2020-10-16,USA/California/San Diego,100.0,5305.23,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4318-SAN,,,2020-10-06,USA/California/San Diego,100.0,5168.99,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4319-SAN,,,2020-10-07,USA/California/San Diego,100.0,5865.57,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4320-SAN,,,2020-10-02,USA/California/San Diego,100.0,6289.71,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4322-SAN,,,2020-10-13,USA/California/San Diego,100.0,6239.69,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4325-SAN,,,2020-10-06,USA/California/San Diego,100.0,6249.38,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4326-SAN,,,2020-10-07,USA/California/San Diego,100.0,6336.86,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4328-SAN,,,2020-09-21,USA/California/San Diego,95.1715,1182.18,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4329-SAN,,,2020-10-08,USA/California/San Diego,100.0,6713.25,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4330-SAN,,,2020-10-16,USA/California/San Diego,100.0,4245.59,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4331-SAN,,,2020-10-06,USA/California/San Diego,100.0,5499.12,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4332-SAN,,,2020-10-07,USA/California/San Diego,98.9833,2581.84,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4336-SAN,,,2020-10-06,USA/California/San Diego,100.0,3505.98,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4337-SAN,,,2020-10-06,USA/California/San Diego,100.0,6380.02,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4340-SAN,,,2020-10-12,USA/California/San Diego,100.0,4846.33,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4342-SAN,,,2020-07-24,USA/California/San Diego,100.0,7093.92,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4343-SAN,,,2020-07-22,USA/California/San Diego,100.0,4673.65,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4344-SAN,,,2020-07-24,USA/California/San Diego,100.0,5996.62,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4346-SAN,,,2020-07-22,USA/California/San Diego,99.9626,5517.07,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4347-SAN,,,2020-07-31,USA/California/San Diego,100.0,6242.47,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4351-SAN,,,2020-07-21,USA/California/San Diego,100.0,6059.59,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4355-SAN,,,2020-07-22,USA/California/San Diego,100.0,5064.26,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4356-SAN,,,2020-07-16,USA/California/San Diego,100.0,4621.95,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4358-SAN,,,2020-08-04,USA/California/San Diego,100.0,5144.44,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4359-SAN,,,2020-08-01,USA/California/San Diego,100.0,5689.75,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4364-SAN,,,2020-08-04,USA/California/San Diego,100.0,7054.08,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4365-SAN,,,2020-07-22,USA/California/San Diego,100.0,4894.37,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4366-SAN,,,2020-07-15,USA/California/San Diego,100.0,6279.38,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4369-SAN,,,2020-07-31,USA/California/San Diego,100.0,5651.41,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4371-SAN,,,2020-07-22,USA/California/San Diego,100.0,5365.04,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4374-SAN,,,2020-07-29,USA/California/San Diego,100.0,4138.11,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4376-SAN,,,2020-07-21,USA/California/San Diego,100.0,3888.65,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4380-SAN,,,2020-07-22,USA/California/San Diego,100.0,4865.6,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4381-SAN,,,2020-07-22,USA/California/San Diego,100.0,5055.25,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4384-SAN,,,2020-07-22,USA/California/San Diego,100.0,6908.16,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4385-SAN,,,2020-07-22,USA/California/San Diego,100.0,5407.46,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4387-SAN,,,2020-07-27,USA/California/San Diego,97.3171,2302.19,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4388-SAN,,,2020-07-31,USA/California/San Diego,100.0,6526.06,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4389-SAN,,,2020-07-30,USA/California/San Diego,99.9218,4810.18,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4390-SAN,,,2020-07-31,USA/California/San Diego,97.7354,3254.57,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4391-SAN,,,2020-07-22,USA/California/San Diego,100.0,6304.26,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4395-SAN,,,2020-07-30,USA/California/San Diego,100.0,4441.66,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4398-SAN,,,2020-10-19,USA/California/San Diego,100.0,6015.62,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4399-SAN,,,2020-10-26,USA/California/San Diego,100.0,5641.82,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4400-SAN,,,2020-06-23,USA/California/San Diego,100.0,6805.25,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4401-SAN,,,2020-10-27,USA/California/San Diego,100.0,4175.47,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4404-SAN,,,2020-10-19,USA/California/San Diego,99.3709,3930.19,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4405-SAN,,,2020-10-27,USA/California/San Diego,99.1261,2291.52,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4407-SAN,,,2020-10-12,USA/California/San Diego,99.9252,4094.66,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4409-SAN,,,2020-10-27,USA/California/San Diego,100.0,5681.31,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4411-SAN,,,2020-10-19,USA/California/San Diego,100.0,5138.92,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4412-SAN,,,2020-10-27,USA/California/San Diego,98.6943,2036.47,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4413-SAN,,,2020-06-22,USA/California/San Diego,100.0,3409.51,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4415-SAN,,,2020-10-20,USA/California/San Diego,98.9153,7372.28,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4417-SAN,,,2020-06-22,USA/California/San Diego,100.0,4942.97,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4419-SAN,,,2020-10-30,USA/California/San Diego,100.0,6660.78,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4420-SAN,,,2020-06-22,USA/California/San Diego,98.1094,2110.53,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4425-SAN,,,2020-10-26,USA/California/San Diego,99.5784,2692.7,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4427-SAN,,,2020-10-14,USA/California/San Diego,96.7833,2101.21,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4428-SAN,,,2020-10-26,USA/California/San Diego,100.0,6171.06,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4429-SAN,,,2020-06-22,USA/California/San Diego,100.0,3609.52,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4430-SAN,,,2020-10-15,USA/California/San Diego,95.6272,2518.62,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4431-SAN,,,2020-10-26,USA/California/San Diego,100.0,4926.17,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4432-SAN,,,2020-09-25,USA/California/San Diego,98.5549,3109.63,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4433-SAN,,,2020-10-22,USA/California/San Diego,100.0,6621.98,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4435-SAN,,,2020-09-25,USA/California/San Diego,100.0,7080.22,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4436-SAN,,,2020-10-12,USA/California/San Diego,100.0,6846.77,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4437-SAN,,,2020-10-20,USA/California/San Diego,100.0,4869.32,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4439-SAN,,,2020-10-21,USA/California/San Diego,98.2658,2493.14,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4440-SAN,,,2020-09-28,USA/California/San Diego,100.0,4452.32,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4442-SAN,,,2020-07-08,USA/California/San Diego,100.0,7174.14,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4447-SAN,,,2020-09-28,USA/California/San Diego,100.0,5586.78,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4448-SAN,,,2020-10-23,USA/California/San Diego,98.9153,7274.81,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4449-SAN,,,2020-09-25,USA/California/San Diego,98.2862,3702.27,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4450-SAN,,,2020-07-08,USA/California/San Diego,100.0,3921.6,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4451-SAN,,,2020-07-08,USA/California/San Diego,100.0,6986.58,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4452-SAN,,,2020-10-21,USA/California/San Diego,100.0,7359.15,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4453-SAN,,,2020-09-25,USA/California/San Diego,98.8303,3287.34,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4455-SAN,,,2020-08-13,USA/California/San Diego,100.0,6065.0,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4458-SAN,,,2020-09-24,USA/California/San Diego,96.7561,2626.0,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4459-SAN,,,2020-10-20,USA/California/San Diego,100.0,3869.22,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4461-SAN,,,2020-07-08,USA/California/San Diego,100.0,7467.01,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4462-SAN,,,2020-10-21,USA/California/San Diego,100.0,7587.25,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4463-SAN,,,2020-09-25,USA/California/San Diego,99.1397,5817.63,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4464-SAN,,,2020-10-20,USA/California/San Diego,100.0,7293.55,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4466-SAN,,,2020-07-08,USA/California/San Diego,100.0,5580.39,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4467-SAN,,,2020-10-23,USA/California/San Diego,98.9119,6975.4,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4468-SAN,,,2020-09-16,USA/California/San Diego,100.0,6904.65,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4471-SAN,,,2020-10-23,USA/California/San Diego,98.9153,7069.09,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4472-SAN,,,2020-10-20,USA/California/San Diego,100.0,7276.07,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4473-SAN,,,2020-10-19,USA/California/San Diego,100.0,5382.57,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4474-SAN,,,2020-09-24,USA/California/San Diego,100.0,6206.83,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4475-SAN,,,2020-07-08,USA/California/San Diego,100.0,7382.07,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4478-SAN,,,2020-10-20,USA/California/San Diego,100.0,7269.75,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4479-SAN,,,2020-09-25,USA/California/San Diego,100.0,4595.3,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4481-SAN,,,2020-07-08,USA/California/San Diego,100.0,5807.49,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
+SEARCH-4484-SAN,,,2020-10-06,USA/California/San Diego,100.0,7019.25,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory
