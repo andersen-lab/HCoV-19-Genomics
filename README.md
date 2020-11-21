@@ -19,6 +19,7 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 |USA/California/Riverside         |    2 |
 |USA/California/San Diego         | 1962 |
 |USA/California/Santa Barbara     |    1 |
+|USA/California/San Bernadino     |    1 |
 |USA/Louisiana/New Orleans        |  123 |
 
 #### Raw read files
