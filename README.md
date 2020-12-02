@@ -3,24 +3,26 @@
 All consensus sequences will be deposited on GISAID and on NCBI under BioProject ID [PRJNA612578](https://www.ncbi.nlm.nih.gov/bioproject/612578).
 [metadata.csv](https://raw.githubusercontent.com/andersen-lab/HCoV-19-Genomics/master/metadata.csv) contains collection dates, location, originating labs and sequencing metrics: coverage and average depth.
 
-| Location                                     | Number of sequences  |
-|:---- |:-----|
-|Jordan/Amman                     |  223 |
-|Jordan/Irbid                     |    6 |
-|Jordan/Mafraq                    |    2 |
-|MEX/Baja California/Mexicali     |    1 |
-|MEX/Baja California/Tijuana      |  152 |
-|MEX/Sonora/San Luis Río Colorado |    2 |
-|USA/Arizona/Yuma                 |    1 |
-|USA/California/Cruise_Ship_1     |    8 |
-|USA/California/Cruise_Ship_2     |   32 |
-|USA/California/Imperial          |  125 |
-|USA/California/Los Angeles       |    2 |
-|USA/California/Riverside         |    2 |
-|USA/California/San Diego         | 1962 |
-|USA/California/Santa Barbara     |    1 |
-|USA/California/San Bernadino     |    1 |
-|USA/Louisiana/New Orleans        |  123 |
+| Location                         | Number of sequences |
+|:---------------------------------|:--------------------|
+| Jordan/Amman                     | 223                 |
+| Jordan/Irbid                     | 6                   |
+| Jordan/Mafraq                    | 2                   |
+| MEX/Baja California/Mexicali     | 1                   |
+| MEX/Baja California/Tijuana      | 152                 |
+| MEX/Sonora/San Luis Río Colorado | 2                   |
+| USA/Arizona/Yuma                 | 1                   |
+| USA/California/Cruise_Ship_1     | 8                   |
+| USA/California/Cruise_Ship_2     | 32                  |
+| USA/California/Imperial          | 125                 |
+| USA/California/Los Angeles       | 4                   |
+| USA/California/Orange            | 1                   |
+| USA/California/Riverside         | 3                   |
+| USA/California/San Diego         | 2078                |
+| USA/California/Santa Barbara     | 1                   |
+| USA/California/San Bernadino     | 1                   |
+| USA/Louisiana/New Orleans        | 123                 |
+| USA/West Virginia/Kanawha        | 1                   |
 
 #### Raw read files
 
