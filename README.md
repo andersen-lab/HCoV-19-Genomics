@@ -18,7 +18,7 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | USA/California/Los Angeles       | 4                   |
 | USA/California/Orange            | 1                   |
 | USA/California/Riverside         | 3                   |
-| USA/California/San Diego         | 2078                |
+| USA/California/San Diego         | 2080                |
 | USA/California/Santa Barbara     | 1                   |
 | USA/California/San Bernadino     | 1                   |
 | USA/Louisiana/New Orleans        | 123                 |
