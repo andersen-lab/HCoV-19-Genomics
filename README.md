@@ -5,9 +5,9 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 
 | Location                         | Number of sequences |
 |:---------------------------------|:--------------------|
-| Jordan/Amman                     | 389                 |
-| Jordan/Aqaba                     | 39                  |
-| Jordan/Irbid                     | 56                  |
+| Jordan/Amman                     | 444                 |
+| Jordan/Aqaba                     | 41                  |
+| Jordan/Irbid                     | 58                  |
 | Jordan/Mafraq                    | 2                   |
 | Jordan/Zarqa                     | 4                   |
 | MEX/Baja California/Ensenada     | 1                   |
@@ -24,7 +24,7 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | USA/California/Orange            | 2                   |
 | USA/California/Riverside         | 3                   |
 | USA/California/San Bernadino     | 1                   |
-| USA/California/San Diego         | 2269                |
+| USA/California/San Diego         | 2399                |
 | USA/California/Santa Barbara     | 1                   |
 | USA/Louisiana/New Orleans        | 123                 |
 | USA/West Virginia/Kanawha        | 1                   |
