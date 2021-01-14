@@ -3256,193 +3256,194 @@ SEARCH-5324-JOR,,EPI_ISL_730560,2020-11-03,Jordan/Amman,100,27268.1,"Issa Abu-Da
 SEARCH-5325-JOR,,EPI_ISL_730561,2020-11-04,Jordan/Amman,100,32327.8,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5325-JOR/2020
 SEARCH-5326-JOR,,EPI_ISL_730562,2020-11-03,Jordan/Amman,100,22540.9,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5326-JOR/2020
 SEARCH-5327-JOR,,EPI_ISL_730563,2020-11-04,Jordan/Amman,100,28748.9,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5327-JOR/2020
-SEARCH-5574-SAN,,,2020-12-29,USA/California/San Diego,100,689,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5574-SAN/2020
-SEARCH-5328-SAN,,,2020-12-07,USA/California/San Diego,100,6931.72,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5328-SAN/2020
-SEARCH-5329-SAN,,,2020-12-08,USA/California/San Diego,100,6617.76,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5329-SAN/2020
-SEARCH-5330-SAN,,,2020-12-08,USA/California/San Diego,100,5023.11,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5330-SAN/2020
-SEARCH-5331-SAN,,,2020-12-07,USA/California/San Diego,100,6224.89,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5331-SAN/2020
-SEARCH-5332-SAN,,,2020-12-07,USA/California/San Diego,100,6741.3,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5332-SAN/2020
-SEARCH-5333-SAN,,,2020-12-08,USA/California/San Diego,100,7442.17,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5333-SAN/2020
-SEARCH-5334-SAN,,,2020-12-08,USA/California/San Diego,100,6884.54,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5334-SAN/2020
-SEARCH-5335-SAN,,,2020-12-08,USA/California/San Diego,100,6126.74,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5335-SAN/2020
-SEARCH-5336-SAN,,,2020-12-08,USA/California/San Diego,99.9898,4518.01,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5336-SAN/2020
-SEARCH-5337-SAN,,,2020-12-09,USA/California/San Diego,100,6921.88,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5337-SAN/2020
-SEARCH-5339-SAN,,,2020-12-09,USA/California/San Diego,100,6544.16,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5339-SAN/2020
-SEARCH-5340-SAN,,,2020-12-09,USA/California/San Diego,100,6220.34,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5340-SAN/2020
-SEARCH-5341-SAN,,,2020-12-08,USA/California/San Diego,100,6325.83,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5341-SAN/2020
-SEARCH-5342-SAN,,,2020-12-08,USA/California/San Diego,100,5860.91,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5342-SAN/2020
-SEARCH-5343-SAN,,,2020-12-09,USA/California/San Diego,100,5072.97,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5343-SAN/2020
-SEARCH-5344-SAN,,,2020-12-09,USA/California/San Diego,100,6560.4,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5344-SAN/2020
-SEARCH-5345-SAN,,,2020-12-09,USA/California/San Diego,98.8439,5984.53,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5345-SAN/2020
+SEARCH-5574-SAN,,EPI_ISL_751801,2020-12-29,USA/California/San Diego,100,689,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5574-SAN/2020
+SEARCH-5328-SAN,,EPI_ISL_755147,2020-12-07,USA/California/San Diego,100,6931.72,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5328-SAN/2020
+SEARCH-5329-SAN,,EPI_ISL_755148,2020-12-08,USA/California/San Diego,100,6617.76,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5329-SAN/2020
+SEARCH-5330-SAN,,EPI_ISL_755149,2020-12-08,USA/California/San Diego,100,5023.11,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5330-SAN/2020
+SEARCH-5331-SAN,,EPI_ISL_755150,2020-12-07,USA/California/San Diego,100,6224.89,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5331-SAN/2020
+SEARCH-5332-SAN,,EPI_ISL_755151,2020-12-07,USA/California/San Diego,100,6741.3,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5332-SAN/2020
+SEARCH-5333-SAN,,EPI_ISL_755152,2020-12-08,USA/California/San Diego,100,7442.17,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5333-SAN/2020
+SEARCH-5334-SAN,,EPI_ISL_755153,2020-12-08,USA/California/San Diego,100,6884.54,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5334-SAN/2020
+SEARCH-5335-SAN,,EPI_ISL_755154,2020-12-08,USA/California/San Diego,100,6126.74,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5335-SAN/2020
+SEARCH-5336-SAN,,EPI_ISL_755140,2020-12-08,USA/California/San Diego,99.9898,4518.01,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5336-SAN/2020
+SEARCH-5337-SAN,,EPI_ISL_755155,2020-12-09,USA/California/San Diego,100,6921.88,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5337-SAN/2020
+SEARCH-5339-SAN,,EPI_ISL_755156,2020-12-09,USA/California/San Diego,100,6544.16,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5339-SAN/2020
+SEARCH-5340-SAN,,EPI_ISL_755157,2020-12-09,USA/California/San Diego,100,6220.34,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5340-SAN/2020
+SEARCH-5341-SAN,,EPI_ISL_755158,2020-12-08,USA/California/San Diego,100,6325.83,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5341-SAN/2020
+SEARCH-5342-SAN,,EPI_ISL_755159,2020-12-08,USA/California/San Diego,100,5860.91,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5342-SAN/2020
+SEARCH-5343-SAN,,EPI_ISL_755160,2020-12-09,USA/California/San Diego,100,5072.97,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5343-SAN/2020
+SEARCH-5344-SAN,,EPI_ISL_755161,2020-12-09,USA/California/San Diego,100,6560.4,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5344-SAN/2020
+SEARCH-5345-SAN,,EPI_ISL_755133,2020-12-09,USA/California/San Diego,98.8439,5984.53,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5345-SAN/2020
 SEARCH-5346-SAN,,,2020-12-10,USA/California/San Diego,98.9119,6206.21,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5346-SAN/2020
-SEARCH-5347-SAN,,,2020-12-09,USA/California/San Diego,100,6309.76,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5347-SAN/2020
-SEARCH-5348-SAN,,,2020-12-10,USA/California/San Diego,100,5346.48,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5348-SAN/2020
-SEARCH-5349-SAN,,,2020-12-10,USA/California/San Diego,100,5653.97,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5349-SAN/2020
-SEARCH-5350-SAN,,,2020-12-10,USA/California/San Diego,100,6354.82,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5350-SAN/2020
-SEARCH-5351-SAN,,,2020-12-11,USA/California/San Diego,100,5998.6,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5351-SAN/2020
-SEARCH-5352-SAN,,,2020-12-10,USA/California/San Diego,100,6870.61,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5352-SAN/2020
-SEARCH-5353-SAN,,,2020-12-10,USA/California/San Diego,100,7113.41,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5353-SAN/2020
+SEARCH-5347-SAN,,EPI_ISL_755162,2020-12-09,USA/California/San Diego,100,6309.76,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5347-SAN/2020
+SEARCH-5348-SAN,,EPI_ISL_755163,2020-12-10,USA/California/San Diego,100,5346.48,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5348-SAN/2020
+SEARCH-5349-SAN,,EPI_ISL_755164,2020-12-10,USA/California/San Diego,100,5653.97,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5349-SAN/2020
+SEARCH-5350-SAN,,EPI_ISL_755165,2020-12-10,USA/California/San Diego,100,6354.82,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5350-SAN/2020
+SEARCH-5351-SAN,,EPI_ISL_755166,2020-12-11,USA/California/San Diego,100,5998.6,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5351-SAN/2020
+SEARCH-5352-SAN,,EPI_ISL_755167,2020-12-10,USA/California/San Diego,100,6870.61,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5352-SAN/2020
+SEARCH-5353-SAN,,EPI_ISL_755168,2020-12-10,USA/California/San Diego,100,7113.41,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5353-SAN/2020
 SEARCH-5355-SAN,,,2020-12-12,USA/California/San Diego,100,6810.02,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5355-SAN/2020
-SEARCH-5356-SAN,,,2020-12-11,USA/California/San Diego,100,6217.39,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5356-SAN/2020
-SEARCH-5357-SAN,,,2020-12-12,USA/California/San Diego,100,7074.92,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5357-SAN/2020
-SEARCH-5358-SAN,,,2020-12-13,USA/California/San Diego,100,7337.88,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5358-SAN/2020
-SEARCH-5359-SAN,,,2020-12-14,USA/California/San Diego,100,6910.79,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5359-SAN/2020
-SEARCH-5360-SAN,,,2020-12-14,USA/California/San Diego,100,7229.15,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5360-SAN/2020
-SEARCH-5361-SAN,,,2020-12-15,USA/California/San Diego,100,6425.7,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5361-SAN/2020
-SEARCH-5362-SAN,,,2020-12-12,USA/California/San Diego,100,7017.59,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5362-SAN/2020
-SEARCH-5363-SAN,,,2020-12-14,USA/California/San Diego,100,6505.84,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5363-SAN/2020
-SEARCH-5364-SAN,,,2020-12-14,USA/California/San Diego,100,3360.28,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5364-SAN/2020
-SEARCH-5365-SAN,,,2020-12-14,USA/California/San Diego,100,5790.63,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5365-SAN/2020
-SEARCH-5366-SAN,,,2020-12-15,USA/California/San Diego,100,6596.79,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5366-SAN/2020
-SEARCH-5367-SAN,,,2020-12-15,USA/California/San Diego,100,6811.78,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5367-SAN/2020
-SEARCH-5368-SAN,,,2020-12-15,USA/California/San Diego,100,6445.02,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5368-SAN/2020
-SEARCH-5369-SAN,,,2020-12-16,USA/California/San Diego,100,5685.05,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5369-SAN/2020
-SEARCH-5370-SAN,,,2020-12-17,USA/California/San Diego,100,6868.12,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5370-SAN/2020
-SEARCH-5371-SAN,,,2020-12-15,USA/California/San Diego,100,6036.75,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5371-SAN/2020
-SEARCH-5372-SAN,,,2020-12-16,USA/California/San Diego,100,6958.45,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5372-SAN/2020
-SEARCH-5373-SAN,,,2020-12-17,USA/California/San Diego,100,7090.01,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5373-SAN/2020
-SEARCH-5374-SAN,,,2020-12-17,USA/California/San Diego,100,6273.07,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5374-SAN/2020
-SEARCH-5375-SAN,,,2020-12-17,USA/California/San Diego,100,6881.17,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5375-SAN/2020
-SEARCH-5376-SAN,,,2020-12-17,USA/California/San Diego,100,6698.06,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5376-SAN/2020
-SEARCH-5377-SAN,,,2020-12-17,USA/California/San Diego,100,6988.49,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5377-SAN/2020
-SEARCH-5378-SAN,,,2020-12-04,USA/California/San Diego,100,4623.17,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5378-SAN/2020
-SEARCH-5379-SAN,,,2020-12-04,USA/California/San Diego,100,6102.56,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5379-SAN/2020
-SEARCH-5380-SAN,,,2020-12-04,USA/California/San Diego,100,6544.87,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5380-SAN/2020
-SEARCH-5381-SAN,,,2020-12-04,USA/California/San Diego,100,6900.19,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5381-SAN/2020
-SEARCH-5382-SAN,,,2020-12-17,USA/California/San Diego,100,6214.6,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5382-SAN/2020
-SEARCH-5383-SAN,,,2020-12-04,USA/California/San Diego,100,6298.91,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5383-SAN/2020
-SEARCH-5384-SAN,,,2020-12-05,USA/California/San Diego,100,6505.19,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5384-SAN/2020
-SEARCH-5385-SAN,,,2020-10-21,USA/California/San Diego,99.9898,6275.26,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5385-SAN/2020
-SEARCH-5386-SAN,,,2020-10-21,USA/California/San Diego,100,6557.79,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5386-SAN/2020
-SEARCH-5387-SAN,,,2020-12-01,USA/California/San Diego,100,4893.16,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5387-SAN/2020
-SEARCH-5388-SAN,,,2020-12-01,USA/California/San Diego,100,6526.66,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5388-SAN/2020
-SEARCH-5389-SAN,,,2020-12-01,USA/California/San Diego,100,6655.66,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5389-SAN/2020
-SEARCH-5390-SAN,,,2020-12-01,USA/California/San Diego,100,6803.28,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5390-SAN/2020
-SEARCH-5391-SAN,,,2020-12-02,USA/California/San Diego,100,7339.48,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5391-SAN/2020
-SEARCH-5392-SAN,,,2020-12-01,USA/California/San Diego,100,6032.5,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5392-SAN/2020
-SEARCH-5393-SAN,,,2020-12-01,USA/California/San Diego,100,5617.48,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5393-SAN/2020
-SEARCH-5394-SAN,,,2020-12-02,USA/California/San Diego,100,5971.81,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5394-SAN/2020
-SEARCH-5395-SAN,,,2020-12-03,USA/California/San Diego,100,6669.39,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5395-SAN/2020
-SEARCH-5396-SAN,,,2020-12-03,USA/California/San Diego,100,5682.59,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5396-SAN/2020
-SEARCH-5397-SAN,,,2020-12-03,USA/California/San Diego,100,6018.37,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5397-SAN/2020
-SEARCH-5398-SAN,,,2020-12-02,USA/California/San Diego,100,6374.31,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5398-SAN/2020
-SEARCH-5399-JOR,,,2020-10-11,Jordan/Amman,100,5398.81,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5399-JOR/2020
-SEARCH-5400-JOR,,,2020-10-11,Jordan/Amman,100,6803.5,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5400-JOR/2020
-SEARCH-5401-JOR,,,2020-10-07,Jordan/Aqaba,100,5187.81,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5401-JOR/2020
-SEARCH-5402-JOR,,,2020-11-07,Jordan/Amman,100,5828.6,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5402-JOR/2020
-SEARCH-5403-JOR,,,2020-09-15,Jordan/Amman,100,5747.3,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5403-JOR/2020
-SEARCH-5404-SAN,,,2020-10-18,USA/California/San Diego,100,5435.53,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5404-SAN/2020
-SEARCH-5405-SAN,,,2020-11-30,USA/California/San Diego,100,5867.64,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5405-SAN/2020
-SEARCH-5406-SAN,,,2020-11-30,USA/California/San Diego,100,5680.53,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5406-SAN/2020
-SEARCH-5407-SAN,,,2020-12-01,USA/California/San Diego,100,6116.54,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5407-SAN/2020
-SEARCH-5408-SAN,,,2020-12-01,USA/California/San Diego,100,5503.07,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5408-SAN/2020
-SEARCH-5409-SAN,,,2020-11-30,USA/California/San Diego,100,6748.64,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5409-SAN/2020
-SEARCH-5410-SAN,,,2020-12-06,USA/California/San Diego,99.7552,6363.06,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5410-SAN/2020
+SEARCH-5356-SAN,,EPI_ISL_755169,2020-12-11,USA/California/San Diego,100,6217.39,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5356-SAN/2020
+SEARCH-5357-SAN,,EPI_ISL_755170,2020-12-12,USA/California/San Diego,100,7074.92,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5357-SAN/2020
+SEARCH-5358-SAN,,EPI_ISL_755146,2020-12-13,USA/California/San Diego,100,7337.88,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5358-SAN/2020
+SEARCH-5359-SAN,,EPI_ISL_755171,2020-12-14,USA/California/San Diego,100,6910.79,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5359-SAN/2020
+SEARCH-5360-SAN,,EPI_ISL_755172,2020-12-14,USA/California/San Diego,100,7229.15,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5360-SAN/2020
+SEARCH-5361-SAN,,EPI_ISL_755173,2020-12-15,USA/California/San Diego,100,6425.7,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5361-SAN/2020
+SEARCH-5362-SAN,,EPI_ISL_755174,2020-12-12,USA/California/San Diego,100,7017.59,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5362-SAN/2020
+SEARCH-5363-SAN,,EPI_ISL_755175,2020-12-14,USA/California/San Diego,100,6505.84,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5363-SAN/2020
+SEARCH-5364-SAN,,EPI_ISL_755176,2020-12-14,USA/California/San Diego,100,3360.28,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5364-SAN/2020
+SEARCH-5365-SAN,,EPI_ISL_755177,2020-12-14,USA/California/San Diego,100,5790.63,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5365-SAN/2020
+SEARCH-5366-SAN,,EPI_ISL_755178,2020-12-15,USA/California/San Diego,100,6596.79,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5366-SAN/2020
+SEARCH-5367-SAN,,EPI_ISL_755179,2020-12-15,USA/California/San Diego,100,6811.78,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5367-SAN/2020
+SEARCH-5368-SAN,,EPI_ISL_755180,2020-12-15,USA/California/San Diego,100,6445.02,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5368-SAN/2020
+SEARCH-5369-SAN,,EPI_ISL_755181,2020-12-16,USA/California/San Diego,100,5685.05,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5369-SAN/2020
+SEARCH-5370-SAN,,EPI_ISL_755182,2020-12-17,USA/California/San Diego,100,6868.12,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5370-SAN/2020
+SEARCH-5371-SAN,,EPI_ISL_755183,2020-12-15,USA/California/San Diego,100,6036.75,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5371-SAN/2020
+SEARCH-5372-SAN,,EPI_ISL_755184,2020-12-16,USA/California/San Diego,100,6958.45,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5372-SAN/2020
+SEARCH-5373-SAN,,EPI_ISL_755185,2020-12-17,USA/California/San Diego,100,7090.01,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5373-SAN/2020
+SEARCH-5374-SAN,,EPI_ISL_755186,2020-12-17,USA/California/San Diego,100,6273.07,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5374-SAN/2020
+SEARCH-5375-SAN,,EPI_ISL_755187,2020-12-17,USA/California/San Diego,100,6881.17,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5375-SAN/2020
+SEARCH-5376-SAN,,EPI_ISL_755188,2020-12-17,USA/California/San Diego,100,6698.06,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5376-SAN/2020
+SEARCH-5377-SAN,,EPI_ISL_755189,2020-12-17,USA/California/San Diego,100,6988.49,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5377-SAN/2020
+SEARCH-5378-SAN,,EPI_ISL_755190,2020-12-04,USA/California/San Diego,100,4623.17,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5378-SAN/2020
+SEARCH-5379-SAN,,EPI_ISL_755191,2020-12-04,USA/California/San Diego,100,6102.56,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5379-SAN/2020
+SEARCH-5380-SAN,,EPI_ISL_755192,2020-12-04,USA/California/San Diego,100,6544.87,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5380-SAN/2020
+SEARCH-5381-SAN,,EPI_ISL_755193,2020-12-04,USA/California/San Diego,100,6900.19,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5381-SAN/2020
+SEARCH-5382-SAN,,EPI_ISL_755194,2020-12-17,USA/California/San Diego,100,6214.6,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5382-SAN/2020
+SEARCH-5383-SAN,,EPI_ISL_755195,2020-12-04,USA/California/San Diego,100,6298.91,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5383-SAN/2020
+SEARCH-5384-SAN,,EPI_ISL_755196,2020-12-05,USA/California/San Diego,100,6505.19,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5384-SAN/2020
+SEARCH-5385-SAN,,EPI_ISL_755137,2020-10-21,USA/California/San Diego,99.9898,6275.26,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5385-SAN/2020
+SEARCH-5386-SAN,,EPI_ISL_755197,2020-10-21,USA/California/San Diego,100,6557.79,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5386-SAN/2020
+SEARCH-5387-SAN,,EPI_ISL_755198,2020-12-01,USA/California/San Diego,100,4893.16,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5387-SAN/2020
+SEARCH-5388-SAN,,EPI_ISL_755199,2020-12-01,USA/California/San Diego,100,6526.66,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5388-SAN/2020
+SEARCH-5389-SAN,,EPI_ISL_755200,2020-12-01,USA/California/San Diego,100,6655.66,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5389-SAN/2020
+SEARCH-5390-SAN,,EPI_ISL_755201,2020-12-01,USA/California/San Diego,100,6803.28,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5390-SAN/2020
+SEARCH-5391-SAN,,EPI_ISL_755202,2020-12-02,USA/California/San Diego,100,7339.48,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5391-SAN/2020
+SEARCH-5392-SAN,,EPI_ISL_755203,2020-12-01,USA/California/San Diego,100,6032.5,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5392-SAN/2020
+SEARCH-5393-SAN,,EPI_ISL_755204,2020-12-01,USA/California/San Diego,100,5617.48,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5393-SAN/2020
+SEARCH-5394-SAN,,EPI_ISL_755205,2020-12-02,USA/California/San Diego,100,5971.81,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5394-SAN/2020
+SEARCH-5395-SAN,,EPI_ISL_755206,2020-12-03,USA/California/San Diego,100,6669.39,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5395-SAN/2020
+SEARCH-5396-SAN,,EPI_ISL_755207,2020-12-03,USA/California/San Diego,100,5682.59,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5396-SAN/2020
+SEARCH-5397-SAN,,EPI_ISL_755208,2020-12-03,USA/California/San Diego,100,6018.37,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5397-SAN/2020
+SEARCH-5398-SAN,,EPI_ISL_755209,2020-12-02,USA/California/San Diego,100,6374.31,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5398-SAN/2020
+SEARCH-5399-JOR,,EPI_ISL_755210,2020-10-11,Jordan/Amman,100,5398.81,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5399-JOR/2020
+SEARCH-5400-JOR,,EPI_ISL_755211,2020-10-11,Jordan/Amman,100,6803.5,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5400-JOR/2020
+SEARCH-5401-JOR,,EPI_ISL_755212,2020-10-07,Jordan/Aqaba,100,5187.81,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5401-JOR/2020
+SEARCH-5402-JOR,,EPI_ISL_755213,2020-11-07,Jordan/Amman,100,5828.6,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5402-JOR/2020
+SEARCH-5403-JOR,,EPI_ISL_755214,2020-09-15,Jordan/Amman,100,5747.3,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5403-JOR/2020
+SEARCH-5404-SAN,,EPI_ISL_755215,2020-10-18,USA/California/San Diego,100,5435.53,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5404-SAN/2020
+SEARCH-5405-SAN,,EPI_ISL_755216,2020-11-30,USA/California/San Diego,100,5867.64,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5405-SAN/2020
+SEARCH-5406-SAN,,EPI_ISL_755217,2020-11-30,USA/California/San Diego,100,5680.53,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5406-SAN/2020
+SEARCH-5407-SAN,,EPI_ISL_755218,2020-12-01,USA/California/San Diego,100,6116.54,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5407-SAN/2020
+SEARCH-5408-SAN,,EPI_ISL_755219,2020-12-01,USA/California/San Diego,100,5503.07,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5408-SAN/2020
+SEARCH-5409-SAN,,EPI_ISL_755220,2020-11-30,USA/California/San Diego,100,6748.64,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5409-SAN/2020
+SEARCH-5410-SAN,,EPI_ISL_755221,2020-12-06,USA/California/San Diego,99.7552,6363.06,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5410-SAN/2020
 SEARCH-5411-SAN,,,2020-11-25,USA/California/San Diego,100,6719.92,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5411-SAN/2020
-SEARCH-5412-SAN,,,2020-11-25,USA/California/San Diego,100,6147.46,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5412-SAN/2020
-SEARCH-5413-SAN,,,2020-11-28,USA/California/San Diego,100,5593.27,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5413-SAN/2020
-SEARCH-5414-SAN,,,2020-11-25,USA/California/San Diego,100,6268.72,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5414-SAN/2020
-SEARCH-5415-SAN,,,2020-11-29,USA/California/San Diego,100,6822.15,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5415-SAN/2020
-SEARCH-5416-SAN,,,2020-11-30,USA/California/San Diego,100,6313.99,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5416-SAN/2020
-SEARCH-5417-SAN,,,2020-11-30,USA/California/San Diego,100,6945.38,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5417-SAN/2020
-SEARCH-5419-SAN,,,2020-11-30,USA/California/San Diego,100,4685.93,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5419-SAN/2020
-SEARCH-5420-SAN,,,2020-11-29,USA/California/San Diego,100,6463.25,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5420-SAN/2020
-SEARCH-5421-SAN,,,2020-11-30,USA/California/San Diego,100,6351.29,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5421-SAN/2020
-SEARCH-5422-SAN,,,2020-11-30,USA/California/San Diego,100,6965.76,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5422-SAN/2020
-SEARCH-5424-JOR,,,2020-08-13,Jordan/Amman,100,6429.36,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5424-JOR/2020
-SEARCH-5425-JOR,,,2020-08-23,Jordan/Amman,99.9932,3390.39,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5425-JOR/2020
-SEARCH-5426-JOR,,,2020-08-30,Jordan/Irbid,100,5840.25,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5426-JOR/2020
-SEARCH-5427-JOR,,,2020-09-06,Jordan/Amman,100,3510.88,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5427-JOR/2020
-SEARCH-5429-JOR,,,2020-08-18,Jordan/Amman,100,6206.84,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5429-JOR/2020
-SEARCH-5430-JOR,,,2020-08-23,Jordan/Amman,99.0683,3243.11,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5430-JOR/2020
-SEARCH-5431-JOR,,,2020-08-31,Jordan/Amman,99.6124,3519.92,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5431-JOR/2020
-SEARCH-5432-JOR,,,2020-09-07,Jordan/Amman,99.2791,4954.08,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5432-JOR/2020
-SEARCH-5433-JOR,,,2020-09-09,Jordan/Amman,100,6528.54,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5433-JOR/2020
-SEARCH-5435-JOR,,,2020-09-14,Jordan/Amman,97.3818,2431.55,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5435-JOR/2020
-SEARCH-5436-JOR,,,2020-08-18,Jordan/Amman,98.3508,2604.29,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5436-JOR/2020
-SEARCH-5437-JOR,,,2020-08-24,Jordan/Amman,99.4866,3694.87,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5437-JOR/2020
-SEARCH-5442-JOR,,,2020-09-14,Jordan/Amman,98.038,2511.98,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5442-JOR/2020
-SEARCH-5444-JOR,,,2020-08-24,Jordan/Amman,97.7932,5032.23,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5444-JOR/2020
-SEARCH-5445-JOR,,,2020-09-09,Jordan/Amman,100,6663.96,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5445-JOR/2020
-SEARCH-5446-JOR,,,2020-09-13,Jordan/Amman,100,6848.26,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5446-JOR/2020
-SEARCH-5447-JOR,,,2020-09-14,Jordan/Amman,97.1811,4198.52,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5447-JOR/2020
-SEARCH-5449-JOR,,,2020-08-26,Jordan/Amman,97.8918,3889.77,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5449-JOR/2020
-SEARCH-5451-JOR,,,2020-09-07,Jordan/Amman,99.0785,4094.4,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5451-JOR/2020
-SEARCH-5452-JOR,,,2020-09-09,Jordan/Amman,98.0176,3882.13,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5452-JOR/2020
-SEARCH-5453-JOR,,,2020-09-13,Jordan/Amman,100,6640.29,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5453-JOR/2020
-SEARCH-5454-JOR,,,2020-09-14,Jordan/Amman,97.8,2579.92,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5454-JOR/2020
-SEARCH-5455-JOR,,,2020-09-15,Jordan/Amman,97.6878,3480.18,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5455-JOR/2020
-SEARCH-5456-JOR,,,2020-09-01,Jordan/Amman,97.4464,2876.17,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5456-JOR/2020
-SEARCH-5457-JOR,,,2020-09-07,Jordan/Amman,100,6520.93,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5457-JOR/2020
-SEARCH-5459-JOR,,,2020-09-13,Jordan/Amman,100,4393.01,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5459-JOR/2020
-SEARCH-5460-JOR,,,2020-09-14,Jordan/Amman,99.9286,3353.28,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5460-JOR/2020
-SEARCH-5461-JOR,,,2020-09-15,Jordan/Amman,100,4371.12,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5461-JOR/2020
-SEARCH-5462-JOR,,,2020-09-07,Jordan/Amman,100,6158.72,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5462-JOR/2020
-SEARCH-5463-JOR,,,2020-09-08,Jordan/Amman,100,6641.53,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5463-JOR/2020
-SEARCH-5464-JOR,,,2020-09-14,Jordan/Amman,100,6768.25,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5464-JOR/2020
-SEARCH-5465-JOR,,,2020-09-15,Jordan/Amman,100,6344.83,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5465-JOR/2020
-SEARCH-5466-JOR,,,2020-08-20,Jordan/Amman,100,7040.64,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5466-JOR/2020
-SEARCH-5467-JOR,,,2020-08-25,Jordan/Amman,100,5141.82,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5467-JOR/2020
-SEARCH-5469-JOR,,,2020-09-08,Jordan/Amman,100,4298.62,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5469-JOR/2020
-SEARCH-5470-JOR,,,2020-09-10,Jordan/Amman,100,4357.25,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5470-JOR/2020
-SEARCH-5473-JOR,,,2020-08-22,Jordan/Amman,100,5080.49,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5473-JOR/2020
-SEARCH-5474-JOR,,,2020-08-29,Jordan/Amman,100,6713.98,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5474-JOR/2020
-SEARCH-5476-JOR,,,2020-09-08,Jordan/Amman,100,4671.79,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5476-JOR/2020
-SEARCH-5477-JOR,,,2020-09-11,Jordan/Amman,100,6982.05,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5477-JOR/2020
-SEARCH-5478-JOR,,,2020-09-13,Jordan/Amman,100,7198.66,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5478-JOR/2020
-SEARCH-5479-JOR,,,2020-09-14,Jordan/Amman,100,6729.96,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5479-JOR/2020
-SEARCH-5480-JOR,,,2020-09-15,Jordan/Amman,100,5899.5,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5480-JOR/2020
-SEARCH-5483-JOR,,,2020-09-05,Jordan/Irbid,98.7385,2980.74,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5483-JOR/2020
-SEARCH-5484-JOR,,,2020-09-08,Jordan/Amman,100,6137.62,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5484-JOR/2020
-SEARCH-5485-JOR,,,2020-09-13,Jordan/Amman,97.7728,2155.19,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5485-JOR/2020
-SEARCH-5486-JOR,,,2020-09-14,Jordan/Amman,99.0207,2149.66,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5486-JOR/2020
-SEARCH-5487-JOR,,,2020-08-22,Jordan/Amman,99.9932,7277.94,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5487-JOR/2020
-SEARCH-5490-JOR,,,2020-09-07,Jordan/Aqaba,100,3889.48,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5490-JOR/2020
-SEARCH-5497-JOR,,,2020-09-07,Jordan/Amman,100,6156.19,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5497-JOR/2020
-SEARCH-5498-JOR,,,2020-09-08,Jordan/Amman,100,5499.98,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5498-JOR/2020
-SEARCH-5499-JOR,,,2020-09-12,Jordan/Amman,100,5504.69,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5499-JOR/2020
-SEARCH-5500-JOR,,,2020-09-14,Jordan/Amman,99.4321,3381.09,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5500-JOR/2020
-SEARCH-5501-JOR,,,2020-09-14,Jordan/Amman,100,6328.83,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5501-JOR/2020
-SEARCH-5504-SAN,,,2020-11-25,USA/California/San Diego,100,5550.61,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5504-SAN/2020
-SEARCH-5505-SAN,,,2020-11-30,USA/California/San Diego,100,4256.81,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5505-SAN/2020
-SEARCH-5506-SAN,,,2020-11-18,USA/California/San Diego,100,5951.78,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5506-SAN/2020
-SEARCH-5507-SAN,,,2020-11-25,USA/California/San Diego,96.7595,2086.98,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5507-SAN/2020
-SEARCH-5509-SAN,,,2020-11-29,USA/California/San Diego,100,5491.14,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5509-SAN/2020
-SEARCH-5510-SAN,,,2020-11-18,USA/California/San Diego,100,5769.09,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5510-SAN/2020
-SEARCH-5511-SAN,,,2020-11-23,USA/California/San Diego,100,5122.46,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5511-SAN/2020
-SEARCH-5512-SAN,,,2020-11-25,USA/California/San Diego,100,6927.31,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5512-SAN/2020
-SEARCH-5514-SAN,,,2020-11-30,USA/California/San Diego,98.8439,5231.01,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5514-SAN/2020
-SEARCH-5515-SAN,,,2020-11-17,USA/California/San Diego,100,7017.82,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5515-SAN/2020
-SEARCH-5516-SAN,,,2020-11-18,USA/California/San Diego,100,6056.78,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5516-SAN/2020
-SEARCH-5518-SAN,,,2020-11-17,USA/California/San Diego,98.8439,5402.07,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5518-SAN/2020
-SEARCH-5519-SAN,,,2020-11-18,USA/California/San Diego,100,5237.04,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5519-SAN/2020
-SEARCH-5520-SAN,,,2020-11-23,USA/California/San Diego,98.9969,6092.62,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5520-SAN/2020
-SEARCH-5521-SAN,,,2020-11-25,USA/California/San Diego,100,6013.96,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5521-SAN/2020
-SEARCH-5528-SAN,,,2020-11-25,USA/California/San Diego,100,5835.18,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5528-SAN/2020
-SEARCH-5529-SAN,,,2020-11-25,USA/California/San Diego,100,6773.78,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5529-SAN/2020
-SEARCH-5530-SAN,,,2020-11-30,USA/California/San Diego,100,4071.04,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5530-SAN/2020
-SEARCH-5532-SAN,,,2020-11-17,USA/California/San Diego,97.3069,3259.75,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5532-SAN/2020
-SEARCH-5533-SAN,,,2020-11-19,USA/California/San Diego,100,4473.29,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5533-SAN/2020
-SEARCH-5534-SAN,,,2020-11-23,USA/California/San Diego,100,5822.19,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5534-SAN/2020
-SEARCH-5536-SAN,,,2020-11-25,USA/California/San Diego,100,6034.14,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5536-SAN/2020
-SEARCH-5537-SAN,,,2020-11-30,USA/California/San Diego,100,6854.9,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5537-SAN/2020
-SEARCH-5540-SAN,,,2020-11-19,USA/California/San Diego,98.6875,3012.83,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5540-SAN/2020
-SEARCH-5541-SAN,,,2020-11-23,USA/California/San Diego,100,5027.52,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5541-SAN/2020
-SEARCH-5544-SAN,,,2020-11-30,USA/California/San Diego,100,6690.92,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5544-SAN/2020
-SEARCH-5545-SAN,,,2020-12-01,USA/California/San Diego,100,6152.66,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5545-SAN/2020
-SEARCH-5548-SAN,,,2020-11-24,USA/California/San Diego,100,5665.81,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5548-SAN/2020
-SEARCH-5551-SAN,,,2020-11-29,USA/California/San Diego,100,4323.62,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5551-SAN/2020
-SEARCH-5552-SAN,,,2020-11-30,USA/California/San Diego,100,6377.43,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5552-SAN/2020
-SEARCH-5554-SAN,,,2020-11-18,USA/California/San Diego,100,3574.87,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5554-SAN/2020
-SEARCH-5555-SAN,,,2020-11-19,USA/California/San Diego,97.2491,2294.84,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5555-SAN/2020
-SEARCH-5556-SAN,,,2020-11-24,USA/California/San Diego,99.8878,3590.87,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5556-SAN/2020
-SEARCH-5557-SAN,,,2020-11-25,USA/California/San Diego,100,5821.25,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5557-SAN/2020
-SEARCH-5558-SAN,,,2020-11-25,USA/California/San Diego,100,4460.54,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5558-SAN/2020
-SEARCH-5560-SAN,,,2020-11-30,USA/California/San Diego,100,4953.35,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5560-SAN/2020
-SEARCH-5562-SAN,,,2020-11-18,USA/California/San Diego,100,5008.08,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5562-SAN/2020
-SEARCH-5564-SAN,,,2020-11-25,USA/California/San Diego,100,4767.87,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5564-SAN/2020
-SEARCH-5565-SAN,,,2020-11-25,USA/California/San Diego,100,5899.59,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5565-SAN/2020
-SEARCH-5566-SAN,,,2020-11-25,USA/California/San Diego,100,4646.17,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5566-SAN/2020
-SEARCH-5567-SAN,,,2020-11-29,USA/California/San Diego,95.362,1819.84,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5567-SAN/2020
-SEARCH-5570-SAN,,,2020-11-22,USA/California/San Diego,100,6445.26,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5570-SAN/2020
-SEARCH-5573-SAN,,,2020-11-25,USA/California/San Diego,100,4976.1,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5573-SAN/2020
+SEARCH-5412-SAN,,EPI_ISL_755222,2020-11-25,USA/California/San Diego,100,6147.46,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5412-SAN/2020
+SEARCH-5413-SAN,,EPI_ISL_755223,2020-11-28,USA/California/San Diego,100,5593.27,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5413-SAN/2020
+SEARCH-5414-SAN,,EPI_ISL_755224,2020-11-25,USA/California/San Diego,100,6268.72,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5414-SAN/2020
+SEARCH-5415-SAN,,EPI_ISL_755225,2020-11-29,USA/California/San Diego,100,6822.15,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5415-SAN/2020
+SEARCH-5416-SAN,,EPI_ISL_755226,2020-11-30,USA/California/San Diego,100,6313.99,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5416-SAN/2020
+SEARCH-5417-SAN,,EPI_ISL_755227,2020-11-30,USA/California/San Diego,100,6945.38,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5417-SAN/2020
+SEARCH-5419-SAN,,EPI_ISL_755228,2020-11-30,USA/California/San Diego,100,4685.93,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5419-SAN/2020
+SEARCH-5420-SAN,,EPI_ISL_755229,2020-11-29,USA/California/San Diego,100,6463.25,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5420-SAN/2020
+SEARCH-5421-SAN,,EPI_ISL_755230,2020-11-30,USA/California/San Diego,100,6351.29,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5421-SAN/2020
+SEARCH-5422-SAN,,EPI_ISL_755231,2020-11-30,USA/California/San Diego,100,6965.76,SEARCH Alliance San Diego,UCSD EXCITE,hCoV-19/USA/SEARCH-5422-SAN/2020
+SEARCH-5424-JOR,,EPI_ISL_755232,2020-08-13,Jordan/Amman,100,6429.36,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5424-JOR/2020
+SEARCH-5425-JOR,,EPI_ISL_755233,2020-08-23,Jordan/Amman,99.9932,3390.39,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5425-JOR/2020
+SEARCH-5426-JOR,,EPI_ISL_755234,2020-08-30,Jordan/Irbid,100,5840.25,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5426-JOR/2020
+SEARCH-5427-JOR,,EPI_ISL_755235,2020-09-06,Jordan/Amman,100,3510.88,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5427-JOR/2020
+SEARCH-5429-JOR,,EPI_ISL_755236,2020-08-18,Jordan/Amman,100,6206.84,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5429-JOR/2020
+SEARCH-5430-JOR,,EPI_ISL_755237,2020-08-23,Jordan/Amman,99.0683,3243.11,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5430-JOR/2020
+SEARCH-5431-JOR,,EPI_ISL_755238,2020-08-31,Jordan/Amman,99.6124,3519.92,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5431-JOR/2020
+SEARCH-5432-JOR,,EPI_ISL_755239,2020-09-07,Jordan/Amman,99.2791,4954.08,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5432-JOR/2020
+SEARCH-5433-JOR,,EPI_ISL_755141,2020-09-09,Jordan/Amman,100,6528.54,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5433-JOR/2020
+SEARCH-5435-JOR,,EPI_ISL_755120,2020-09-14,Jordan/Amman,97.3818,2431.55,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5435-JOR/2020
+SEARCH-5436-JOR,,EPI_ISL_755129,2020-08-18,Jordan/Amman,98.3508,2604.29,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5436-JOR/2020
+SEARCH-5437-JOR,,EPI_ISL_755240,2020-08-24,Jordan/Amman,99.4866,3694.87,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5437-JOR/2020
+SEARCH-5442-JOR,,EPI_ISL_755128,2020-09-14,Jordan/Amman,98.038,2511.98,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5442-JOR/2020
+SEARCH-5444-JOR,,EPI_ISL_755124,2020-08-24,Jordan/Amman,97.7932,5032.23,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5444-JOR/2020
+SEARCH-5445-JOR,,EPI_ISL_755241,2020-09-09,Jordan/Amman,100,6663.96,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5445-JOR/2020
+SEARCH-5446-JOR,,EPI_ISL_755242,2020-09-13,Jordan/Amman,100,6848.26,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5446-JOR/2020
+SEARCH-5447-JOR,,EPI_ISL_755118,2020-09-14,Jordan/Amman,97.1811,4198.52,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5447-JOR/2020
+SEARCH-5449-JOR,,EPI_ISL_755126,2020-08-26,Jordan/Amman,97.8918,3889.77,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5449-JOR/2020
+SEARCH-5451-JOR,,EPI_ISL_755243,2020-09-07,Jordan/Amman,99.0785,4094.4,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5451-JOR/2020
+SEARCH-5452-JOR,,EPI_ISL_755127,2020-09-09,Jordan/Amman,98.0176,3882.13,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5452-JOR/2020
+SEARCH-5453-JOR,,EPI_ISL_755244,2020-09-13,Jordan/Amman,100,6640.29,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5453-JOR/2020
+SEARCH-5454-JOR,,EPI_ISL_755125,2020-09-14,Jordan/Amman,97.8,2579.92,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5454-JOR/2020
+SEARCH-5455-JOR,,EPI_ISL_755122,2020-09-15,Jordan/Amman,97.6878,3480.18,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5455-JOR/2020
+SEARCH-5456-JOR,,EPI_ISL_755121,2020-09-01,Jordan/Amman,97.4464,2876.17,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5456-JOR/2020
+SEARCH-5457-JOR,,EPI_ISL_755245,2020-09-07,Jordan/Amman,100,6520.93,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5457-JOR/2020
+SEARCH-5459-JOR,,EPI_ISL_755246,2020-09-13,Jordan/Amman,100,4393.01,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5459-JOR/2020
+SEARCH-5460-JOR,,EPI_ISL_755247,2020-09-14,Jordan/Amman,99.9286,3353.28,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5460-JOR/2020
+SEARCH-5461-JOR,,EPI_ISL_755248,2020-09-15,Jordan/Amman,100,4371.12,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5461-JOR/2020
+SEARCH-5462-JOR,,EPI_ISL_755249,2020-09-07,Jordan/Amman,100,6158.72,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5462-JOR/2020
+SEARCH-5463-JOR,,EPI_ISL_755250,2020-09-08,Jordan/Amman,100,6641.53,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5463-JOR/2020
+SEARCH-5464-JOR,,EPI_ISL_755142,2020-09-14,Jordan/Amman,100,6768.25,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5464-JOR/2020
+SEARCH-5465-JOR,,EPI_ISL_755251,2020-09-15,Jordan/Amman,100,6344.83,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5465-JOR/2020
+SEARCH-5466-JOR,,EPI_ISL_755252,2020-08-20,Jordan/Amman,100,7040.64,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5466-JOR/2020
+SEARCH-5467-JOR,,EPI_ISL_755253,2020-08-25,Jordan/Amman,100,5141.82,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5467-JOR/2020
+SEARCH-5469-JOR,,EPI_ISL_755143,2020-09-08,Jordan/Amman,100,4298.62,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5469-JOR/2020
+SEARCH-5470-JOR,,EPI_ISL_755144,2020-09-10,Jordan/Amman,100,4357.25,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5470-JOR/2020
+SEARCH-5473-JOR,,EPI_ISL_755254,2020-08-22,Jordan/Amman,100,5080.49,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5473-JOR/2020
+SEARCH-5474-JOR,,EPI_ISL_755255,2020-08-29,Jordan/Amman,100,6713.98,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5474-JOR/2020
+SEARCH-5476-JOR,,EPI_ISL_755256,2020-09-08,Jordan/Amman,100,4671.79,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5476-JOR/2020
+SEARCH-5477-JOR,,EPI_ISL_755257,2020-09-11,Jordan/Amman,100,6982.05,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5477-JOR/2020
+SEARCH-5478-JOR,,EPI_ISL_755258,2020-09-13,Jordan/Amman,100,7198.66,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5478-JOR/2020
+SEARCH-5479-JOR,,EPI_ISL_755259,2020-09-14,Jordan/Amman,100,6729.96,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5479-JOR/2020
+SEARCH-5480-JOR,,EPI_ISL_755260,2020-09-15,Jordan/Amman,100,5899.5,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5480-JOR/2020
+SEARCH-5483-JOR,,EPI_ISL_755131,2020-09-05,Jordan/Irbid,98.7385,2980.74,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5483-JOR/2020
+SEARCH-5484-JOR,,EPI_ISL_755261,2020-09-08,Jordan/Amman,100,6137.62,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5484-JOR/2020
+SEARCH-5485-JOR,,EPI_ISL_755123,2020-09-13,Jordan/Amman,97.7728,2155.19,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5485-JOR/2020
+SEARCH-5486-JOR,,EPI_ISL_755262,2020-09-14,Jordan/Amman,99.0207,2149.66,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5486-JOR/2020
+SEARCH-5487-JOR,,EPI_ISL_755145,2020-08-22,Jordan/Amman,99.9932,7277.94,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5487-JOR/2020
+SEARCH-5490-JOR,,EPI_ISL_755263,2020-09-07,Jordan/Aqaba,100,3889.48,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5490-JOR/2020
+SEARCH-5497-JOR,,EPI_ISL_755264,2020-09-07,Jordan/Amman,100,6156.19,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5497-JOR/2020
+SEARCH-5498-JOR,,EPI_ISL_755265,2020-09-08,Jordan/Amman,100,5499.98,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5498-JOR/2020
+SEARCH-5499-JOR,,EPI_ISL_755266,2020-09-12,Jordan/Amman,100,5504.69,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5499-JOR/2020
+SEARCH-5500-JOR,,EPI_ISL_755267,2020-09-14,Jordan/Amman,99.4321,3381.09,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5500-JOR/2020
+SEARCH-5501-JOR,,EPI_ISL_755268,2020-09-14,Jordan/Amman,100,6328.83,"Issa Abu-Dayyeh, Ahmad Tibi, Lama Hussein, Lina Mohammad, Zein Naber, Amid Abdelnour with SEARCH Alliance San Diego",Biolab Diagnostic Laboratories,hCoV-19/JOR/SEARCH-5501-JOR/2020
+SEARCH-5504-SAN,,EPI_ISL_755269,2020-11-25,USA/California/San Diego,100,5550.61,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5504-SAN/2020
+SEARCH-5505-SAN,,EPI_ISL_755138,2020-11-30,USA/California/San Diego,100,4256.81,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5505-SAN/2020
+SEARCH-5506-SAN,,EPI_ISL_755270,2020-11-18,USA/California/San Diego,100,5951.78,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5506-SAN/2020
+SEARCH-5507-SAN,,EPI_ISL_755116,2020-11-25,USA/California/San Diego,96.7595,2086.98,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5507-SAN/2020
+SEARCH-5509-SAN,,EPI_ISL_755139,2020-11-29,USA/California/San Diego,100,5491.14,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5509-SAN/2020
+SEARCH-5510-SAN,,EPI_ISL_755271,2020-11-18,USA/California/San Diego,100,5769.09,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5510-SAN/2020
+SEARCH-5511-SAN,,EPI_ISL_755272,2020-11-23,USA/California/San Diego,100,5122.46,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5511-SAN/2020
+SEARCH-5512-SAN,,EPI_ISL_755273,2020-11-25,USA/California/San Diego,100,6927.31,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5512-SAN/2020
+SEARCH-5514-SAN,,EPI_ISL_755132,2020-11-30,USA/California/San Diego,98.8439,5231.01,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5514-SAN/2020
+SEARCH-5515-SAN,,EPI_ISL_755274,2020-11-17,USA/California/San Diego,100,7017.82,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5515-SAN/2020
+SEARCH-5516-SAN,,EPI_ISL_755136,2020-11-18,USA/California/San Diego,100,6056.78,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5516-SAN/2020
+SEARCH-5518-SAN,,EPI_ISL_755134,2020-11-17,USA/California/San Diego,98.8439,5402.07,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5518-SAN/2020
+SEARCH-5519-SAN,,EPI_ISL_755275,2020-11-18,USA/California/San Diego,100,5237.04,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5519-SAN/2020
+SEARCH-5520-SAN,,EPI_ISL_755135,2020-11-23,USA/California/San Diego,98.9969,6092.62,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5520-SAN/2020
+SEARCH-5521-SAN,,EPI_ISL_755276,2020-11-25,USA/California/San Diego,100,6013.96,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5521-SAN/2020
+SEARCH-5528-SAN,,EPI_ISL_755277,2020-11-25,USA/California/San Diego,100,5835.18,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5528-SAN/2020
+SEARCH-5529-SAN,,EPI_ISL_755278,2020-11-25,USA/California/San Diego,100,6773.78,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5529-SAN/2020
+SEARCH-5530-SAN,,EPI_ISL_755279,2020-11-30,USA/California/San Diego,100,4071.04,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5530-SAN/2020
+SEARCH-5532-SAN,,EPI_ISL_755119,2020-11-17,USA/California/San Diego,97.3069,3259.75,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5532-SAN/2020
+SEARCH-5533-SAN,,EPI_ISL_755280,2020-11-19,USA/California/San Diego,100,4473.29,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5533-SAN/2020
+SEARCH-5534-SAN,,EPI_ISL_755281,2020-11-23,USA/California/San Diego,100,5822.19,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5534-SAN/2020
+SEARCH-5536-SAN,,EPI_ISL_755282,2020-11-25,USA/California/San Diego,100,6034.14,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5536-SAN/2020
+SEARCH-5537-SAN,,EPI_ISL_755283,2020-11-30,USA/California/San Diego,100,6854.9,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5537-SAN/2020
+SEARCH-5540-SAN,,EPI_ISL_755130,2020-11-19,USA/California/San Diego,98.6875,3012.83,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5540-SAN/2020
+SEARCH-5541-SAN,,EPI_ISL_755284,2020-11-23,USA/California/San Diego,100,5027.52,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5541-SAN/2020
+SEARCH-5544-SAN,,EPI_ISL_755285,2020-11-30,USA/California/San Diego,100,6690.92,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5544-SAN/2020
+SEARCH-5545-SAN,,EPI_ISL_755286,2020-12-01,USA/California/San Diego,100,6152.66,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5545-SAN/2020
+SEARCH-5548-SAN,,EPI_ISL_755287,2020-11-24,USA/California/San Diego,100,5665.81,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5548-SAN/2020
+SEARCH-5551-SAN,,EPI_ISL_755288,2020-11-29,USA/California/San Diego,100,4323.62,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5551-SAN/2020
+SEARCH-5552-SAN,,EPI_ISL_755289,2020-11-30,USA/California/San Diego,100,6377.43,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5552-SAN/2020
+SEARCH-5554-SAN,,EPI_ISL_755290,2020-11-18,USA/California/San Diego,100,3574.87,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5554-SAN/2020
+SEARCH-5555-SAN,,EPI_ISL_755117,2020-11-19,USA/California/San Diego,97.2491,2294.84,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5555-SAN/2020
+SEARCH-5556-SAN,,EPI_ISL_755291,2020-11-24,USA/California/San Diego,99.8878,3590.87,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5556-SAN/2020
+SEARCH-5557-SAN,,EPI_ISL_755292,2020-11-25,USA/California/San Diego,100,5821.25,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5557-SAN/2020
+SEARCH-5558-SAN,,EPI_ISL_755293,2020-11-25,USA/California/San Diego,100,4460.54,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5558-SAN/2020
+SEARCH-5560-SAN,,EPI_ISL_755294,2020-11-30,USA/California/San Diego,100,4953.35,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5560-SAN/2020
+SEARCH-5562-SAN,,EPI_ISL_755295,2020-11-18,USA/California/San Diego,100,5008.08,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5562-SAN/2020
+SEARCH-5564-SAN,,EPI_ISL_755296,2020-11-25,USA/California/San Diego,100,4767.87,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5564-SAN/2020
+SEARCH-5565-SAN,,EPI_ISL_755297,2020-11-25,USA/California/San Diego,100,5899.59,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5565-SAN/2020
+SEARCH-5566-SAN,,EPI_ISL_755298,2020-11-25,USA/California/San Diego,100,4646.17,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5566-SAN/2020
+SEARCH-5567-SAN,,EPI_ISL_755115,2020-11-29,USA/California/San Diego,95.362,1819.84,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5567-SAN/2020
+SEARCH-5570-SAN,,EPI_ISL_755299,2020-11-22,USA/California/San Diego,100,6445.26,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5570-SAN/2020
+SEARCH-5573-SAN,,EPI_ISL_755300,2020-11-25,USA/California/San Diego,100,4976.1,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5573-SAN/2020
+SEARCH-5574-SAN,,EPI_ISL_751801,2020-12-29,USA/California/San Diego,100,,"SEARCH Alliance San Diego with Tracy Basler, Jovan Shephard, Brett Austin",San Diego County Public Health Laboratory,hCoV-19/USA/SEARCH-5574-SAN/2020
