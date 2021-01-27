@@ -5,28 +5,29 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 
 | Location                         | Number of sequences |
 |:---------------------------------|:--------------------|
-| Jordan/Amman                     | 444                 |
+| Jordan/Amman                     | 483                 |
 | Jordan/Aqaba                     | 41                  |
 | Jordan/Irbid                     | 58                  |
 | Jordan/Mafraq                    | 2                   |
-| Jordan/Zarqa                     | 4                   |
+| Jordan/Zarqa                     | 5                   |
 | MEX/Baja California/Ensenada     | 1                   |
 | MEX/Baja California/Mexicali     | 1                   |
 | MEX/Baja California/Rosarito     | 1                   |
-| MEX/Baja California/Tijuana      | 192                 |
+| MEX/Baja California/Tijuana      | 204                 |
 | MEX/Sonora/San Luis Río Colorado | 2                   |
 | USA/Arizona/Yuma                 | 1                   |
 | USA/California/Cruise_Ship_1     | 8                   |
 | USA/California/Cruise_Ship_2     | 32                  |
-| USA/California/Imperial          | 125                 |
+| USA/California/Imperial          | 126                 |
 | USA/California/Kern              | 1                   |
-| USA/California/Los Angeles       | 4                   |
+| USA/California/Los Angeles       | 5                   |
 | USA/California/Orange            | 2                   |
-| USA/California/Riverside         | 3                   |
-| USA/California/San Bernadino     | 1                   |
-| USA/California/San Diego         | 2401                |
+| USA/California/Riverside         | 6                   |
+| USA/California/San Bernadino     | 2                   |
+| USA/California/San Diego         | 2624                |
 | USA/California/Santa Barbara     | 1                   |
-| USA/Louisiana/New Orleans        | 123                 |
+| USA/California/Ventura           | 1                   |
+| USA/Louisiana/New Orleans        | 139                 |
 | USA/West Virginia/Kanawha        | 1                   |
 
 #### Raw read files
