@@ -5,15 +5,15 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 
 | Location                         | Number of sequences |
 |:---------------------------------|:--------------------|
-| Jordan/Amman                     | 489                 |
+| Jordan/Amman                     | 483                 |
 | Jordan/Aqaba                     | 41                  |
-| Jordan/Irbid                     | 59                  |
-| Jordan/Mafraq                    | 4                   |
+| Jordan/Irbid                     | 58                  |
+| Jordan/Mafraq                    | 2                   |
 | Jordan/Zarqa                     | 5                   |
 | MEX/Baja California/Ensenada     | 1                   |
 | MEX/Baja California/Mexicali     | 1                   |
 | MEX/Baja California/Rosarito     | 1                   |
-| MEX/Baja California/Tijuana      | 270                 |
+| MEX/Baja California/Tijuana      | 275                 |
 | MEX/Sonora/San Luis Río Colorado | 2                   |
 | USA/Arizona/Yuma                 | 1                   |
 | USA/California/Cruise_Ship_1     | 8                   |
@@ -21,13 +21,14 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | USA/California/Imperial          | 130                 |
 | USA/California/Kern              | 1                   |
 | USA/California/Los Angeles       | 8                   |
+| USA/California/Modesto           | 1                   |
 | USA/California/Orange            | 3                   |
 | USA/California/Riverside         | 23                  |
 | USA/California/San Bernadino     | 2                   |
-| USA/California/San Diego         | 3411                |
+| USA/California/San Diego         | 3575                |
 | USA/California/Santa Barbara     | 1                   |
 | USA/California/Ventura           | 1                   |
-| USA/Louisiana/New Orleans        | 144                 |
+| USA/Louisiana/New Orleans        | 143                 |
 | USA/West Virginia/Kanawha        | 1                   |
 
 #### Raw read files
