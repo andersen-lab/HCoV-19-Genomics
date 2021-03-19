@@ -13,19 +13,19 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | MEX/Baja California/Ensenada     | 1                   |
 | MEX/Baja California/Mexicali     | 1                   |
 | MEX/Baja California/Rosarito     | 1                   |
-| MEX/Baja California/Tijuana      | 275                 |
+| MEX/Baja California/Tijuana      | 283                 |
 | MEX/Sonora/San Luis Río Colorado | 2                   |
 | USA/Arizona/Yuma                 | 1                   |
 | USA/California/Cruise_Ship_1     | 8                   |
 | USA/California/Cruise_Ship_2     | 32                  |
-| USA/California/Imperial          | 130                 |
+| USA/California/Imperial          | 131                 |
 | USA/California/Kern              | 1                   |
 | USA/California/Los Angeles       | 8                   |
 | USA/California/Modesto           | 1                   |
 | USA/California/Orange            | 3                   |
-| USA/California/Riverside         | 23                  |
+| USA/California/Riverside         | 28                  |
 | USA/California/San Bernadino     | 2                   |
-| USA/California/San Diego         | 3575                |
+| USA/California/San Diego         | 3827                |
 | USA/California/Santa Barbara     | 1                   |
 | USA/California/Ventura           | 1                   |
 | USA/Louisiana/New Orleans        | 143                 |
