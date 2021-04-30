@@ -16,20 +16,34 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | MEX/Baja California/Tijuana      | 440                 |
 | MEX/Sonora/San Luis Río Colorado | 2                   |
 | USA/Arizona/Yuma                 | 1                   |
+| USA/California/Contra Costa      | 2                   |
 | USA/California/Cruise_Ship_1     | 8                   |
 | USA/California/Cruise_Ship_2     | 32                  |
 | USA/California/Davis             | 1                   |
-| USA/California/Imperial          | 135                 |
+| USA/California/Imperial          | 139                 |
 | USA/California/Kern              | 1                   |
-| USA/California/Los Angeles       | 12                  |
+| USA/California/Los Angeles       | 17                  |
 | USA/California/Modesto           | 1                   |
-| USA/California/Orange            | 4                   |
+| USA/California/Orange            | 8                   |
 | USA/California/Riverside         | 39                  |
-| USA/California/San Bernadino     | 2                   |
-| USA/California/San Diego         | 5028                |
-| USA/California/Santa Barbara     | 1                   |
-| USA/California/Ventura           | 1                   |
+| USA/California/Sacramento        | 1                   |
+| USA/California/San Bernadino     | 6                   |
+| USA/California/San Diego         | 10444               |
+| USA/California/Santa Barbara     | 2                   |
+| USA/California/Santa Clara       | 1                   |
+| USA/California/Sonoma            | 1                   |
+| USA/California/Sutter            | 1                   |
+| USA/California/Ventura           | 2                   |
+| USA/California/DuPage            | 1                   |
+| USA/California/Rock Island       | 1                   |
 | USA/Louisiana/New Orleans        | 143                 |
+| USA/Minnesota/Ramsey             | 1                   |
+| USA/Ohio/Hamilton                | 1                   |
+| USA/Oklahoma/Tulsa               | 1                   |
+| USA/Tennessee/Grainger           | 1                   |
+| USA/Texas/Montgomery             | 1                   |
+| USA/Washington/King              | 2                   |
+| USA/Washington/Kitsap            | 1                   |
 | USA/West Virginia/Kanawha        | 1                   |
 
 #### Raw read files
