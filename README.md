@@ -20,15 +20,15 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | USA/California/Cruise_Ship_1     | 8                   |
 | USA/California/Cruise_Ship_2     | 32                  |
 | USA/California/Davis             | 1                   |
-| USA/California/Imperial          | 144                 |
+| USA/California/Imperial          | 146                 |
 | USA/California/Kern              | 1                   |
-| USA/California/Los Angeles       | 25                  |
+| USA/California/Los Angeles       | 26                  |
 | USA/California/Modesto           | 1                   |
-| USA/California/Orange            | 10                   |
-| USA/California/Riverside         | 59                  |
+| USA/California/Orange            | 11                   |
+| USA/California/Riverside         | 61                  |
 | USA/California/Sacramento        | 1                   |
 | USA/California/San Bernadino     | 6                   |
-| USA/California/San Diego         | 10864               |
+| USA/California/San Diego         | 11247               |
 | USA/California/Santa Barbara     | 2                   |
 | USA/California/Santa Clara       | 1                   |
 | USA/California/Sonoma            | 1                   |
