@@ -13,7 +13,7 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | MEX/Baja California/Ensenada     | 1                   |
 | MEX/Baja California/Mexicali     | 1                   |
 | MEX/Baja California/Rosarito     | 1                   |
-| MEX/Baja California/Tijuana      | 441                 |
+| MEX/Baja California/Tijuana      | 701                 |
 | MEX/Sonora/San Luis Río Colorado | 2                   |
 | USA/Arizona/Yuma                 | 1                   |
 | USA/California/Contra Costa      | 2                   |
@@ -25,10 +25,10 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | USA/California/Los Angeles       | 26                  |
 | USA/California/Modesto           | 1                   |
 | USA/California/Orange            | 11                   |
-| USA/California/Riverside         | 61                  |
+| USA/California/Riverside         | 65                  |
 | USA/California/Sacramento        | 1                   |
 | USA/California/San Bernadino     | 6                   |
-| USA/California/San Diego         | 11247               |
+| USA/California/San Diego         | 11561               |
 | USA/California/Santa Barbara     | 2                   |
 | USA/California/Santa Clara       | 1                   |
 | USA/California/Sonoma            | 1                   |
