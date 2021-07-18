@@ -23,13 +23,13 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | USA/California/Davis             | 1                   |
 | USA/California/Imperial          | 148                 |
 | USA/California/Kern              | 1                   |
-| USA/California/Los Angeles       | 32                  |
+| USA/California/Los Angeles       | 104                 |
 | USA/California/Modesto           | 1                   |
 | USA/California/Orange            | 12                  |
 | USA/California/Riverside         | 81                  |
 | USA/California/Sacramento        | 1                   |
 | USA/California/San Bernadino     | 6                   |
-| USA/California/San Diego         | 12799               |
+| USA/California/San Diego         | 12853               |
 | USA/California/Santa Barbara     | 2                   |
 | USA/California/Santa Clara       | 1                   |
 | USA/California/Sonoma            | 1                   |
