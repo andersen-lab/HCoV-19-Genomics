@@ -16,7 +16,6 @@ CA-SEARCH-103464,B.1.2,,,,,,PANGO-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,Ass
 CA-SEARCH-103472,B.1.2,,,,,,PANGO-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,Assigned from designation hash.
 CA-SEARCH-103503,B.1.561,,,,,,PANGO-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,Assigned from designation hash.
 CA-SEARCH-103529,B.1.429,,,Epsilon (B.1.427/429-like),1.000000,0.000000,PANGO-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103747,B.1.243,,,,,,PANGO-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,Assigned from designation hash.
 MG0987,B.1,,,,,,PANGO-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,Assigned from designation hash.
 SEARCH-0017-SAN,B.1.1,,,,,,PANGO-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,Assigned from designation hash.
 SEARCH-0034-JOR,B.1.1,,,,,,PANGO-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,Assigned from designation hash.
@@ -3457,131 +3456,6 @@ CA-SEARCH-103602,B.1.561,0.0,0.9944295356591039,,,,PLEARN-v1.2.36,3.1.7,2021-07-
 CA-SEARCH-103603,B.1.404,0.0,0.9986233145726201,,,,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,
 CA-SEARCH-103604,B.1.1.432,0.0,0.9997573306370071,,,,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,
 CA-SEARCH-103605,B.1.429,0.0,1.0,Epsilon (B.1.427/429-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103703,B.1.429,0.0,1.0,Epsilon (B.1.427/429-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103705,B.1.429,0.0,1.0,Epsilon (B.1.427/429-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103706,B.1.429,0.0,1.0,Epsilon (B.1.427/429-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103707,B.1.429,0.0,1.0,Epsilon (B.1.427/429-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103709,B.1.429,0.0,0.9978523381149201,Epsilon (B.1.427/429-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103710,B.1.2,0.0,1.0,,,,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,
-CA-SEARCH-103712,B.1.429,0.0,1.0,Epsilon (B.1.427/429-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103713,B.1.429,0.0,1.0,Epsilon (B.1.427/429-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103714,B.1.427,0.0,1.0,,,,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,
-CA-SEARCH-103715,B.1.429,0.0,1.0,Epsilon (B.1.427/429-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103716,B.1,0.0,1.0,,,,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,
-CA-SEARCH-103717,B.1.429,0.0,1.0,Epsilon (B.1.427/429-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103718,B.1.429,0.0,1.0,Epsilon (B.1.427/429-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103719,B.1.429,0.0,1.0,Epsilon (B.1.427/429-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103722,B.1.429,0.0,1.0,Epsilon (B.1.427/429-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103723,B.1.429,0.0,0.9941023346620028,Epsilon (B.1.427/429-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103724,B.1.429,0.0,1.0,Epsilon (B.1.427/429-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103726,B.1.2,0.0,1.0,,,,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,
-CA-SEARCH-103728,B.1.429,0.0,1.0,Epsilon (B.1.427/429-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103730,B.1.1.416,0.0,1.0,,,,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,
-CA-SEARCH-103731,B.1.429,0.0,1.0,Epsilon (B.1.427/429-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103732,B.1.2,0.0,1.0,,,,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,
-CA-SEARCH-103734,B.1.429,0.0,1.0,Epsilon (B.1.427/429-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103735,B.1.429,0.0,1.0,Epsilon (B.1.427/429-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103736,B.1.429,0.0,1.0,Epsilon (B.1.427/429-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103737,B.1.369,0.0,0.9972428333941532,,,,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,
-CA-SEARCH-103738,B.1.429,0.0,0.9992716384089345,Epsilon (B.1.427/429-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103739,B.1.429,0.0,1.0,Epsilon (B.1.427/429-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103740,B.1.399,0.0,0.9942659617730785,,,,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,
-CA-SEARCH-103741,B.1,0.0,1.0,,,,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,
-CA-SEARCH-103742,B.1.400,0.0,1.0,,,,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,
-CA-SEARCH-103743,B.1.561,0.0,0.9931194528132888,,,,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,
-CA-SEARCH-103744,B.1.429,0.0,1.0,Epsilon (B.1.427/429-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103745,B.1.429,0.0,1.0,Epsilon (B.1.427/429-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103746,B.1.429,0.0,1.0,Epsilon (B.1.427/429-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103748,B.1.429,0.0,1.0,Epsilon (B.1.427/429-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103749,B.1.239,0.0,0.9988260059914177,,,,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,
-CA-SEARCH-103750,B.1.429,0.0,1.0,Epsilon (B.1.427/429-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103751,B.1.1.464,0.0,1.0,,,,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,
-CA-SEARCH-103752,B.1.429,0.0,1.0,Epsilon (B.1.427/429-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103753,B.1.2,0.0,1.0,,,,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,
-CA-SEARCH-103754,B.1.429,0.0,1.0,Epsilon (B.1.427/429-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103756,B.1.429,0.0,1.0,Epsilon (B.1.427/429-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103757,B.1.429,0.0,1.0,Epsilon (B.1.427/429-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103758,B.1.429,0.0,1.0,Epsilon (B.1.427/429-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103760,B.1.429,0.0,1.0,Epsilon (B.1.427/429-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103762,B.1.429,0.0,1.0,Epsilon (B.1.427/429-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103763,B.1.429,0.0,1.0,Epsilon (B.1.427/429-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103764,B.1.2,0.0,1.0,,,,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,
-CA-SEARCH-103765,B.1.427,0.0,1.0,,,,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,
-CA-SEARCH-103766,B.1.429,0.0,0.9983799765096594,Epsilon (B.1.427/429-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103769,B.1.2,0.0,1.0,,,,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,
-CA-SEARCH-103771,B.1,0.0,1.0,,,,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,
-CA-SEARCH-103772,B.1,0.0,1.0,,,,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,
-CA-SEARCH-103773,B.1.429,0.0,1.0,Epsilon (B.1.427/429-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103774,B.1.429,0.0,1.0,Epsilon (B.1.427/429-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103775,B.1.429,0.0,1.0,Epsilon (B.1.427/429-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103776,B.1.595,0.0,0.9984611023366946,,,,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,
-CA-SEARCH-103778,B.1.429,0.0,1.0,Epsilon (B.1.427/429-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103779,B.1.2,0.0,0.9962253429661498,,,,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,
-CA-SEARCH-103781,B.1.429,0.0,1.0,Epsilon (B.1.427/429-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103782,B.1.429,0.0,1.0,Epsilon (B.1.427/429-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103783,B.1.429,0.0,1.0,Epsilon (B.1.427/429-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103784,B.1.429,0.0,1.0,Epsilon (B.1.427/429-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103791,B.1.429,0.0,1.0,Epsilon (B.1.427/429-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103792,B.1.429,0.0,1.0,Epsilon (B.1.427/429-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103793,B.1.429,0.0,1.0,Epsilon (B.1.427/429-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103794,B.1.429,0.0,1.0,Epsilon (B.1.427/429-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103796,B.1.429,0.0,1.0,Epsilon (B.1.427/429-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103797,B.1.429,0.0,1.0,Epsilon (B.1.427/429-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103800,B.1.429,0.0,1.0,Epsilon (B.1.427/429-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103802,B.1.232,0.0,1.0,,,,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,
-CA-SEARCH-103803,B.1.2,0.0,1.0,,,,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,
-CA-SEARCH-103804,B.1.561,0.0,1.0,,,,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,
-CA-SEARCH-103805,B.1.429,0.0,0.9965511644891666,Epsilon (B.1.427/429-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103807,B.1.1.519,0.0,0.9978523381149201,,,,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,
-CA-SEARCH-103808,B.1.561,0.0,0.9944295356591039,,,,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,
-CA-SEARCH-103809,B.1.427,0.0,1.0,,,,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,
-CA-SEARCH-103811,B.1.1.519,0.0,0.9962253429661498,,,,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,
-CA-SEARCH-103814,B.1.1.432,0.0,1.0,,,,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,
-CA-SEARCH-103816,B.1.429,0.0,1.0,Epsilon (B.1.427/429-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103817,B.1.427,0.0,1.0,,,,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,
-CA-SEARCH-103818,B.1.1.7,0.0,1.0,Alpha (B.1.1.7-like),0.956500,0.043500,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103819,B.1.1.222,0.0,1.0,,,,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,
-CA-SEARCH-103821,B.1.177,0.0,1.0,,,,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,
-CA-SEARCH-103822,B.1.429,0.0,0.9982582631237849,Epsilon (B.1.427/429-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103823,B.1.126,0.0,1.0,,,,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,
-CA-SEARCH-103826,B.1.241,0.0,0.9944295356591039,,,,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,
-CA-SEARCH-103827,B.1.1.7,0.0,1.0,Alpha (B.1.1.7-like),0.956500,0.043500,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103828,B.1.588,0.0,1.0,,,,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,
-CA-SEARCH-103829,B.1.588,0.0,1.0,,,,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,
-CA-SEARCH-103830,B.1.427,0.0,1.0,,,,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,
-CA-SEARCH-103831,B.1.241,0.0,0.9987044009878943,,,,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,
-CA-SEARCH-103833,B.1.429,0.0,0.9999595632834614,Epsilon (B.1.427/429-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103834,B.1.241,0.0,1.0,,,,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,
-CA-SEARCH-103835,B.1,0.0,1.0,,,,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,
-CA-SEARCH-103836,B.1.427,0.0,1.0,,,,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,
-CA-SEARCH-103837,B.1.427,0.0,1.0,,,,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,
-CA-SEARCH-103839,B.1.232,0.0,1.0,,,,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,
-CA-SEARCH-103840,B.1.427,0.0,1.0,,,,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,
-CA-SEARCH-103842,B.1.429,0.0,1.0,Epsilon (B.1.427/429-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103844,B.1.429,0.0,1.0,Epsilon (B.1.427/429-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103846,P.1,0.0,1.0,Gamma (P.1-like),0.875000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 14; Ref alleles 0; Amb alleles 0; Oth alleles 2
-CA-SEARCH-103847,B.1.429,0.0,1.0,Epsilon (B.1.427/429-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103848,B.1.240,0.0,1.0,,,,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,
-CA-SEARCH-103850,B.1.429,0.0,0.9982176854214769,Epsilon (B.1.427/429-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103853,B.1.617.2,0.0,1.0,Delta (B.1.617.2-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103854,B.1.617.2,0.0,1.0,Delta (B.1.617.2-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103855,B.1.617.2,0.0,1.0,Delta (B.1.617.2-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103856,B.1.617.2,0.0,1.0,Delta (B.1.617.2-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103858,B.1.617.2,0.0,1.0,Delta (B.1.617.2-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103859,B.1.1.7,0.0,1.0,B.1.1.7-like+E484K,0.958300,0.041700,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 23; Ref alleles 1; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103860,B.1.1.7,0.0,1.0,Alpha (B.1.1.7-like),0.956500,0.043500,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103862,B.1.617.2,0.0,0.9997168742921857,Delta (B.1.617.2-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103863,B.1.617.2,0.0,1.0,Delta (B.1.617.2-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103864,B.1.617.2,0.0,1.0,Delta (B.1.617.2-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103867,B.1.617.2,0.0,1.0,Delta (B.1.617.2-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103870,B.1.617.2,0.0,1.0,Delta (B.1.617.2-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103871,B.1.617.2,0.0,1.0,Delta (B.1.617.2-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103872,B.1.617.2,0.0,1.0,Delta (B.1.617.2-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103873,B.1.617.2,0.0,1.0,Delta (B.1.617.2-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103874,B.1.1.7,0.0,1.0,Alpha (B.1.1.7-like),0.956500,0.043500,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103875,B.1.617.2,0.0,1.0,Delta (B.1.617.2-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103876,B.1.617.2,0.0,1.0,Delta (B.1.617.2-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
-CA-SEARCH-103877,B.1.617.2,0.0,1.0,Delta (B.1.617.2-like),1.000000,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
 PC00101P,B.1.36.36,0.0,1.0,,,,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,
 SEARCH-0007-SAN,B.1,0.0,1.0,,,,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,
 SEARCH-0016-SAN,B,0.0,1.0,,,,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,
