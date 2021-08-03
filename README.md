@@ -16,34 +16,40 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | MEX/Baja California/Tecate       | 7			 |
 | MEX/Baja California/Tijuana      | 801                 |
 | MEX/Sonora/San Luis Río Colorado | 35                  |
+| USA/Alaska/Anchorage		   | 1			 |
 | USA/Arizona/Yuma                 | 1                   |
-| USA/California/Contra Costa      | 2                   |
+| USA/California/Contra Costa      | 3                   |
 | USA/California/Cruise_Ship_1     | 8                   |
 | USA/California/Cruise_Ship_2     | 32                  |
 | USA/California/Davis             | 1                   |
-| USA/California/Imperial          | 148                 |
-| USA/California/Kern              | 1                   |
-| USA/California/Los Angeles       | 104                 |
+| USA/California/El Dorado         | 2			 |
+| USA/California/Fresno		   | 1			 |
+| USA/California/Imperial          | 151                 |
+| USA/California/Kern              | 2                   |
+| USA/California/Los Angeles       | 109                 |
 | USA/California/Modesto           | 1                   |
-| USA/California/Orange            | 12                  |
-| USA/California/Riverside         | 81                  |
+| USA/California/Orange            | 18                  |
+| USA/California/Riverside         | 90                  |
 | USA/California/Sacramento        | 1                   |
 | USA/California/San Bernadino     | 6                   |
-| USA/California/San Diego         | 12853               |
-| USA/California/Santa Barbara     | 2                   |
+| USA/California/San Diego         | 13327               |
+| USA/California/San Mateo	   | 1			 |
+| USA/California/Santa Barbara     | 4                   |
 | USA/California/Santa Clara       | 1                   |
 | USA/California/Sonoma            | 1                   |
 | USA/California/Sutter            | 1                   |
-| USA/California/Ventura           | 2                   |
+| USA/California/Ventura           | 3                   |
 | USA/California/DuPage            | 1                   |
 | USA/California/Rock Island       | 1                   |
 | USA/Louisiana/New Orleans        | 143                 |
 | USA/Minnesota/Ramsey             | 1                   |
 | USA/Ohio/Hamilton                | 1                   |
 | USA/Oklahoma/Tulsa               | 1                   |
+| USA/Pennsylvania/Allegheny	   | 1			 |
 | USA/Tennessee/Grainger           | 1                   |
 | USA/Texas/Montgomery             | 1                   |
-| USA/Washington/King              | 2                   |
+| USA/Utah/Salt Lake		   | 1			 |
+| USA/Washington/King              | 3                   |
 | USA/Washington/Kitsap            | 1                   |
 | USA/West Virginia/Kanawha        | 1                   |
 
