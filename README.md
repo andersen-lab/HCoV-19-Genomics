@@ -20,42 +20,61 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | MEX/Sonora                       | 32                  |
 | MEX/Sonora/San Luis Río Colorado | 35                  |
 | USA/Alaska/Anchorage		   | 1			 |
+| USA/Arizona/Maricopa	           | 1                   |
+| USA/Arizona/Pima                 | 1                   |
 | USA/Arizona/Yuma                 | 1                   |
+| USA/California/Alameda           | 1                   |
 | USA/California/Contra Costa      | 3                   |
 | USA/California/Cruise_Ship_1     | 8                   |
 | USA/California/Cruise_Ship_2     | 32                  |
 | USA/California/Davis             | 1                   |
-| USA/California/El Dorado         | 2			 |
+| USA/California/El Dorado         | 4			 |
 | USA/California/Fresno		   | 1			 |
 | USA/California/Imperial          | 151                 |
 | USA/California/Kern              | 2                   |
-| USA/California/Los Angeles       | 114                 |
+| USA/California/Los Angeles       | 132                 |
 | USA/California/Modesto           | 1                   |
-| USA/California/Orange            | 20                  |
-| USA/California/Riverside         | 97                  |
+| USA/California/Monterey          | 1                   |
+| USA/California/Orange            | 23                  |
+| USA/California/Riverside         | 103                 |
 | USA/California/Sacramento        | 1                   |
-| USA/California/San Bernadino     | 6                   |
-| USA/California/San Diego         | 14597               |
+| USA/California/San Bernadino     | 8                   |
+| USA/California/San Diego         | 15263               |
+| USA/California/San Francisco     | 1                   |
 | USA/California/San Mateo	   | 1			 |
 | USA/California/Santa Barbara     | 4                   |
-| USA/California/Santa Clara       | 1                   |
+| USA/California/Santa Clara       | 3                   |
 | USA/California/Sonoma            | 1                   |
 | USA/California/Sutter            | 1                   |
 | USA/California/Ventura           | 3                   |
-| USA/California/DuPage            | 1                   |
-| USA/California/Rock Island       | 1                   |
-| USA/Louisiana/New Orleans        | 143                 |
-| USA/Minnesota/Ramsey             | 1                   |
-| USA/Ohio/Hamilton                | 1                   |
-| USA/Oklahoma/Tulsa               | 1                   |
-| USA/Pennsylvania/Allegheny	   | 1			 |
-| USA/Tennessee/Grainger           | 1                   |
-| USA/Texas/Montgomery             | 1                   |
-| USA/Utah/Salt Lake		   | 1			 |
-| USA/Washington/King              | 3                   |
-| USA/Washington/Kitsap            | 1                   |
-| USA/West Virginia/Kanawha        | 1                   |
-| USA/Wyoming/Albany               | 1                   |
+| USA/Florida/Saint Johns	   | 1			 |
+| USA/Hawaii/Honolulu		   | 1                   |
+| USA/Idaho/Ada                    | 1                   | 
+| USA/Illinois/Cook                | 1                   | 
+| USA/Illinois/DuPage              | 1                   | 
+| USA/Illinois/Rock Island         | 1                   | 
+| USA/Louisiana/New Orleans        | 143                 | 
+| USA/Maryland/Anne Arundel        | 1                   | 
+| USA/Michigan/Wayne               | 1                   | 
+| USA/Minnesota/Anoka              | 1                   | 
+| USA/Minnesota/Ramsey             | 1                   | 
+| USA/Nevada/Clark                 | 1                   | 
+| USA/New York/Orange              | 1                   | 
+| USA/New York/Warren              | 1                   | 
+| USA/New York/Westchester         | 1                   | 
+| USA/Ohio/Clark                   | 1                   | 
+| USA/Ohio/Hamilton                | 1                   | 
+| USA/Oklahoma/Tulsa               | 1                   | 
+| USA/Pennsylvania/Allegheny       | 1                   | 
+| USA/Tennessee/Grainger           | 1                   | 
+| USA/Tennessee/Sumner             | 1                   | 
+| USA/Texas/Bell                   | 1                   | 
+| USA/Texas/Montgomery             | 2                   | 
+| USA/Utah/Salt Lake               | 1                   | 
+| USA/Washington/King              | 3                   | 
+| USA/Washington/Kitsap            | 1                   | 
+| USA/West Virginia/Kanawha        | 1                   | 
+| USA/Wyoming/Albany               | 1                   | 
 
 #### Raw read files
 
