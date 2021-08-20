@@ -32,14 +32,14 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | USA/California/Fresno		   | 1			 |
 | USA/California/Imperial          | 151                 |
 | USA/California/Kern              | 2                   |
-| USA/California/Los Angeles       | 132                 |
+| USA/California/Los Angeles       | 135                 |
 | USA/California/Modesto           | 1                   |
 | USA/California/Monterey          | 1                   |
-| USA/California/Orange            | 23                  |
-| USA/California/Riverside         | 103                 |
-| USA/California/Sacramento        | 1                   |
+| USA/California/Orange            | 24                  |
+| USA/California/Riverside         | 104                 |
+| USA/California/Sacramento        | 2                   |
 | USA/California/San Bernadino     | 8                   |
-| USA/California/San Diego         | 15263               |
+| USA/California/San Diego         | 15740               |
 | USA/California/San Francisco     | 1                   |
 | USA/California/San Mateo	   | 1			 |
 | USA/California/Santa Barbara     | 4                   |
