@@ -20,48 +20,55 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | MEX/Sonora                       | 32                  |
 | MEX/Sonora/San Luis Río Colorado | 35                  |
 | USA/Alaska/Anchorage		   | 1			 |
-| USA/Arizona/Maricopa	           | 1                   |
+| USA/Arizona/Maricopa	           | 2                   |
 | USA/Arizona/Pima                 | 1                   |
 | USA/Arizona/Yuma                 | 1                   |
-| USA/California/Alameda           | 1                   |
+| USA/California/Alameda           | 2                   |
 | USA/California/Contra Costa      | 3                   |
 | USA/California/Cruise_Ship_1     | 8                   |
 | USA/California/Cruise_Ship_2     | 32                  |
 | USA/California/Davis             | 1                   |
 | USA/California/El Dorado         | 4			 |
 | USA/California/Fresno		   | 1			 |
-| USA/California/Imperial          | 151                 |
+| USA/California/Imperial          | 152                 |
 | USA/California/Kern              | 2                   |
 | USA/California/Los Angeles       | 135                 |
-| USA/California/Modesto           | 1                   |
+| USA/California/Marin             | 1                   |
+| USA/California/Modesto           | 1			 |
 | USA/California/Monterey          | 1                   |
-| USA/California/Orange            | 24                  |
-| USA/California/Riverside         | 104                 |
+| USA/California/Orange            | 31                  |
+| USA/California/Placer            | 1                   |
+| USA/California/Riverside         | 115                 |
 | USA/California/Sacramento        | 2                   |
 | USA/California/San Bernadino     | 8                   |
-| USA/California/San Diego         | 15740               |
+| USA/California/San Diego         | 16270               |
 | USA/California/San Francisco     | 1                   |
 | USA/California/San Mateo	   | 1			 |
 | USA/California/Santa Barbara     | 4                   |
 | USA/California/Santa Clara       | 3                   |
 | USA/California/Sonoma            | 1                   |
 | USA/California/Sutter            | 1                   |
+| USA/California/Tulare            | 1                   |
 | USA/California/Ventura           | 3                   |
 | USA/Florida/Saint Johns	   | 1			 |
 | USA/Hawaii/Honolulu		   | 1                   |
 | USA/Idaho/Ada                    | 1                   | 
-| USA/Illinois/Cook                | 1                   | 
-| USA/Illinois/DuPage              | 1                   | 
-| USA/Illinois/Rock Island         | 1                   | 
+| USA/Illinois/Cook                | 2                   | 
+| USA/Illinois/DuPage              | 2                   | 
+| USA/Illinois/Rock Island         | 1                   |
+| USA/Kentucky/Jefferson           | 1                   | 
 | USA/Louisiana/New Orleans        | 143                 | 
 | USA/Maryland/Anne Arundel        | 1                   | 
 | USA/Michigan/Wayne               | 1                   | 
 | USA/Minnesota/Anoka              | 1                   | 
 | USA/Minnesota/Ramsey             | 1                   | 
-| USA/Nevada/Clark                 | 1                   | 
+| USA/Nevada/Clark                 | 1                   |
+| USA/Nevada/Douglas               | 1                   |
+| USA/New Jersey/Monmouth          | 1                   |
 | USA/New York/Orange              | 1                   | 
 | USA/New York/Warren              | 1                   | 
 | USA/New York/Westchester         | 1                   | 
+| USA/North Carolina/Durham        | 1                   |
 | USA/Ohio/Clark                   | 1                   | 
 | USA/Ohio/Hamilton                | 1                   | 
 | USA/Oklahoma/Tulsa               | 1                   | 
@@ -74,6 +81,7 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | USA/Washington/King              | 3                   | 
 | USA/Washington/Kitsap            | 1                   | 
 | USA/West Virginia/Kanawha        | 1                   | 
+| USA/Wisconsin/Bayfield           | 1                   |
 | USA/Wyoming/Albany               | 1                   | 
 
 #### Raw read files
