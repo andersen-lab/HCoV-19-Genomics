@@ -38,10 +38,10 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | USA/California/Monterey          | 1                   |
 | USA/California/Orange            | 31                  |
 | USA/California/Placer            | 1                   |
-| USA/California/Riverside         | 115                 |
+| USA/California/Riverside         | 116                 |
 | USA/California/Sacramento        | 2                   |
 | USA/California/San Bernadino     | 8                   |
-| USA/California/San Diego         | 16270               |
+| USA/California/San Diego         | 16740               |
 | USA/California/San Francisco     | 1                   |
 | USA/California/San Mateo	   | 1			 |
 | USA/California/Santa Barbara     | 4                   |
