@@ -12,16 +12,23 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | Jordan/Zarqa                     | 5                   |
 | MEX/Baja California		   | 26                  |
 | MEX/Baja California/Ensenada     | 16                  |
-| MEX/Baja California/Mexicali     | 254                 |
+| MEX/Baja California/Mexicali     | 258                 |
 | MEX/Baja California/Rosarito     | 1                   |
 | MEX/Baja California/Tecate       | 7			 |
-| MEX/Baja California/Tijuana      | 857                 |
+| MEX/Baja California/Tijuana      | 859                 |
 | MEX/Chihuahua                    | 9                   |
+| MEX/Chihuahua/Chihuahua          | 3                   |
+| MEX/Chihuahua/Ciudad Juarez      | 2                   |
+| MEX/Jalisco/Vallarta		   | 5			 |
+| MEX/Sinaloa/Los Mochis           | 10                  |
+| MEX/Sinaloa/Mazatlan             | 6                   |
 | MEX/Sonora                       | 32                  |
+| MEX/Sonora/Hermosillo            | 12                  |
+| MEX/Sonora/Obregon               | 10                  |
 | MEX/Sonora/San Luis Río Colorado | 35                  |
 | USA/Alaska/Anchorage		   | 1			 |
 | USA/Arizona/Maricopa	           | 2                   |
-| USA/Arizona/Pima                 | 1                   |
+| USA/Arizona/Pima                 | 2                   |
 | USA/Arizona/Yuma                 | 1                   |
 | USA/California/Alameda           | 2                   |
 | USA/California/Contra Costa      | 3                   |
@@ -38,10 +45,10 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | USA/California/Monterey          | 1                   |
 | USA/California/Orange            | 31                  |
 | USA/California/Placer            | 1                   |
-| USA/California/Riverside         | 116                 |
+| USA/California/Riverside         | 118                 |
 | USA/California/Sacramento        | 2                   |
 | USA/California/San Bernadino     | 8                   |
-| USA/California/San Diego         | 16740               |
+| USA/California/San Diego         | 17425               |
 | USA/California/San Francisco     | 1                   |
 | USA/California/San Mateo	   | 1			 |
 | USA/California/Santa Barbara     | 4                   |
