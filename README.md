@@ -3,93 +3,96 @@
 All consensus sequences will be deposited on GISAID and on NCBI under BioProject ID [PRJNA612578](https://www.ncbi.nlm.nih.gov/bioproject/612578).
 [metadata.csv](https://raw.githubusercontent.com/andersen-lab/HCoV-19-Genomics/master/metadata.csv) contains collection dates, location, originating labs and sequencing metrics: coverage and average depth.
 
-| Location                         | Number of sequences |
-|:---------------------------------|:--------------------|
-| Jordan/Amman                     | 483                 |
-| Jordan/Aqaba                     | 41                  |
-| Jordan/Irbid                     | 58                  |
-| Jordan/Mafraq                    | 2                   |
-| Jordan/Zarqa                     | 5                   |
-| MEX/Baja California		   | 26                  |
-| MEX/Baja California/Ensenada     | 16                  |
-| MEX/Baja California/Mexicali     | 258                 |
-| MEX/Baja California/Rosarito     | 1                   |
-| MEX/Baja California/Tecate       | 7			 |
-| MEX/Baja California/Tijuana      | 859                 |
-| MEX/Chihuahua                    | 9                   |
-| MEX/Chihuahua/Chihuahua          | 3                   |
-| MEX/Chihuahua/Ciudad Juarez      | 2                   |
-| MEX/Jalisco/Vallarta		   | 5			 |
-| MEX/Sinaloa/Los Mochis           | 10                  |
-| MEX/Sinaloa/Mazatlan             | 6                   |
-| MEX/Sonora                       | 32                  |
-| MEX/Sonora/Hermosillo            | 12                  |
-| MEX/Sonora/Obregon               | 10                  |
-| MEX/Sonora/San Luis Río Colorado | 35                  |
-| USA/Alaska/Anchorage		   | 1			 |
-| USA/Arizona/Maricopa	           | 2                   |
-| USA/Arizona/Pima                 | 2                   |
-| USA/Arizona/Yuma                 | 1                   |
-| USA/California/Alameda           | 2                   |
-| USA/California/Contra Costa      | 3                   |
-| USA/California/Cruise_Ship_1     | 8                   |
-| USA/California/Cruise_Ship_2     | 32                  |
-| USA/California/Davis             | 1                   |
-| USA/California/El Dorado         | 4			 |
-| USA/California/Fresno		   | 1			 |
-| USA/California/Imperial          | 154                 |
-| USA/California/Kern              | 2                   |
-| USA/California/Los Angeles       | 136                 |
-| USA/California/Marin             | 1                   |
-| USA/California/Modesto           | 1			 |
-| USA/California/Monterey          | 1                   |
-| USA/California/Orange            | 32                  |
-| USA/California/Placer            | 1                   |
-| USA/California/Riverside         | 126                 |
-| USA/California/Sacramento        | 2                   |
-| USA/California/San Bernadino     | 9                   |
-| USA/California/San Diego         | 17903               |
-| USA/California/San Francisco     | 1                   |
-| USA/California/San Mateo	   | 1			 |
-| USA/California/Santa Barbara     | 4                   |
-| USA/California/Santa Clara       | 3                   |
-| USA/California/Sonoma            | 1                   |
-| USA/California/Sutter            | 1                   |
-| USA/California/Tulare            | 1                   |
-| USA/California/Ventura           | 3                   |
-| USA/Florida/Saint Johns	   | 1			 |
-| USA/Hawaii/Honolulu		   | 1                   |
-| USA/Idaho/Ada                    | 1                   | 
-| USA/Illinois/Cook                | 2                   | 
-| USA/Illinois/DuPage              | 2                   | 
-| USA/Illinois/Rock Island         | 1                   |
-| USA/Kentucky/Jefferson           | 1                   | 
-| USA/Louisiana/New Orleans        | 143                 | 
-| USA/Maryland/Anne Arundel        | 1                   | 
-| USA/Michigan/Wayne               | 1                   | 
-| USA/Minnesota/Anoka              | 1                   | 
-| USA/Minnesota/Ramsey             | 1                   | 
-| USA/Nevada/Clark                 | 1                   |
-| USA/Nevada/Douglas               | 1                   |
-| USA/New Jersey/Monmouth          | 1                   |
-| USA/New York/Orange              | 1                   | 
-| USA/New York/Warren              | 1                   | 
-| USA/New York/Westchester         | 1                   | 
-| USA/North Carolina/Durham        | 1                   |
-| USA/Ohio/Clark                   | 1                   | 
-| USA/Ohio/Hamilton                | 1                   | 
-| USA/Oklahoma/Tulsa               | 1                   | 
-| USA/Pennsylvania/Allegheny       | 1                   | 
-| USA/Tennessee/Grainger           | 1                   | 
-| USA/Tennessee/Sumner             | 1                   | 
-| USA/Texas/Bell                   | 1                   | 
-| USA/Texas/Montgomery             | 2                   | 
-| USA/Utah/Salt Lake               | 1                   | 
-| USA/Washington/King              | 3                   | 
-| USA/Washington/Kitsap            | 1                   | 
-| USA/West Virginia/Kanawha        | 1                   | 
-| USA/Wisconsin/Bayfield           | 1                   |
-| USA/Wyoming/Albany               | 1                   | 
+| Location                         |   Number of Sequences |
+|:---------------------------------|----------------------:|
+| Jordan/Amman                     |                   483 |
+| Jordan/Aqaba                     |                    41 |
+| Jordan/Irbid                     |                    58 |
+| Jordan/Mafraq                    |                     2 |
+| Jordan/Zarqa                     |                     5 |
+| MEX/Baja California              |                    26 |
+| MEX/Baja California/Ensenada     |                    16 |
+| MEX/Baja California/Mexicali     |                   258 |
+| MEX/Baja California/Rosarito     |                     1 |
+| MEX/Baja California/Tecate       |                     7 |
+| MEX/Baja California/Tijuana      |                   859 |
+| MEX/Chihuahua                    |                     9 |
+| MEX/Chihuahua/Chihuahua          |                     3 |
+| MEX/Chihuahua/Ciudad Juarez      |                     2 |
+| MEX/Jalisco/Vallarta             |                     5 |
+| MEX/Sinaloa/Los Mochis           |                    16 |
+| MEX/Sonora                       |                    32 |
+| MEX/Sonora/Hermosillo            |                    12 |
+| MEX/Sonora/Obregon               |                    10 |
+| MEX/Sonora/San Luis Río Colorado |                    33 |
+| USA/Alaska/Anchorage             |                     1 |
+| USA/Arizona/Maricopa             |                     2 |
+| USA/Arizona/Pima                 |                     2 |
+| USA/Arizona/Yuma                 |                     1 |
+| USA/California/Alameda           |                     2 |
+| USA/California/Contra Costa      |                     3 |
+| USA/California/Cruise_Ship_1     |                     8 |
+| USA/California/Cruise_Ship_2     |                    32 |
+| USA/California/Davis             |                     1 |
+| USA/California/El Dorado         |                     4 |
+| USA/California/Fresno            |                     1 |
+| USA/California/Imperial          |                   154 |
+| USA/California/Kern              |                     2 |
+| USA/California/Los Angeles       |                   136 |
+| USA/California/Marin             |                     1 |
+| USA/California/Modesto           |                     1 |
+| USA/California/Monterey          |                     1 |
+| USA/California/Orange            |                    32 |
+| USA/California/Orange County     |                     1 |
+| USA/California/Placer            |                     1 |
+| USA/California/Riverside         |                   126 |
+| USA/California/Sacramento        |                     2 |
+| USA/California/San Bernardino    |                     9 |
+| USA/California/San Diego         |                 17903 |
+| USA/California/San Francisco     |                     1 |
+| USA/California/San Mateo         |                     1 |
+| USA/California/Santa Barbara     |                     3 |
+| USA/California/Santa Barbara     |                     1 |
+| USA/California/Santa Clara       |                     3 |
+| USA/California/Sonoma            |                     1 |
+| USA/California/Sutter            |                     1 |
+| USA/California/Tulare            |                     1 |
+| USA/California/Ventura           |                     3 |
+| USA/Florida/Saint Johns          |                     1 |
+| USA/Hawaii/Honolulu              |                     1 |
+| USA/Idaho/Ada                    |                     1 |
+| USA/Illinois/Cook                |                     2 |
+| USA/Illinois/DuPage              |                     2 |
+| USA/Illinois/Rock Island         |                     1 |
+| USA/Kentucky/Jefferson           |                     1 |
+| USA/Louisiana/New Orleans        |                   143 |
+| USA/Maryland/Anne Arundel        |                     1 |
+| USA/Maryland/Montgomery          |                     1 |
+| USA/Michigan/Wayne               |                     1 |
+| USA/Minnesota/Anoka              |                     1 |
+| USA/Minnesota/Ramsey             |                     1 |
+| USA/Nevada/Clark                 |                     1 |
+| USA/Nevada/Douglas               |                     1 |
+| USA/New Jersey/Monmouth          |                     1 |
+| USA/New York/Orange              |                     1 |
+| USA/New York/Warren              |                     1 |
+| USA/New York/Westchester         |                     1 |
+| USA/North Carolina/Durham        |                     1 |
+| USA/Ohio/Clark                   |                     1 |
+| USA/Ohio/Hamilton                |                     1 |
+| USA/Oklahoma/Tulsa               |                     1 |
+| USA/Pennsylvania/Allegheny       |                     1 |
+| USA/Tennessee/Grainger           |                     1 |
+| USA/Tennessee/Sumner             |                     1 |
+| USA/Texas/Bell                   |                     1 |
+| USA/Texas/Montgomery             |                     2 |
+| USA/Utah/Salt Lake               |                     1 |
+| USA/Virginia/Fairfax             |                     1 |
+| USA/Washington/King              |                     3 |
+| USA/Washington/Kitsap            |                     1 |
+| USA/West Virginia/Kanawha        |                     1 |
+| USA/Wisconsin/Bayfield           |                     1 |
+| USA/Wyoming/Albany               |                     1 |
 
 #### Raw read files
 
