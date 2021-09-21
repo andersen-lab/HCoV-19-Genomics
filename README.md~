@@ -16,6 +16,7 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | MEX/Baja California/Rosarito     |                     1 |
 | MEX/Baja California/Tecate       |                     7 |
 | MEX/Baja California/Tijuana      |                   859 |
+| MEX/Chiapas/Baja California	   |			 1 |
 | MEX/Chihuahua                    |                     9 |
 | MEX/Chihuahua/Chihuahua          |                     3 |
 | MEX/Chihuahua/Ciudad Juarez      |                     2 |
@@ -25,6 +26,8 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | MEX/Sonora/Hermosillo            |                    12 |
 | MEX/Sonora/Obregon               |                    10 |
 | MEX/Sonora/San Luis Río Colorado |                    33 |
+| PAK/Islamabad Capital Territory/Islamabad |		51 |
+| PAK/Punjab/Lahore		   |                     7 |
 | USA/Alaska/Anchorage             |                     1 |
 | USA/Arizona/Maricopa             |                     2 |
 | USA/Arizona/Pima                 |                     2 |
@@ -38,17 +41,17 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | USA/California/Fresno            |                     1 |
 | USA/California/Imperial          |                   154 |
 | USA/California/Kern              |                     2 |
-| USA/California/Los Angeles       |                   136 |
+| USA/California/Los Angeles       |                   137 |
 | USA/California/Marin             |                     1 |
 | USA/California/Modesto           |                     1 |
 | USA/California/Monterey          |                     1 |
 | USA/California/Orange            |                    32 |
 | USA/California/Orange County     |                     1 |
 | USA/California/Placer            |                     1 |
-| USA/California/Riverside         |                   126 |
+| USA/California/Riverside         |                   127 |
 | USA/California/Sacramento        |                     2 |
 | USA/California/San Bernardino    |                     9 |
-| USA/California/San Diego         |                 17903 |
+| USA/California/San Diego         |                 27449 |
 | USA/California/San Francisco     |                     1 |
 | USA/California/San Mateo         |                     1 |
 | USA/California/Santa Barbara     |                     3 |
