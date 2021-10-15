@@ -12,24 +12,27 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | Jordan/Zarqa                     |                     5 |
 | MEX/Baja California              |                    26 |
 | MEX/Baja California/Ensenada     |                    16 |
-| MEX/Baja California/Mexicali     |                   258 |
+| MEX/Baja California/Mexicali     |                   261 |
 | MEX/Baja California/Rosarito     |                     1 |
 | MEX/Baja California/Tecate       |                     7 |
-| MEX/Baja California/Tijuana      |                   859 |
+| MEX/Baja California/Tijuana      |                   870 |
 | MEX/Chiapas/Baja California	   |			 1 |
 | MEX/Chihuahua                    |                     9 |
-| MEX/Chihuahua/Chihuahua          |                     8 |
+| MEX/Chihuahua/Chihuahua          |                     9 |
 | MEX/Chihuahua/Ciudad Juarez      |                    19 |
+| MEX/Coahuila/Saltillo	           |                    11 |
+| MEX/Coahuila/Torreon             |                    10 |
 | MEX/Jalisco/Puerto Vallarta      |                    26 |
-| MEX/Nuevo Leon/Guadalupe	   |			 8 |
-| MEX/Nuevo Leon/Monterrey         |                    14 |
-| MEX/Nuevo Leon/San Nicolas De Los Garza |              6 |
-| MEX/Sinaloa/Culiacan             |                   129 |
-| MEX/Sinaloa/Los Mochis           |                    28 |
+| MEX/Nuevo Leon/Guadalupe	   |			12 |
+| MEX/Nuevo Leon/Monterrey         |                    22 |
+| MEX/Nuevo Leon/San Nicolas De Los Garza |              9 |
+| MEX/Nuevo Leon/Santa Catarina    |                     3 | 
+| MEX/Sinaloa/Culiacan             |                   131 |
+| MEX/Sinaloa/Los Mochis           |                    38 |
 | MEX/Sinaloa/Mazatlan             |                    54 |
 | MEX/Sonora                       |                    32 |
-| MEX/Sonora/Hermosillo            |                    28 |
-| MEX/Sonora/Obregon               |                    29 |
+| MEX/Sonora/Hermosillo            |                    36 |
+| MEX/Sonora/Obregon               |                    39 |
 | MEX/Sonora/San Luis Río Colorado |                    35 |
 | PAK/Islamabad Capital Territory/Islamabad |		51 |
 | PAK/Punjab/Lahore		   |                     7 |
@@ -46,16 +49,16 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | USA/California/Fresno            |                     1 |
 | USA/California/Imperial          |                   156 |
 | USA/California/Kern              |                     2 |
-| USA/California/Los Angeles       |                   140 |
+| USA/California/Los Angeles       |                   141 |
 | USA/California/Marin             |                     1 |
 | USA/California/Modesto           |                     1 |
 | USA/California/Monterey          |                     1 |
-| USA/California/Orange            |                    35 |
+| USA/California/Orange            |                    36 |
 | USA/California/Placer            |                     1 |
-| USA/California/Riverside         |                   141 |
+| USA/California/Riverside         |                   144 |
 | USA/California/Sacramento        |                     2 |
 | USA/California/San Bernardino    |                    10 |
-| USA/California/San Diego         |                 28878 |
+| USA/California/San Diego         |                 29682 |
 | USA/California/San Francisco     |                     1 |
 | USA/California/San Mateo         |                     1 |
 | USA/California/Santa Barbara     |                     3 |
