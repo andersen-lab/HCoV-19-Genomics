@@ -21,15 +21,15 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | MEX/Chihuahua/Chihuahua          |                     9 |
 | MEX/Chihuahua/Ciudad Juarez      |                    19 |
 | MEX/Coahuila/Saltillo	           |                    11 |
-| MEX/Coahuila/Torreon             |                    10 |
-| MEX/Jalisco/Puerto Vallarta      |                    26 |
-| MEX/Nuevo Leon/Guadalupe	   |			12 |
-| MEX/Nuevo Leon/Monterrey         |                    22 |
+| MEX/Coahuila/Torreon             |                    14 |
+| MEX/Jalisco/Puerto Vallarta      |                    46 |
+| MEX/Nuevo Leon/Guadalupe	   |			14 |
+| MEX/Nuevo Leon/Monterrey         |                    25 |
 | MEX/Nuevo Leon/San Nicolas De Los Garza |              9 |
-| MEX/Nuevo Leon/Santa Catarina    |                     3 | 
-| MEX/Sinaloa/Culiacan             |                   131 |
-| MEX/Sinaloa/Los Mochis           |                    38 |
-| MEX/Sinaloa/Mazatlan             |                    54 |
+| MEX/Nuevo Leon/Santa Catarina    |                     6 | 
+| MEX/Sinaloa/Culiacan             |                   150 |
+| MEX/Sinaloa/Los Mochis           |                    54 |
+| MEX/Sinaloa/Mazatlan             |                    56 |
 | MEX/Sonora                       |                    32 |
 | MEX/Sonora/Hermosillo            |                    36 |
 | MEX/Sonora/Obregon               |                    39 |
@@ -55,10 +55,10 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | USA/California/Monterey          |                     1 |
 | USA/California/Orange            |                    40 |
 | USA/California/Placer            |                     1 |
-| USA/California/Riverside         |                   153 |
+| USA/California/Riverside         |                   154 |
 | USA/California/Sacramento        |                     2 |
 | USA/California/San Bernardino    |                    11 |
-| USA/California/San Diego         |                 34914 |
+| USA/California/San Diego         |                 35589 |
 | USA/California/San Francisco     |                     1 |
 | USA/California/San Mateo         |                     1 |
 | USA/California/Santa Barbara     |                     3 |
