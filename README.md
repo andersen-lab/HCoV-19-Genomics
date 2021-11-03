@@ -47,18 +47,18 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | USA/California/Davis             |                     1 |
 | USA/California/El Dorado         |                     4 |
 | USA/California/Fresno            |                     1 |
-| USA/California/Imperial          |                   157 |
+| USA/California/Imperial          |                   158 |
 | USA/California/Kern              |                     2 |
-| USA/California/Los Angeles       |                   145 |
+| USA/California/Los Angeles       |                   147 |
 | USA/California/Marin             |                     1 |
 | USA/California/Modesto           |                     1 |
 | USA/California/Monterey          |                     1 |
-| USA/California/Orange            |                    40 |
+| USA/California/Orange            |                    44 |
 | USA/California/Placer            |                     1 |
 | USA/California/Riverside         |                   154 |
 | USA/California/Sacramento        |                     2 |
-| USA/California/San Bernardino    |                    11 |
-| USA/California/San Diego         |                 35589 |
+| USA/California/San Bernardino    |                    12 |
+| USA/California/San Diego         |                 36065 |
 | USA/California/San Francisco     |                     1 |
 | USA/California/San Mateo         |                     1 |
 | USA/California/Santa Barbara     |                     3 |
