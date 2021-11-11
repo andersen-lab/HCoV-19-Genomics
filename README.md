@@ -11,28 +11,28 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | Jordan/Mafraq                    |                     2 |
 | Jordan/Zarqa                     |                     5 |
 | MEX/Baja California              |                    26 |
-| MEX/Baja California/Ensenada     |                    25 |
-| MEX/Baja California/Mexicali     |                   274 |
+| MEX/Baja California/Ensenada     |                    39 |
+| MEX/Baja California/Mexicali     |                   296 |
 | MEX/Baja California/Rosarito     |                     1 |
 | MEX/Baja California/Tecate       |                     7 |
-| MEX/Baja California/Tijuana      |                   909 |
+| MEX/Baja California/Tijuana      |                   941 |
 | MEX/Chiapas/Baja California	   |			 1 |
 | MEX/Chihuahua                    |                     9 |
-| MEX/Chihuahua/Chihuahua          |                    17 |
-| MEX/Chihuahua/Ciudad Juarez      |                    22 |
-| MEX/Coahuila/Saltillo	           |                    26 |
-| MEX/Coahuila/Torreon             |                    22 |
-| MEX/Jalisco/Puerto Vallarta      |                    57 |
-| MEX/Nuevo Leon/Guadalupe	   |			23 |
-| MEX/Nuevo Leon/Monterrey         |                    36 |
-| MEX/Nuevo Leon/San Nicolas De Los Garza |             19 |
-| MEX/Nuevo Leon/Santa Catarina    |                     8 | 
-| MEX/Sinaloa/Culiacan             |                   201 |
-| MEX/Sinaloa/Los Mochis           |                    82 |
-| MEX/Sinaloa/Mazatlan             |                    75 |
+| MEX/Chihuahua/Chihuahua          |                    22 |
+| MEX/Chihuahua/Ciudad Juarez      |                    25 |
+| MEX/Coahuila/Saltillo	           |                    55 |
+| MEX/Coahuila/Torreon             |                    32 |
+| MEX/Jalisco/Puerto Vallarta      |                    59 |
+| MEX/Nuevo Leon/Guadalupe	   |			29 |
+| MEX/Nuevo Leon/Monterrey         |                    60 |
+| MEX/Nuevo Leon/San Nicolas De Los Garza |             22 |
+| MEX/Nuevo Leon/Santa Catarina    |                    12 | 
+| MEX/Sinaloa/Culiacan             |                   248 |
+| MEX/Sinaloa/Los Mochis           |                   109 |
+| MEX/Sinaloa/Mazatlan             |                    81 |
 | MEX/Sonora                       |                    32 |
 | MEX/Sonora/Hermosillo            |                    42 |
-| MEX/Sonora/Obregon               |                    60 |
+| MEX/Sonora/Obregon               |                    66 |
 | MEX/Sonora/San Luis Río Colorado |                    35 |
 | PAK/Islamabad Capital Territory/Islamabad |		51 |
 | PAK/Punjab/Lahore		   |                     7 |
@@ -47,18 +47,18 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | USA/California/Davis             |                     1 |
 | USA/California/El Dorado         |                     4 |
 | USA/California/Fresno            |                     1 |
-| USA/California/Imperial          |                   158 |
+| USA/California/Imperial          |                   159 |
 | USA/California/Kern              |                     2 |
-| USA/California/Los Angeles       |                   148 |
+| USA/California/Los Angeles       |                   150 |
 | USA/California/Marin             |                     1 |
 | USA/California/Modesto           |                     1 |
 | USA/California/Monterey          |                     1 |
 | USA/California/Orange            |                    44 |
 | USA/California/Placer            |                     1 |
-| USA/California/Riverside         |                   155 |
+| USA/California/Riverside         |                   160 |
 | USA/California/Sacramento        |                     2 |
 | USA/California/San Bernardino    |                    12 |
-| USA/California/San Diego         |                 36313 |
+| USA/California/San Diego         |                 36723 |
 | USA/California/San Francisco     |                     1 |
 | USA/California/San Mateo         |                     1 |
 | USA/California/Santa Barbara     |                     3 |
