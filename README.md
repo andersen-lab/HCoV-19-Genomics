@@ -15,7 +15,7 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | MEX/Baja California/Mexicali     |                   296 |
 | MEX/Baja California/Rosarito     |                     1 |
 | MEX/Baja California/Tecate       |                     7 |
-| MEX/Baja California/Tijuana      |                   942 |
+| MEX/Baja California/Tijuana      |                   943 |
 | MEX/Chiapas/Baja California	   |			 1 |
 | MEX/Chihuahua                    |                     9 |
 | MEX/Chihuahua/Chihuahua          |                    22 |
@@ -49,16 +49,16 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | USA/California/Fresno            |                     1 |
 | USA/California/Imperial          |                   159 |
 | USA/California/Kern              |                     2 |
-| USA/California/Los Angeles       |                   150 |
+| USA/California/Los Angeles       |                   155 |
 | USA/California/Marin             |                     1 |
 | USA/California/Modesto           |                     1 |
 | USA/California/Monterey          |                     1 |
-| USA/California/Orange            |                    44 |
+| USA/California/Orange            |                    45 |
 | USA/California/Placer            |                     1 |
-| USA/California/Riverside         |                   160 |
+| USA/California/Riverside         |                   169 |
 | USA/California/Sacramento        |                     2 |
-| USA/California/San Bernardino    |                    12 |
-| USA/California/San Diego         |                 36734 |
+| USA/California/San Bernardino    |                    14 |
+| USA/California/San Diego         |                 37612 |
 | USA/California/San Francisco     |                     1 |
 | USA/California/San Mateo         |                     1 |
 | USA/California/Santa Barbara     |                     3 |
