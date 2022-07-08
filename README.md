@@ -5,6 +5,7 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 
 | Location                                        |   Number of Sequences |
 |:------------------------------------------------|----------------------:|
+|                                                 |                    21 |
 | Iraq/Kurdistan/Duhok                            |                   535 |
 | Jordan/Amman                                    |                   483 |
 | Jordan/Aqaba                                    |                    41 |
@@ -14,32 +15,34 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | Mexico/Baja California                          |                    26 |
 | Mexico/Baja California Sur/Los Cabos            |                     1 |
 | Mexico/Baja California/                         |                     1 |
-| Mexico/Baja California/Ensenada                 |                    53 |
-| Mexico/Baja California/Mexicali                 |                   420 |
+| Mexico/Baja California/Ensenada                 |                    58 |
+| Mexico/Baja California/Mexicali                 |                   421 |
 | Mexico/Baja California/Reforma                  |                     1 |
 | Mexico/Baja California/Rosarito                 |                    11 |
 | Mexico/Baja California/San Quintin              |                     1 |
 | Mexico/Baja California/Tecate                   |                     9 |
-| Mexico/Baja California/Tijuana                  |                  1400 |
+| Mexico/Baja California/Tijuana                  |                  1409 |
 | Mexico/Chiapas/Baja California                  |                     1 |
 | Mexico/Chihuahua                                |                     9 |
-| Mexico/Chihuahua/Chihuahua                      |                    39 |
-| Mexico/Chihuahua/Ciudad Juarez                  |                    54 |
-| Mexico/Coahuila/Saltillo                        |                   109 |
-| Mexico/Coahuila/Torreon                         |                   115 |
-| Mexico/Durango/Durango                          |                     3 |
+| Mexico/Chihuahua/Chihuahua                      |                    40 |
+| Mexico/Chihuahua/Ciudad Juarez                  |                    57 |
+| Mexico/Coahuila/Saltillo                        |                   124 |
+| Mexico/Coahuila/Torreon                         |                   160 |
+| Mexico/Durango/Durango                          |                     4 |
+| Mexico/Jalisco/Guadalajara                      |                    15 |
 | Mexico/Jalisco/Guadalajara Tetlan               |                     1 |
-| Mexico/Jalisco/Puerto Vallarta                  |                    51 |
+| Mexico/Jalisco/Puerto Vallarta                  |                    53 |
 | Mexico/Jalisco/Vallarta                         |                    14 |
-| Mexico/Nuevo Leon/Guadalupe                     |                    62 |
-| Mexico/Nuevo Leon/Monterrey                     |                    97 |
-| Mexico/Nuevo Leon/San Nicolas De Los Garza      |                    66 |
-| Mexico/Nuevo Leon/Santa Catarina                |                    32 |
-| Mexico/Sinaloa/Culiacan                         |                   347 |
-| Mexico/Sinaloa/Los Mochis                       |                   119 |
-| Mexico/Sinaloa/Mazatlan                         |                   103 |
+| Mexico/Jalisco/Zapopan                          |                     4 |
+| Mexico/Nuevo Leon/Guadalupe                     |                    75 |
+| Mexico/Nuevo Leon/Monterrey                     |                   156 |
+| Mexico/Nuevo Leon/San Nicolas De Los Garza      |                   111 |
+| Mexico/Nuevo Leon/Santa Catarina                |                    45 |
+| Mexico/Sinaloa/Culiacan                         |                   362 |
+| Mexico/Sinaloa/Los Mochis                       |                   122 |
+| Mexico/Sinaloa/Mazatlan                         |                   106 |
 | Mexico/Sonora                                   |                    32 |
-| Mexico/Sonora/Hermosillo                        |                    61 |
+| Mexico/Sonora/Hermosillo                        |                    62 |
 | Mexico/Sonora/Obregon                           |                    66 |
 | Mexico/Sonora/San Luis Rio Colorado             |                    35 |
 | Mexico/Sonora/San Luis Río Colorado             |                     2 |
@@ -61,9 +64,9 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | USA/California/El Dorado                        |                     5 |
 | USA/California/Fresno                           |                     2 |
 | USA/California/Glenn                            |                     1 |
-| USA/California/Imperial                         |                   198 |
+| USA/California/Imperial                         |                   201 |
 | USA/California/Kern                             |                     3 |
-| USA/California/Los Angeles                      |                   276 |
+| USA/California/Los Angeles                      |                   279 |
 | USA/California/Los Angeles County               |                    72 |
 | USA/California/Marin                            |                     2 |
 | USA/California/Modesto                          |                     1 |
@@ -71,10 +74,10 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | USA/California/Orange                           |                   152 |
 | USA/California/Orange County                    |                     9 |
 | USA/California/Placer                           |                     1 |
-| USA/California/Riverside                        |                   409 |
+| USA/California/Riverside                        |                   415 |
 | USA/California/Sacramento                       |                     2 |
 | USA/California/San Bernardino                   |                    43 |
-| USA/California/San Diego                        |                 67062 |
+| USA/California/San Diego                        |                 68246 |
 | USA/California/San Francisco                    |                    18 |
 | USA/California/San Mateo                        |                    53 |
 | USA/California/Santa Barbara                    |                     3 |
