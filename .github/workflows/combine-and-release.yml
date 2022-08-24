@@ -1,5 +1,8 @@
 name: Make fasta file
-on: [push]
+on: 
+  push:
+    branches:
+      - master
 jobs:
   make_fasta:
     runs-on: ubuntu-latest
