@@ -16,18 +16,18 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | Mexico/Baja California Sur/Los Cabos            |                     1 |
 | Mexico/Baja California/                         |                     1 |
 | Mexico/Baja California/Ensenada                 |                    58 |
-| Mexico/Baja California/Mexicali                 |                   421 |
+| Mexico/Baja California/Mexicali                 |                   426 |
 | Mexico/Baja California/Reforma                  |                     1 |
-| Mexico/Baja California/Rosarito                 |                    11 |
+| Mexico/Baja California/Rosarito                 |                    12 |
 | Mexico/Baja California/San Quintin              |                     1 |
 | Mexico/Baja California/Tecate                   |                     9 |
-| Mexico/Baja California/Tijuana                  |                  1409 |
+| Mexico/Baja California/Tijuana                  |                  1416 |
 | Mexico/Chiapas/Baja California                  |                     1 |
 | Mexico/Chihuahua                                |                     9 |
 | Mexico/Chihuahua/Chihuahua                      |                    40 |
-| Mexico/Chihuahua/Ciudad Juarez                  |                    57 |
-| Mexico/Coahuila/Saltillo                        |                   124 |
-| Mexico/Coahuila/Torreon                         |                   160 |
+| Mexico/Chihuahua/Ciudad Juarez                  |                    61 |
+| Mexico/Coahuila/Saltillo                        |                   129 |
+| Mexico/Coahuila/Torreon                         |                   164 |
 | Mexico/Durango/Durango                          |                     4 |
 | Mexico/Jalisco/Guadalajara                      |                    15 |
 | Mexico/Jalisco/Guadalajara Tetlan               |                     1 |
@@ -35,12 +35,12 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | Mexico/Jalisco/Vallarta                         |                    14 |
 | Mexico/Jalisco/Zapopan                          |                     4 |
 | Mexico/Nuevo Leon/Guadalupe                     |                    75 |
-| Mexico/Nuevo Leon/Monterrey                     |                   156 |
-| Mexico/Nuevo Leon/San Nicolas De Los Garza      |                   111 |
+| Mexico/Nuevo Leon/Monterrey                     |                   161 |
+| Mexico/Nuevo Leon/San Nicolas De Los Garza      |                   116 |
 | Mexico/Nuevo Leon/Santa Catarina                |                    45 |
-| Mexico/Sinaloa/Culiacan                         |                   362 |
-| Mexico/Sinaloa/Los Mochis                       |                   122 |
-| Mexico/Sinaloa/Mazatlan                         |                   106 |
+| Mexico/Sinaloa/Culiacan                         |                   385 |
+| Mexico/Sinaloa/Los Mochis                       |                   123 |
+| Mexico/Sinaloa/Mazatlan                         |                   107 |
 | Mexico/Sonora                                   |                    32 |
 | Mexico/Sonora/Hermosillo                        |                    62 |
 | Mexico/Sonora/Obregon                           |                    66 |
@@ -64,7 +64,7 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | USA/California/El Dorado                        |                     5 |
 | USA/California/Fresno                           |                     2 |
 | USA/California/Glenn                            |                     1 |
-| USA/California/Imperial                         |                   203 |
+| USA/California/Imperial                         |                   205 |
 | USA/California/Kern                             |                     3 |
 | USA/California/Los Angeles                      |                   293 |
 | USA/California/Los Angeles County               |                    72 |
@@ -74,10 +74,10 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | USA/California/Orange                           |                   157 |
 | USA/California/Orange County                    |                     9 |
 | USA/California/Placer                           |                     1 |
-| USA/California/Riverside                        |                   429 |
+| USA/California/Riverside                        |                   437 |
 | USA/California/Sacramento                       |                     2 |
 | USA/California/San Bernardino                   |                    46 |
-| USA/California/San Diego                        |                 71413 |
+| USA/California/San Diego                        |                 73779 |
 | USA/California/San Francisco                    |                    18 |
 | USA/California/San Mateo                        |                    53 |
 | USA/California/Santa Barbara                    |                     3 |
