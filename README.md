@@ -66,23 +66,23 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | USA/California/Glenn                            |                     1 |
 | USA/California/Imperial                         |                   205 |
 | USA/California/Kern                             |                     3 |
-| USA/California/Los Angeles                      |                   293 |
+| USA/California/Los Angeles                      |                   297 |
 | USA/California/Los Angeles County               |                    72 |
 | USA/California/Marin                            |                     2 |
 | USA/California/Modesto                          |                     1 |
 | USA/California/Monterey                         |                     1 |
-| USA/California/Orange                           |                   157 |
+| USA/California/Orange                           |                   160 |
 | USA/California/Orange County                    |                     9 |
 | USA/California/Placer                           |                     1 |
-| USA/California/Riverside                        |                   437 |
+| USA/California/Riverside                        |                   443 |
 | USA/California/Sacramento                       |                     2 |
 | USA/California/San Bernardino                   |                    46 |
-| USA/California/San Diego                        |                 73779 |
+| USA/California/San Diego                        |                 74014 |
 | USA/California/San Francisco                    |                    18 |
 | USA/California/San Mateo                        |                    53 |
-| USA/California/Santa Barbara                    |                     3 |
+| USA/California/Santa Barbara                    |                     4 |
 | USA/California/Santa Barbara                    |                     1 |
-| USA/California/Santa Clara                      |                     4 |
+| USA/California/Santa Clara                      |                     5 |
 | USA/California/Sonoma                           |                     1 |
 | USA/California/Sutter                           |                     1 |
 | USA/California/Tulare                           |                     1 |
@@ -105,6 +105,7 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | USA/Nevada/Clark                                |                     1 |
 | USA/Nevada/Douglas                              |                     1 |
 | USA/New Jersey/Monmouth                         |                     1 |
+| USA/New Jersey/Union                            |                     1 |
 | USA/New York/Dutchess                           |                     1 |
 | USA/New York/Orange                             |                     1 |
 | USA/New York/Warren                             |                     1 |
