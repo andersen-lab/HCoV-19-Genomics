@@ -99,20 +99,20 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | USA/California/El Dorado                        |                     5 |
 | USA/California/Fresno                           |                     2 |
 | USA/California/Glenn                            |                     1 |
-| USA/California/Imperial                         |                   218 |
+| USA/California/Imperial                         |                   219 |
 | USA/California/Kern                             |                     3 |
-| USA/California/Los Angeles                      |                   346 |
+| USA/California/Los Angeles                      |                   357 |
 | USA/California/Los Angeles County               |                    72 |
 | USA/California/Marin                            |                     2 |
 | USA/California/Modesto                          |                     1 |
 | USA/California/Monterey                         |                     1 |
-| USA/California/Orange                           |                   215 |
+| USA/California/Orange                           |                   229 |
 | USA/California/Orange County                    |                     9 |
 | USA/California/Placer                           |                     2 |
-| USA/California/Riverside                        |                   488 |
+| USA/California/Riverside                        |                   500 |
 | USA/California/Sacramento                       |                     3 |
-| USA/California/San Bernardino                   |                    53 |
-| USA/California/San Diego                        |                 78532 |
+| USA/California/San Bernardino                   |                    56 |
+| USA/California/San Diego                        |                 79581 |
 | USA/California/San Francisco                    |                    19 |
 | USA/California/San Mateo                        |                    57 |
 | USA/California/Santa Barbara                    |                     3 |
