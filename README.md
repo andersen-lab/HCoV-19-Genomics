@@ -112,7 +112,7 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | USA/California/Riverside                        |                   510 |
 | USA/California/Sacramento                       |                     3 |
 | USA/California/San Bernardino                   |                    57 |
-| USA/California/San Diego                        |                 80912 |
+| USA/California/San Diego                        |                 80933 |
 | USA/California/San Francisco                    |                    19 |
 | USA/California/San Mateo                        |                    57 |
 | USA/California/Santa Barbara                    |                     3 |
