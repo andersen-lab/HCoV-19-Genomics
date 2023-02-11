@@ -92,27 +92,27 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | USA/Arizona/Yuma                                |                     1 |
 | USA/California/Alameda                          |                     4 |
 | USA/California/City and County of San Francisco |                     1 |
-| USA/California/Contra Costa                     |                     5 |
+| USA/California/Contra Costa                     |                     6 |
 | USA/California/Cruise_Ship_1                    |                     8 |
 | USA/California/Cruise_Ship_2                    |                    32 |
 | USA/California/Davis                            |                     1 |
 | USA/California/El Dorado                        |                     5 |
 | USA/California/Fresno                           |                     2 |
 | USA/California/Glenn                            |                     1 |
-| USA/California/Imperial                         |                   240 |
-| USA/California/Kern                             |                     3 |
-| USA/California/Los Angeles                      |                   388 |
+| USA/California/Imperial                         |                   245 |
+| USA/California/Kern                             |                     5 |
+| USA/California/Los Angeles                      |                   391 |
 | USA/California/Los Angeles County               |                    72 |
 | USA/California/Marin                            |                     2 |
 | USA/California/Modesto                          |                     1 |
 | USA/California/Monterey                         |                     1 |
-| USA/California/Orange                           |                   250 |
+| USA/California/Orange                           |                   251 |
 | USA/California/Orange County                    |                     9 |
 | USA/California/Placer                           |                     2 |
-| USA/California/Riverside                        |                   545 |
+| USA/California/Riverside                        |                   552 |
 | USA/California/Sacramento                       |                     3 |
-| USA/California/San Bernardino                   |                    60 |
-| USA/California/San Diego                        |                 85535 |
+| USA/California/San Bernardino                   |                    62 |
+| USA/California/San Diego                        |                 85910 |
 | USA/California/San Francisco                    |                    19 |
 | USA/California/San Mateo                        |                    57 |
 | USA/California/Santa Barbara                    |                     3 |
