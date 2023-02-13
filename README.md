@@ -101,18 +101,18 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | USA/California/Glenn                            |                     1 |
 | USA/California/Imperial                         |                   245 |
 | USA/California/Kern                             |                     5 |
-| USA/California/Los Angeles                      |                   391 |
+| USA/California/Los Angeles                      |                   393 |
 | USA/California/Los Angeles County               |                    72 |
 | USA/California/Marin                            |                     2 |
 | USA/California/Modesto                          |                     1 |
 | USA/California/Monterey                         |                     1 |
-| USA/California/Orange                           |                   251 |
+| USA/California/Orange                           |                   252 |
 | USA/California/Orange County                    |                     9 |
 | USA/California/Placer                           |                     2 |
 | USA/California/Riverside                        |                   552 |
 | USA/California/Sacramento                       |                     3 |
 | USA/California/San Bernardino                   |                    62 |
-| USA/California/San Diego                        |                 85910 |
+| USA/California/San Diego                        |                 86033 |
 | USA/California/San Francisco                    |                    19 |
 | USA/California/San Mateo                        |                    57 |
 | USA/California/Santa Barbara                    |                     3 |
