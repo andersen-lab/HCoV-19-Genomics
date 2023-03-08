@@ -67,7 +67,7 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | Mexico/Sonora/Hermosillo                        |                    62 |
 | Mexico/Sonora/Obregon                           |                    66 |
 | Mexico/Sonora/San Luis Rio Colorado             |                    35 |
-| Mexico/Sonora/San Luis Río Colorado             |                     2 |
+| Mexico/Sonora/San Luis R������o Colorado        |                     2 |
 | Mexico/Tamaulipas/Reynosa                       |                     1 |
 | Mexico/Tijuana                                  |                     1 |
 | Mexico/Tlaxcala/Chiautempan                     |                     1 |
@@ -101,7 +101,7 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | USA/California/Glenn                            |                     1 |
 | USA/California/Imperial                         |                   245 |
 | USA/California/Kern                             |                     5 |
-| USA/California/Los Angeles                      |                   393 |
+| USA/California/Los Angeles                      |                   399 |
 | USA/California/Los Angeles County               |                    72 |
 | USA/California/Marin                            |                     2 |
 | USA/California/Modesto                          |                     1 |
@@ -109,14 +109,13 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | USA/California/Orange                           |                   252 |
 | USA/California/Orange County                    |                     9 |
 | USA/California/Placer                           |                     2 |
-| USA/California/Riverside                        |                   552 |
-| USA/California/Sacramento                       |                     3 |
-| USA/California/San Bernardino                   |                    62 |
-| USA/California/San Diego                        |                 86033 |
+| USA/California/Riverside                        |                   564 |
+| USA/California/Sacramento                       |                     5 |
+| USA/California/San Bernardino                   |                    63 |
+| USA/California/San Diego                        |                 87328 |
 | USA/California/San Francisco                    |                    19 |
 | USA/California/San Mateo                        |                    57 |
-| USA/California/Santa Barbara                    |                     3 |
-| USA/California/Santa Barbara                    |                     1 |
+| USA/California/Santa Barbara                    |                     4 |
 | USA/California/Santa Clara                      |                     6 |
 | USA/California/Solano                           |                     3 |
 | USA/California/Sonoma                           |                     1 |
