@@ -43,24 +43,25 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | Mexico/Baja California/Rosarito                 |                    12 |
 | Mexico/Baja California/San Quintin              |                     1 |
 | Mexico/Baja California/Tecate                   |                     9 |
-| Mexico/Baja California/Tijuana                  |                  1416 |
+| Mexico/Baja California/Tijuana                  |                  1449 |
 | Mexico/Chiapas/Baja California                  |                     1 |
 | Mexico/Chihuahua                                |                     9 |
 | Mexico/Chihuahua/Chihuahua                      |                    40 |
 | Mexico/Chihuahua/Ciudad Juarez                  |                    61 |
-| Mexico/Coahuila/Saltillo                        |                   129 |
-| Mexico/Coahuila/Torreon                         |                   164 |
+| Mexico/Coahuila/Saltillo                        |                   135 |
+| Mexico/Coahuila/Torreon                         |                   170 |
 | Mexico/Durango/Durango                          |                     4 |
-| Mexico/Jalisco/Guadalajara                      |                    15 |
+| Mexico/Jalisco/Guadalajara                      |                    93 |
 | Mexico/Jalisco/Guadalajara Tetlan               |                     1 |
 | Mexico/Jalisco/Puerto Vallarta                  |                    53 |
 | Mexico/Jalisco/Vallarta                         |                    14 |
 | Mexico/Jalisco/Zapopan                          |                     4 |
 | Mexico/Nuevo Leon/Guadalupe                     |                    75 |
-| Mexico/Nuevo Leon/Monterrey                     |                   161 |
+| Mexico/Nuevo Leon/Monterrey                     |                   195 |
 | Mexico/Nuevo Leon/San Nicolas De Los Garza      |                   116 |
+| Mexico/Nuevo Leon/San Nicolas de los Garza      |                    65 |
 | Mexico/Nuevo Leon/Santa Catarina                |                    45 |
-| Mexico/Sinaloa/Culiacan                         |                   385 |
+| Mexico/Sinaloa/Culiacan                         |                   453 |
 | Mexico/Sinaloa/Los Mochis                       |                   123 |
 | Mexico/Sinaloa/Mazatlan                         |                   107 |
 | Mexico/Sonora                                   |                    32 |
@@ -91,6 +92,7 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | USA/Arizona/Pima                                |                     3 |
 | USA/Arizona/Yuma                                |                     1 |
 | USA/California/Alameda                          |                     4 |
+| USA/California/Bellflower                       |                     1 |
 | USA/California/City and County of San Francisco |                     1 |
 | USA/California/Contra Costa                     |                     6 |
 | USA/California/Cruise_Ship_1                    |                     8 |
@@ -99,21 +101,22 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | USA/California/El Dorado                        |                     5 |
 | USA/California/Fresno                           |                     2 |
 | USA/California/Glenn                            |                     1 |
-| USA/California/Imperial                         |                   245 |
+| USA/California/Imperial                         |                   249 |
+| USA/California/Inglewood                        |                     1 |
 | USA/California/Kern                             |                     5 |
 | USA/California/Long Beach                       |                     1 |
 | USA/California/Los Angeles                      |                   401 |
 | USA/California/Los Angeles County               |                    72 |
 | USA/California/Marin                            |                     2 |
 | USA/California/Modesto                          |                     1 |
-| USA/California/Monterey                         |                     1 |
+| USA/California/Monterey                         |                     2 |
 | USA/California/Orange                           |                   253 |
 | USA/California/Orange County                    |                     9 |
 | USA/California/Placer                           |                     2 |
-| USA/California/Riverside                        |                   565 |
+| USA/California/Riverside                        |                   566 |
 | USA/California/Sacramento                       |                     5 |
-| USA/California/San Bernardino                   |                    63 |
-| USA/California/San Diego                        |                 87493 |
+| USA/California/San Bernardino                   |                    64 |
+| USA/California/San Diego                        |                 87814 |
 | USA/California/San Francisco                    |                    19 |
 | USA/California/San Mateo                        |                    57 |
 | USA/California/Santa Barbara                    |                     4 |
