@@ -105,18 +105,20 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | USA/California/Inglewood                        |                     1 |
 | USA/California/Kern                             |                     5 |
 | USA/California/Long Beach                       |                     1 |
-| USA/California/Los Angeles                      |                   401 |
+| USA/California/Los Angeles                      |                   402 |
 | USA/California/Los Angeles County               |                    72 |
 | USA/California/Marin                            |                     2 |
 | USA/California/Modesto                          |                     1 |
 | USA/California/Monterey                         |                     2 |
+| USA/California/Murrieta                         |                     1 |
 | USA/California/Orange                           |                   253 |
 | USA/California/Orange County                    |                     9 |
 | USA/California/Placer                           |                     2 |
-| USA/California/Riverside                        |                   566 |
+| USA/California/RIverside                        |                     1 |
+| USA/California/Riverside                        |                   567 |
 | USA/California/Sacramento                       |                     5 |
 | USA/California/San Bernardino                   |                    64 |
-| USA/California/San Diego                        |                 87814 |
+| USA/California/San Diego                        |                 88141 |
 | USA/California/San Francisco                    |                    19 |
 | USA/California/San Mateo                        |                    57 |
 | USA/California/Santa Barbara                    |                     4 |
