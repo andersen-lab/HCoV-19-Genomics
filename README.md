@@ -91,7 +91,7 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | USA/Arizona/Maricopa                            |                     2 |
 | USA/Arizona/Pima                                |                     3 |
 | USA/Arizona/Yuma                                |                     1 |
-| USA/California/Alameda                          |                     4 |
+| USA/California/Alameda                          |                     5 |
 | USA/California/Bellflower                       |                     1 |
 | USA/California/City and County of San Francisco |                     1 |
 | USA/California/Contra Costa                     |                     6 |
@@ -101,11 +101,12 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | USA/California/El Dorado                        |                     5 |
 | USA/California/Fresno                           |                     2 |
 | USA/California/Glenn                            |                     1 |
-| USA/California/Imperial                         |                   249 |
+| USA/California/Humboldt                         |                     1 |
+| USA/California/Imperial                         |                   253 |
 | USA/California/Inglewood                        |                     1 |
 | USA/California/Kern                             |                     5 |
 | USA/California/Long Beach                       |                     1 |
-| USA/California/Los Angeles                      |                   402 |
+| USA/California/Los Angeles                      |                   405 |
 | USA/California/Los Angeles County               |                    72 |
 | USA/California/Marin                            |                     2 |
 | USA/California/Modesto                          |                     1 |
@@ -115,10 +116,10 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | USA/California/Orange County                    |                     9 |
 | USA/California/Placer                           |                     2 |
 | USA/California/RIverside                        |                     1 |
-| USA/California/Riverside                        |                   567 |
+| USA/California/Riverside                        |                   571 |
 | USA/California/Sacramento                       |                     5 |
 | USA/California/San Bernardino                   |                    64 |
-| USA/California/San Diego                        |                 88141 |
+| USA/California/San Diego                        |                 88677 |
 | USA/California/San Francisco                    |                    19 |
 | USA/California/San Mateo                        |                    57 |
 | USA/California/Santa Barbara                    |                     4 |
