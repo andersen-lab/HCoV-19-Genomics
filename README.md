@@ -91,7 +91,7 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | USA/Arizona/Maricopa                            |                     2 |
 | USA/Arizona/Pima                                |                     3 |
 | USA/Arizona/Yuma                                |                     1 |
-| USA/California/Alameda                          |                     6 |
+| USA/California/Alameda                          |                     8 |
 | USA/California/Bellflower                       |                     1 |
 | USA/California/City and County of San Francisco |                     1 |
 | USA/California/Contra Costa                     |                     6 |
@@ -102,24 +102,25 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | USA/California/Fresno                           |                     2 |
 | USA/California/Glenn                            |                     1 |
 | USA/California/Humboldt                         |                     1 |
-| USA/California/Imperial                         |                   254 |
+| USA/California/Imperial                         |                   260 |
 | USA/California/Inglewood                        |                     1 |
 | USA/California/Kern                             |                     5 |
 | USA/California/Long Beach                       |                     1 |
-| USA/California/Los Angeles                      |                   406 |
+| USA/California/Los Angeles                      |                   414 |
 | USA/California/Los Angeles County               |                    72 |
 | USA/California/Marin                            |                     2 |
 | USA/California/Modesto                          |                     1 |
 | USA/California/Monterey                         |                     2 |
 | USA/California/Murrieta                         |                     2 |
-| USA/California/Orange                           |                   255 |
+| USA/California/Napa                             |                     1 |
+| USA/California/Orange                           |                   258 |
 | USA/California/Orange County                    |                     9 |
-| USA/California/Placer                           |                     2 |
+| USA/California/Placer                           |                     8 |
 | USA/California/RIverside                        |                     1 |
-| USA/California/Riverside                        |                   574 |
+| USA/California/Riverside                        |                   580 |
 | USA/California/Sacramento                       |                     5 |
-| USA/California/San Bernardino                   |                    64 |
-| USA/California/San Diego                        |                 89068 |
+| USA/California/San Bernardino                   |                    65 |
+| USA/California/San Diego                        |                 89394 |
 | USA/California/San Francisco                    |                    19 |
 | USA/California/San Mateo                        |                    57 |
 | USA/California/Santa Barbara                    |                     4 |
