@@ -102,11 +102,11 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | USA/California/Fresno                           |                     2 |
 | USA/California/Glenn                            |                     1 |
 | USA/California/Humboldt                         |                     1 |
-| USA/California/Imperial                         |                   260 |
+| USA/California/Imperial                         |                   261 |
 | USA/California/Inglewood                        |                     1 |
 | USA/California/Kern                             |                     5 |
 | USA/California/Long Beach                       |                     1 |
-| USA/California/Los Angeles                      |                   416 |
+| USA/California/Los Angeles                      |                   417 |
 | USA/California/Los Angeles County               |                    72 |
 | USA/California/Marin                            |                     2 |
 | USA/California/Modesto                          |                     1 |
@@ -117,10 +117,10 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | USA/California/Orange County                    |                     9 |
 | USA/California/Placer                           |                    11 |
 | USA/California/RIverside                        |                     1 |
-| USA/California/Riverside                        |                   582 |
+| USA/California/Riverside                        |                   585 |
 | USA/California/Sacramento                       |                     5 |
-| USA/California/San Bernardino                   |                    66 |
-| USA/California/San Diego                        |                 89686 |
+| USA/California/San Bernardino                   |                    67 |
+| USA/California/San Diego                        |                 90086 |
 | USA/California/San Francisco                    |                    20 |
 | USA/California/San Mateo                        |                    57 |
 | USA/California/Santa Barbara                    |                     4 |
