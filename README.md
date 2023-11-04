@@ -91,6 +91,7 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | USA/Arizona/Maricopa                            |                     2 |
 | USA/Arizona/Pima                                |                     3 |
 | USA/Arizona/Yuma                                |                     1 |
+| USA/California/                                 |                     2 |
 | USA/California/Alameda                          |                    10 |
 | USA/California/Bellflower                       |                     1 |
 | USA/California/City and County of San Francisco |                     1 |
@@ -106,7 +107,7 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | USA/California/Inglewood                        |                     1 |
 | USA/California/Kern                             |                     5 |
 | USA/California/Long Beach                       |                     1 |
-| USA/California/Los Angeles                      |                   424 |
+| USA/California/Los Angeles                      |                   426 |
 | USA/California/Los Angeles County               |                    72 |
 | USA/California/Marin                            |                     2 |
 | USA/California/Modesto                          |                     1 |
@@ -120,9 +121,9 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | USA/California/Riverside                        |                   592 |
 | USA/California/Sacramento                       |                     5 |
 | USA/California/San Bernardino                   |                    73 |
-| USA/California/San Diego                        |                 90563 |
+| USA/California/San Diego                        |                 90823 |
 | USA/California/San Francisco                    |                    20 |
-| USA/California/San Mateo                        |                    57 |
+| USA/California/San Mateo                        |                    58 |
 | USA/California/Santa Barbara                    |                     4 |
 | USA/California/Santa Clara                      |                     7 |
 | USA/California/Solano                           |                     3 |
