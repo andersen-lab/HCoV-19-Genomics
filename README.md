@@ -103,11 +103,11 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | USA/California/Fresno                           |                     2 |
 | USA/California/Glenn                            |                     1 |
 | USA/California/Humboldt                         |                     1 |
-| USA/California/Imperial                         |                   263 |
+| USA/California/Imperial                         |                   264 |
 | USA/California/Inglewood                        |                     1 |
 | USA/California/Kern                             |                     5 |
 | USA/California/Long Beach                       |                     1 |
-| USA/California/Los Angeles                      |                   430 |
+| USA/California/Los Angeles                      |                   431 |
 | USA/California/Los Angeles                      |                     1 |
 | USA/California/Los Angeles County               |                    72 |
 | USA/California/Marin                            |                     2 |
@@ -115,14 +115,14 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | USA/California/Monterey                         |                     2 |
 | USA/California/Murrieta                         |                     2 |
 | USA/California/Napa                             |                     1 |
-| USA/California/Orange                           |                   265 |
+| USA/California/Orange                           |                   266 |
 | USA/California/Orange County                    |                     9 |
 | USA/California/Placer                           |                    11 |
 | USA/California/RIverside                        |                     1 |
-| USA/California/Riverside                        |                   593 |
+| USA/California/Riverside                        |                   597 |
 | USA/California/Sacramento                       |                     5 |
-| USA/California/San Bernardino                   |                    74 |
-| USA/California/San Diego                        |                 91941 |
+| USA/California/San Bernardino                   |                    75 |
+| USA/California/San Diego                        |                 92086 |
 | USA/California/San Francisco                    |                    20 |
 | USA/California/San Mateo                        |                    58 |
 | USA/California/Santa Barbara                    |                     4 |
