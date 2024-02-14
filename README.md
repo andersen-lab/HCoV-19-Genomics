@@ -92,7 +92,7 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | USA/Arizona/Pima                                |                     3 |
 | USA/Arizona/Yuma                                |                     1 |
 | USA/California/                                 |                     2 |
-| USA/California/Alameda                          |                    12 |
+| USA/California/Alameda                          |                    13 |
 | USA/California/Bellflower                       |                     1 |
 | USA/California/City and County of San Francisco |                     1 |
 | USA/California/Contra Costa                     |                     6 |
@@ -103,13 +103,14 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | USA/California/Fresno                           |                     2 |
 | USA/California/Glenn                            |                     1 |
 | USA/California/Humboldt                         |                     1 |
-| USA/California/Imperial                         |                   264 |
+| USA/California/Imperial                         |                   266 |
 | USA/California/Inglewood                        |                     1 |
 | USA/California/Kern                             |                     5 |
 | USA/California/Long Beach                       |                     1 |
-| USA/California/Los Angeles                      |                   431 |
+| USA/California/Los Angeles                      |                   432 |
 | USA/California/Los Angeles                      |                     1 |
 | USA/California/Los Angeles County               |                    72 |
+| USA/California/Madera                           |                     1 |
 | USA/California/Marin                            |                     2 |
 | USA/California/Modesto                          |                     1 |
 | USA/California/Monterey                         |                     2 |
@@ -122,7 +123,7 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | USA/California/Riverside                        |                   597 |
 | USA/California/Sacramento                       |                     5 |
 | USA/California/San Bernardino                   |                    75 |
-| USA/California/San Diego                        |                 92086 |
+| USA/California/San Diego                        |                 92582 |
 | USA/California/San Francisco                    |                    20 |
 | USA/California/San Mateo                        |                    58 |
 | USA/California/Santa Barbara                    |                     4 |
