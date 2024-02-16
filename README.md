@@ -107,11 +107,12 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | USA/California/Inglewood                        |                     1 |
 | USA/California/Kern                             |                     5 |
 | USA/California/Long Beach                       |                     1 |
-| USA/California/Los Angeles                      |                   434 |
+| USA/California/Los Angeles                      |                   436 |
 | USA/California/Los Angeles                      |                     1 |
 | USA/California/Los Angeles County               |                    72 |
 | USA/California/Madera                           |                     1 |
 | USA/California/Marin                            |                     2 |
+| USA/California/Mariposa                         |                     1 |
 | USA/California/Modesto                          |                     1 |
 | USA/California/Monterey                         |                     2 |
 | USA/California/Murrieta                         |                     2 |
@@ -120,21 +121,22 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | USA/California/Orange County                    |                     9 |
 | USA/California/Placer                           |                    11 |
 | USA/California/RIverside                        |                     1 |
-| USA/California/Riverside                        |                   598 |
+| USA/California/Riverside                        |                   599 |
 | USA/California/Sacramento                       |                     6 |
-| USA/California/San Bernardino                   |                    75 |
-| USA/California/San Diego                        |                 93024 |
+| USA/California/San Bernardino                   |                    76 |
+| USA/California/San Diego                        |                 93629 |
 | USA/California/San Francisco                    |                    20 |
-| USA/California/San Mateo                        |                    58 |
-| USA/California/Santa Barbara                    |                     4 |
+| USA/California/San Mateo                        |                    59 |
+| USA/California/Santa Barbara                    |                     5 |
 | USA/California/Santa Clara                      |                     8 |
+| USA/California/Santa Cruz                       |                     1 |
 | USA/California/Solano                           |                     3 |
 | USA/California/Sonoma                           |                     1 |
 | USA/California/Stanislaus                       |                     1 |
 | USA/California/Sutter                           |                     1 |
 | USA/California/Temecula                         |                     1 |
 | USA/California/Tulare                           |                     1 |
-| USA/California/Ventura                          |                     4 |
+| USA/California/Ventura                          |                     5 |
 | USA/Colorado/Boulder                            |                     1 |
 | USA/Florida/Saint Johns                         |                     1 |
 | USA/Hawaii/Honolulu                             |                     1 |
