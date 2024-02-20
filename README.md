@@ -103,11 +103,11 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | USA/California/Fresno                           |                     2 |
 | USA/California/Glenn                            |                     1 |
 | USA/California/Humboldt                         |                     1 |
-| USA/California/Imperial                         |                   269 |
+| USA/California/Imperial                         |                   270 |
 | USA/California/Inglewood                        |                     1 |
 | USA/California/Kern                             |                     5 |
 | USA/California/Long Beach                       |                     1 |
-| USA/California/Los Angeles                      |                   439 |
+| USA/California/Los Angeles                      |                   440 |
 | USA/California/Los Angeles                      |                     1 |
 | USA/California/Los Angeles County               |                    72 |
 | USA/California/Madera                           |                     1 |
@@ -121,10 +121,10 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | USA/California/Orange County                    |                     9 |
 | USA/California/Placer                           |                    11 |
 | USA/California/RIverside                        |                     1 |
-| USA/California/Riverside                        |                   602 |
+| USA/California/Riverside                        |                   605 |
 | USA/California/Sacramento                       |                     6 |
 | USA/California/San Bernardino                   |                    76 |
-| USA/California/San Diego                        |                 94214 |
+| USA/California/San Diego                        |                 94703 |
 | USA/California/San Francisco                    |                    20 |
 | USA/California/San Mateo                        |                    59 |
 | USA/California/Santa Barbara                    |                     5 |
