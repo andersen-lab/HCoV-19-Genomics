@@ -99,6 +99,7 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | USA/California/Cruise_Ship_1                    |                     8 |
 | USA/California/Cruise_Ship_2                    |                    32 |
 | USA/California/Davis                            |                     1 |
+| USA/California/Downey                           |                     1 |
 | USA/California/El Dorado                        |                     5 |
 | USA/California/Fresno                           |                     2 |
 | USA/California/Glenn                            |                     1 |
@@ -121,10 +122,10 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | USA/California/Orange County                    |                     9 |
 | USA/California/Placer                           |                    11 |
 | USA/California/RIverside                        |                     1 |
-| USA/California/Riverside                        |                   639 |
+| USA/California/Riverside                        |                   640 |
 | USA/California/Sacramento                       |                     6 |
 | USA/California/San Bernardino                   |                    84 |
-| USA/California/San Diego                        |                 96329 |
+| USA/California/San Diego                        |                 96387 |
 | USA/California/San Francisco                    |                    20 |
 | USA/California/San Mateo                        |                    59 |
 | USA/California/Santa Barbara                    |                     5 |
