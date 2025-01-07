@@ -115,17 +115,17 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | USA/California/Marin                            |                     2 |
 | USA/California/Mariposa                         |                     1 |
 | USA/California/Modesto                          |                     1 |
-| USA/California/Monterey                         |                     2 |
+| USA/California/Monterey                         |                     3 |
 | USA/California/Murrieta                         |                     2 |
 | USA/California/Napa                             |                     1 |
 | USA/California/Orange                           |                   281 |
 | USA/California/Orange County                    |                     9 |
 | USA/California/Placer                           |                    11 |
 | USA/California/RIverside                        |                     1 |
-| USA/California/Riverside                        |                   651 |
+| USA/California/Riverside                        |                   653 |
 | USA/California/Sacramento                       |                     7 |
 | USA/California/San Bernardino                   |                    86 |
-| USA/California/San Diego                        |                 97948 |
+| USA/California/San Diego                        |                 98203 |
 | USA/California/San Francisco                    |                    20 |
 | USA/California/San Mateo                        |                    59 |
 | USA/California/Santa Barbara                    |                     6 |
