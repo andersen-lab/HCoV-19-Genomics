@@ -122,10 +122,10 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | USA/California/Orange County                    |                     9 |
 | USA/California/Placer                           |                    11 |
 | USA/California/RIverside                        |                     1 |
-| USA/California/Riverside                        |                   653 |
+| USA/California/Riverside                        |                   655 |
 | USA/California/Sacramento                       |                     7 |
 | USA/California/San Bernardino                   |                    86 |
-| USA/California/San Diego                        |                 98203 |
+| USA/California/San Diego                        |                 98352 |
 | USA/California/San Francisco                    |                    20 |
 | USA/California/San Mateo                        |                    59 |
 | USA/California/Santa Barbara                    |                     6 |
