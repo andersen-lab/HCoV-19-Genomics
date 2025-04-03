@@ -88,62 +88,64 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | Texas/Collin                                    |                     1 |
 | Texas/Fort Bend                                 |                     1 |
 | USA/Alaska/Anchorage Municipality               |                     1 |
-| USA/Arizona/Maricopa                            |                     2 |
+| USA/Arizona/Maricopa                            |                     5 |
 | USA/Arizona/Pima                                |                     3 |
-| USA/Arizona/Yuma                                |                     1 |
+| USA/Arizona/Yuma                                |                     2 |
 | USA/California/                                 |                     2 |
-| USA/California/Alameda                          |                    20 |
+| USA/California/Alameda                          |                    16 |
 | USA/California/Bellflower                       |                     1 |
-| USA/California/City and County of San Francisco |                     3 |
-| USA/California/Contra Costa                     |                     9 |
+| USA/California/City and County of San Francisco |                     1 |
+| USA/California/Contra Costa                     |                     7 |
 | USA/California/Cruise_Ship_1                    |                     8 |
 | USA/California/Cruise_Ship_2                    |                    32 |
 | USA/California/Davis                            |                     1 |
 | USA/California/Downey                           |                     1 |
-| USA/California/El Dorado                        |                     5 |
-| USA/California/Fresno                           |                     3 |
-| USA/California/Glenn                            |                     2 |
+| USA/California/El Dorado                        |                     6 |
+| USA/California/Fresno                           |                     4 |
+| USA/California/Glenn                            |                     1 |
 | USA/California/Humboldt                         |                     1 |
-| USA/California/Imperial                         |                   284 |
+| USA/California/Imperial                         |                   292 |
 | USA/California/Inglewood                        |                     1 |
-| USA/California/Kern                             |                     5 |
+| USA/California/Kern                             |                     6 |
 | USA/California/Long Beach                       |                     1 |
-| USA/California/Los Angeles                      |                   520 |
+| USA/California/Los Angeles                      |                   508 |
 | USA/California/Los Angeles                      |                     1 |
 | USA/California/Los Angeles County               |                    72 |
 | USA/California/Madera                           |                     1 |
 | USA/California/Marin                            |                     2 |
-| USA/California/Mariposa                         |                     1 |
+| USA/California/Mariposa                         |                     3 |
 | USA/California/Modesto                          |                     1 |
 | USA/California/Monterey                         |                     3 |
 | USA/California/Murrieta                         |                     2 |
 | USA/California/Napa                             |                     1 |
-| USA/California/Orange                           |                   292 |
+| USA/California/Orange                           |                   289 |
 | USA/California/Orange County                    |                     9 |
-| USA/California/Placer                           |                    12 |
+| USA/California/Placer                           |                    13 |
 | USA/California/RIverside                        |                     1 |
-| USA/California/Riverside                        |                   660 |
-| USA/California/Sacramento                       |                     8 |
-| USA/California/San Bernardino                   |                    88 |
-| USA/California/San Diego                        |                 98922 |
+| USA/California/Riverside                        |                   683 |
+| USA/California/Sacramento                       |                    13 |
+| USA/California/San Bernardino                   |                    90 |
+| USA/California/San Diego                        |                 99118 |
 | USA/California/San Francisco                    |                    20 |
 | USA/California/San Mateo                        |                    61 |
-| USA/California/Santa Barbara                    |                     6 |
-| USA/California/Santa Clara                      |                    15 |
-| USA/California/Santa Cruz                       |                     3 |
+| USA/California/Santa Barbara                    |                     7 |
+| USA/California/Santa Clara                      |                    12 |
+| USA/California/Santa Cruz                       |                     1 |
 | USA/California/Solano                           |                     3 |
 | USA/California/Sonoma                           |                     1 |
 | USA/California/Stanislaus                       |                     1 |
 | USA/California/Sutter                           |                     1 |
 | USA/California/Temecula                         |                     1 |
 | USA/California/Tulare                           |                     1 |
-| USA/California/Ventura                          |                     8 |
-| USA/California/Yolo                             |                     1 |
+| USA/California/Ventura                          |                     5 |
 | USA/Colorado/Boulder                            |                     1 |
-| USA/District of Columbia/District of Columbia   |                     1 |
+| USA/Colorado/Larimer                            |                     1 |
+| USA/Florida/Miami-Dade                          |                     1 |
+| USA/Florida/Osceola                             |                     1 |
+| USA/Florida/Palm Beach                          |                     1 |
 | USA/Florida/Saint Johns                         |                     1 |
-| USA/Hawaii/Honolulu                             |                     1 |
-| USA/Idaho/Ada                                   |                     1 |
+| USA/Hawaii/Honolulu                             |                     2 |
+| USA/Idaho/Ada                                   |                     2 |
 | USA/Illinois/Cook                               |                     2 |
 | USA/Illinois/DuPage                             |                     2 |
 | USA/Illinois/Rock Island                        |                     1 |
@@ -151,13 +153,14 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | USA/Kentucky/Jefferson                          |                     1 |
 | USA/Louisiana/New Orleans                       |                   143 |
 | USA/Maryland/Anne Arundel                       |                     1 |
+| USA/Maryland/Baltimore                          |                     1 |
 | USA/Maryland/Montgomery                         |                     1 |
 | USA/Massachusetts/Middlesex                     |                     1 |
 | USA/Michigan/Wayne                              |                     1 |
 | USA/Minnesota/Anoka                             |                     1 |
 | USA/Minnesota/Ramsey                            |                     1 |
 | USA/Missouri/St. Louis                          |                     1 |
-| USA/Nevada/Clark                                |                     1 |
+| USA/Nevada/Clark                                |                     4 |
 | USA/Nevada/Douglas                              |                     1 |
 | USA/New Jersey/Monmouth                         |                     1 |
 | USA/New York/Dutchess                           |                     1 |
@@ -168,19 +171,20 @@ All consensus sequences will be deposited on GISAID and on NCBI under BioProject
 | USA/Ohio/Clark                                  |                     1 |
 | USA/Ohio/Hamilton                               |                     1 |
 | USA/Oklahoma/Tulsa                              |                     1 |
-| USA/Oregon/Clackamas                            |                     1 |
 | USA/Oregon/Klamath                              |                     1 |
 | USA/Pennsylvania/Allegheny                      |                     2 |
 | USA/Pennsylvania/Erie                           |                     1 |
-| USA/Pennsylvania/Montgomery                     |                     1 |
+| USA/Pennsylvania/Montgomery                     |                     2 |
 | USA/South Carolina/Spartanburg                  |                     1 |
 | USA/Tennessee/Grainger                          |                     1 |
 | USA/Tennessee/Sumner                            |                     1 |
 | USA/Texas/Bell                                  |                     1 |
+| USA/Texas/Harris                                |                     1 |
 | USA/Texas/Montgomery                            |                     2 |
-| USA/Utah/Salt Lake                              |                     2 |
+| USA/Utah/Salt Lake                              |                     1 |
 | USA/Virginia/Fairfax                            |                     1 |
-| USA/Washington/King                             |                     4 |
+| USA/Washington/Cowlitz                          |                     1 |
+| USA/Washington/King                             |                     5 |
 | USA/Washington/Kitsap                           |                     1 |
 | USA/West Virginia/Kanawha                       |                     1 |
 | USA/Wisconsin/Bayfield                          |                     1 |
